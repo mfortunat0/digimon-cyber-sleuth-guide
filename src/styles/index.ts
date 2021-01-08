@@ -91,8 +91,8 @@ const EvoltutionTitle = styled.h3`
 `;
 
 const EvoltuionImages = styled.div<IProfileImage>`
-  height: 9vh;
-  width: 9vh;
+  height: 7vh;
+  width: 7vh;
   background-image: url(${(props) => props.source});
   background-size: cover;
   border-radius: 4px;
@@ -107,20 +107,17 @@ const EvoltuionImages = styled.div<IProfileImage>`
 
 const EvolutionContainer = styled.div<IContainer>`
   width: 50%;
-  transition: all 0.3s;
-  visibility: ${(props) => (props.show ? "visible" : "hidden")};
-  opacity: ${(props) => (props.show ? "1" : "0")};
+  padding: 0px 10px 0px 10px;
+  transition: opacity 1s;
+  display: ${(props) => (props.show ? "inline-block" : "none")};
 `;
 
 const DescribeContainer = styled.div<IContainer>`
   width: 100%;
-  position: fixed;
-  transition: all 0.3s;
-  visibility: ${(props) => (props.show ? "visible" : "hidden")};
-  opacity: ${(props) => (props.show ? "1" : "0")};
-  width: 425px;
+  transition: opacity 0.3s;
+  display: ${(props) => (props.show ? "inline-block" : "none")};
   @media (max-width: 425px) {
-    width: 85vw;
+    width: 78vw;
   }
   padding-right: 3vw;
 `;

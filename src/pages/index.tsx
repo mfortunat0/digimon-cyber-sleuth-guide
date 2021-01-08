@@ -27,10 +27,14 @@ export default function Home() {
           href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,700;1,300&display=swap"
           rel="stylesheet"
         />
+        <meta name="viewport" content="initial-scale=1.0, width=device-width" />
       </Head>
       <Row justifyContent="center ">
-        <TextField />
+        <TextField list="digimons" />
         <Button>Search</Button>
+        <datalist id="digimons">
+          <option value="Agumon" />
+        </datalist>
       </Row>
       <Row justifyContent="center">
         <CardContainer>
