@@ -1,1 +1,0 @@
-# Digimon Cyber Sleuth Guia
