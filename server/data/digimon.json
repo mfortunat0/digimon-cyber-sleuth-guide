@@ -25,7 +25,8 @@
                 "inherit": "No",
                 "description": "Magic attack, 30 Dark damage to one foe"
             }
-        ]
+        ],
+        "requirements": ""
     },
     {
         "id": "002",
@@ -53,7 +54,8 @@
                 "inherit": "No",
                 "description": "Physical attack, 25 Plant damage to one foe. 10% chance of reducing target's SPD by 10%"
             }
-        ]
+        ],
+        "requirements": ""
     },
     {
         "id": "003",
@@ -80,7 +82,8 @@
                 "inherit": "No",
                 "description": "Magic attack, 30 Water damage to one foe"
             }
-        ]
+        ],
+        "requirements": ""
     },
     {
         "id": "004",
@@ -107,7 +110,8 @@
                 "inherit": "No",
                 "description": "Magic attack, 30 Water damage to one foe"
             }
-        ]
+        ],
+        "requirements": ""
     },
     {
         "id": "005",
@@ -134,7 +138,8 @@
                 "inherit": "No",
                 "description": "Magic attack, 35 Water damage to one foe"
             }
-        ]
+        ],
+        "requirements": ""
     },
     {
         "id": "006",
@@ -172,7 +177,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 50 Neutral damage to one foe. Absorb 10% SP"
             }
-        ]
+        ],
+        "requirements": "Level: 8 ATK: 55, ABI: 5, Cleared \"Hacker's Memory\""
     },
     {
         "id": "007",
@@ -215,7 +221,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 65 Fire damage to one foe. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 3 ATK: 15"
     },
     {
         "id": "008",
@@ -256,7 +263,8 @@
                 "inherit": "Yes",
                 "description": "Magic attack, 55 Plant damage to one foe. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 5"
     },
     {
         "id": "009",
@@ -299,7 +307,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 65 Earth damage to one foe. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 5"
     },
     {
         "id": "010",
@@ -340,7 +349,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 65 Dark damage to one foe. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 5"
     },
     {
         "id": "011",
@@ -382,7 +392,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 70 Neutral damage to one foe. Always Hits"
             }
-        ]
+        ],
+        "requirements": "Level: 5"
     },
     {
         "id": "012",
@@ -423,7 +434,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 65 Light damage to one foe. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 3 INT: 10"
     },
     {
         "id": "013",
@@ -464,7 +476,8 @@
                 "inherit": "Yes",
                 "description": "Magic attack, 55 Dark damage to one foe. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 5"
     },
     {
         "id": "014",
@@ -505,7 +518,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 65 Plant damage to one foe. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 3 HP: 50"
     },
     {
         "id": "015",
@@ -546,7 +560,8 @@
                 "inherit": "Yes",
                 "description": "Magic attack, 55 Water damage to one foe. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 3 INT: 15"
     },
     {
         "id": "016",
@@ -587,7 +602,8 @@
                 "inherit": "Yes",
                 "description": "Magic attack, 60 Neutral damage to one foe. Always Hits"
             }
-        ]
+        ],
+        "requirements": "Level: 3 DEF: 15"
     },
     {
         "id": "017",
@@ -628,7 +644,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 65 Wind damage to one foe. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 5"
     },
     {
         "id": "018",
@@ -681,7 +698,8 @@
                 "inherit": "Yes",
                 "description": "Increases ATK of one member by 10%"
             }
-        ]
+        ],
+        "requirements": "Level: 9 ATK: 30, CAM: 10%"
     },
     {
         "id": "019",
@@ -734,7 +752,8 @@
                 "inherit": "Yes",
                 "description": "Increases DEF of one member by 10%"
             }
-        ]
+        ],
+        "requirements": "Level: 8 ATK: 30"
     },
     {
         "id": "020",
@@ -784,7 +803,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 65 Dark damage to one foe. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": ""
     },
     {
         "id": "021",
@@ -837,7 +857,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 40 Earth damage to one foe. Stuns target. 70% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 7 HP: 75, DEF: 20, CAM: 10%"
     },
     {
         "id": "022",
@@ -890,7 +911,8 @@
                 "inherit": "Yes",
                 "description": "Magic attack, 30 Water damage to one foe. Puts target to sleep. 70% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 7 SP: 20, INT: 30"
     },
     {
         "id": "023",
@@ -943,7 +965,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 40 Thunder damage to one foe. Paralyzes target. 70% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 7 HP: 75, SP: 20, SPD: 20"
     },
     {
         "id": "024",
@@ -996,7 +1019,8 @@
                 "inherit": "Yes",
                 "description": "Recover Sleep from one party member and restore some HP"
             }
-        ]
+        ],
+        "requirements": "Level: 7 INT: 20"
     },
     {
         "id": "025",
@@ -1049,7 +1073,8 @@
                 "inherit": "Yes",
                 "description": "Increases EVA of one battle member by 10%"
             }
-        ]
+        ],
+        "requirements": "Level: 9 ATK: 20, SPD: 20, CAM: 10%"
     },
     {
         "id": "026",
@@ -1102,7 +1127,8 @@
                 "inherit": "Yes",
                 "description": "Magic attack, 30 Fire damage to one foe. Confuses target. 70% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 9 ATK: 15, SPD: 20"
     },
     {
         "id": "027",
@@ -1155,7 +1181,8 @@
                 "inherit": "Yes",
                 "description": "Recover Stun from one party member and restore some HP"
             }
-        ]
+        ],
+        "requirements": "Level: 7 HP: 75, ATK: 20, SPD: 20"
     },
     {
         "id": "028",
@@ -1207,7 +1234,8 @@
                 "inherit": "Yes",
                 "description": "Recover Panic from one party member and restore some HP"
             }
-        ]
+        ],
+        "requirements": "Level: 6 HP: 80, ATK: 30"
     },
     {
         "id": "029",
@@ -1260,7 +1288,8 @@
                 "inherit": "Yes",
                 "description": "Increases ATK of one member by 10%"
             }
-        ]
+        ],
+        "requirements": "Level: 7 ATK: 30, SPD: 20"
     },
     {
         "id": "030",
@@ -1312,7 +1341,8 @@
                 "inherit": "Yes",
                 "description": "Magic attack, 55 Light damage to one foe. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 8 SP: 20, INT: 20"
     },
     {
         "id": "031",
@@ -1364,7 +1394,8 @@
                 "inherit": "Yes",
                 "description": "Reduces DEF of one enemy by 10%"
             }
-        ]
+        ],
+        "requirements": "Level: 9 ATK: 20, SPD: 20"
     },
     {
         "id": "032",
@@ -1417,7 +1448,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 65 Earth damage to one foe. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 8 DEF: 30"
     },
     {
         "id": "033",
@@ -1470,7 +1502,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 40 Earth damage to one foe. Stuns target. 70% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 7 ATK: 40"
     },
     {
         "id": "034",
@@ -1523,7 +1556,8 @@
                 "inherit": "Yes",
                 "description": "Recover Panic from one party member and restore some HP"
             }
-        ]
+        ],
+        "requirements": "Level: 8 HP: 100, CAM: 10%"
     },
     {
         "id": "035",
@@ -1575,7 +1609,8 @@
                 "inherit": "Yes",
                 "description": "Recover Sleep from one party member and restore some HP"
             }
-        ]
+        ],
+        "requirements": "Level: 7 DEF: 15, INT: 20"
     },
     {
         "id": "036",
@@ -1626,7 +1661,8 @@
                 "inherit": "Yes",
                 "description": "Increases ATK of one member by 10%"
             }
-        ]
+        ],
+        "requirements": "Level: 10 ATK: 20, SPD: 20"
     },
     {
         "id": "037",
@@ -1679,7 +1715,8 @@
                 "inherit": "Yes",
                 "description": "Magic attack, 20 Light damage to all foes. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 6 HP: 75, DEF: 25"
     },
     {
         "id": "038",
@@ -1730,7 +1767,8 @@
                 "inherit": "Yes",
                 "description": "Flee from a battle"
             }
-        ]
+        ],
+        "requirements": "Level: 6 SPD: 30"
     },
     {
         "id": "039",
@@ -1782,7 +1820,8 @@
                 "inherit": "Yes",
                 "description": "Increases SPD of one member by 10%"
             }
-        ]
+        ],
+        "requirements": "Level: 8 SPD: 30, CAM: 10%"
     },
     {
         "id": "040",
@@ -1834,7 +1873,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 40 Thunder damage to one foe. Paralyzes target. 70% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 9 DEF: 20"
     },
     {
         "id": "041",
@@ -1887,7 +1927,8 @@
                 "inherit": "Yes",
                 "description": "Magic attack, 55 Fire damage to one foe. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 8 HP: 75, DEF: 20"
     },
     {
         "id": "042",
@@ -1939,7 +1980,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 40 Dark damage to one foe. 10% chance to inflict Death"
             }
-        ]
+        ],
+        "requirements": "Level: 8 ATK: 30, SPD: 20"
     },
     {
         "id": "043",
@@ -1990,7 +2032,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 70 Neutral damage to one foe. Always Hits"
             }
-        ]
+        ],
+        "requirements": "Level: 6 ATK: 50, DEF: 20, CAM: 10%"
     },
     {
         "id": "044",
@@ -2042,7 +2085,8 @@
                 "inherit": "Yes",
                 "description": "Increases CRIT of one battle member by 10%"
             }
-        ]
+        ],
+        "requirements": "Level: 8 ATK: 20, SPD: 30"
     },
     {
         "id": "045",
@@ -2094,7 +2138,8 @@
                 "inherit": "Yes",
                 "description": "Magic attack, 55 Thunder damage to one foe. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 7 HP: 75, DEF: 30, CAM: 10%"
     },
     {
         "id": "046",
@@ -2147,7 +2192,8 @@
                 "inherit": "Yes",
                 "description": "Increases INT of one member by 10%"
             }
-        ]
+        ],
+        "requirements": "Level: 7 INT: 20, SPD: 20, CAM: 10%"
     },
     {
         "id": "047",
@@ -2200,7 +2246,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 105 Fire damage to one foe. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 9 ATK: 20, ABI: 20, Item: Steel Will"
     },
     {
         "id": "048",
@@ -2253,7 +2300,8 @@
                 "inherit": "Yes",
                 "description": "Recover Poison from one party member and restore some HP"
             }
-        ]
+        ],
+        "requirements": "Level: 8 HP: 100, CAM: 10%"
     },
     {
         "id": "049",
@@ -2305,7 +2353,8 @@
                 "inherit": "Yes",
                 "description": "Reduces ATK of one enemy by 10%"
             }
-        ]
+        ],
+        "requirements": "Level: 8 SPD: 30"
     },
     {
         "id": "050",
@@ -2357,7 +2406,8 @@
                 "inherit": "Yes",
                 "description": "Increases INT of one member by 10%"
             }
-        ]
+        ],
+        "requirements": "Level: 8 INT: 20, SPD: 20, CAM: 10%"
     },
     {
         "id": "051",
@@ -2408,7 +2458,8 @@
                 "inherit": "Yes",
                 "description": "Recover Paralyze from one party member and restore some HP"
             }
-        ]
+        ],
+        "requirements": "Level: 9 SPD: 30"
     },
     {
         "id": "052",
@@ -2460,7 +2511,8 @@
                 "inherit": "Yes",
                 "description": "Increase COMBO for one member by 50%"
             }
-        ]
+        ],
+        "requirements": "Level: 6 SPD: 30"
     },
     {
         "id": "053",
@@ -2513,7 +2565,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 65 Wind damage to one foe. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 6 ATK: 20, SPD: 20, CAM: 10%"
     },
     {
         "id": "054",
@@ -2566,7 +2619,8 @@
                 "inherit": "Yes",
                 "description": "Restores a little HP for one party member"
             }
-        ]
+        ],
+        "requirements": "Level: 7 SP: 20, INT: 20, CAM: 10%"
     },
     {
         "id": "055",
@@ -2619,7 +2673,8 @@
                 "inherit": "Yes",
                 "description": "Recover Paralyze from one party member and restore some HP"
             }
-        ]
+        ],
+        "requirements": "Level: 8 INT: 40"
     },
     {
         "id": "056",
@@ -2671,7 +2726,8 @@
                 "inherit": "Yes",
                 "description": "Magic attack, 55 Wind damage to one foe. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 7 SPD: 30, CAM: 10%"
     },
     {
         "id": "057",
@@ -2722,7 +2778,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 65 Plant damage to one foe. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 8 HP: 75, DEF: 10"
     },
     {
         "id": "058",
@@ -2774,7 +2831,8 @@
                 "inherit": "Yes",
                 "description": "Increases ATK of one member by 10%"
             }
-        ]
+        ],
+        "requirements": "Level: 8 ATK: 35, CAM: 10%"
     },
     {
         "id": "059",
@@ -2825,7 +2883,8 @@
                 "inherit": "Yes",
                 "description": "Recover Poison from one party member and restore some HP"
             }
-        ]
+        ],
+        "requirements": "Level: 9 HP: 75"
     },
     {
         "id": "060",
@@ -2895,7 +2954,8 @@
                 "inherit": "Yes",
                 "description": "Restores HP for all party members"
             }
-        ]
+        ],
+        "requirements": "Level: 30 SP: 80, INT: 130, ABI: 80"
     },
     {
         "id": "061",
@@ -2946,7 +3006,8 @@
                 "inherit": "Yes",
                 "description": "Magic attack, 30 Water damage to one foe. Puts target to sleep. 70% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 8 SP: 30, INT: 20"
     },
     {
         "id": "062",
@@ -2999,7 +3060,8 @@
                 "inherit": "Yes",
                 "description": "Recover Panic from one party member and restore some HP"
             }
-        ]
+        ],
+        "requirements": "Level: 7 ATK: 20, INT: 20, SPD: 20"
     },
     {
         "id": "063",
@@ -3052,7 +3114,8 @@
                 "inherit": "Yes",
                 "description": "Reduces INT of one enemy by 10%"
             }
-        ]
+        ],
+        "requirements": "Level: 8 ATK: 15, INT: 20"
     },
     {
         "id": "064",
@@ -3105,7 +3168,8 @@
                 "inherit": "Yes",
                 "description": "Reduces SPD of one enemy by 10%"
             }
-        ]
+        ],
+        "requirements": "Level: 8 DEF: 20, CAM: 10%"
     },
     {
         "id": "065",
@@ -3169,7 +3233,8 @@
                 "inherit": "Yes",
                 "description": "Magic attack, 20 Dark damage to all foes. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 15 ATK: 40, INT: 40"
     },
     {
         "id": "066",
@@ -3230,7 +3295,8 @@
                 "inherit": "Yes",
                 "description": "Magic attack, 20 Water damage to all foes. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 15 HP: 110, DEF: 50"
     },
     {
         "id": "067",
@@ -3294,7 +3360,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 30 Wind damage to all foes. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 14 SPD: 55"
     },
     {
         "id": "068",
@@ -3356,7 +3423,8 @@
                 "inherit": "Yes",
                 "description": "Doubles damage output in the next turn"
             }
-        ]
+        ],
+        "requirements": "Level: 15 HP: 150, ATK: 50, Item: Human Spirit of Flame"
     },
     {
         "id": "069",
@@ -3418,7 +3486,8 @@
                 "inherit": "Yes",
                 "description": "Counterattacks the enemy when you receive a physical attack"
             }
-        ]
+        ],
+        "requirements": ""
     },
     {
         "id": "070",
@@ -3482,7 +3551,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 30 Earth damage to all foes. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 15 HP: 150, DEF: 40"
     },
     {
         "id": "071",
@@ -3545,7 +3615,8 @@
                 "inherit": "Yes",
                 "description": "Restores a little HP for one party member"
             }
-        ]
+        ],
+        "requirements": "Level: 15 HP: 300, CAM: 25%"
     },
     {
         "id": "072",
@@ -3608,7 +3679,8 @@
                 "inherit": "Yes",
                 "description": "Magic attack, 75 Wind damage to one foe. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 14 SP: 35, INT: 55"
     },
     {
         "id": "073",
@@ -3670,7 +3742,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 90 Neutral damage to one foe. Always Hits"
             }
-        ]
+        ],
+        "requirements": "Level: 15 HP: 45, SPD: 55, Item: Human Spirit of Light"
     },
     {
         "id": "074",
@@ -3733,7 +3806,8 @@
                 "inherit": "Yes",
                 "description": "Magic attack, 80 Neutral damage to one foe. Always Hits"
             }
-        ]
+        ],
+        "requirements": "Level: 14 HP: 500"
     },
     {
         "id": "075",
@@ -3796,7 +3870,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 85 Fire damage to one foe. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 14 ATK: 35, SPD: 45"
     },
     {
         "id": "076",
@@ -3860,7 +3935,8 @@
                 "inherit": "Yes",
                 "description": "Magic attack, 75 Light damage to one foe. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 14 ATK: 40, SPD: 40, CAM: 25%"
     },
     {
         "id": "077",
@@ -3924,7 +4000,8 @@
                 "inherit": "Yes",
                 "description": "Magic attack, 20 Light damage to all foes. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 16 INT: 40, ABI: 5"
     },
     {
         "id": "078",
@@ -3987,7 +4064,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 85 Dark damage to one foe. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 14 ATK: 55"
     },
     {
         "id": "079",
@@ -4051,7 +4129,8 @@
                 "inherit": "Yes",
                 "description": "Magic attack, 75 Thunder damage to one foe. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 14 DEF: 55"
     },
     {
         "id": "080",
@@ -4115,7 +4194,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 30 Thunder damage to all foes. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 14 HP: 130, DEF: 60"
     },
     {
         "id": "081",
@@ -4177,7 +4257,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 85 Water damage to one foe. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 15 SPD: 55"
     },
     {
         "id": "082",
@@ -4239,7 +4320,8 @@
                 "inherit": "Yes",
                 "description": "Magic attack, 75 Thunder damage to one foe. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 14 DEF: 40, INT: 40"
     },
     {
         "id": "083",
@@ -4301,7 +4383,8 @@
                 "inherit": "Yes",
                 "description": "Increases DEF of one member by 10%"
             }
-        ]
+        ],
+        "requirements": "Level: 14 HP: 150, DEF: 55"
     },
     {
         "id": "084",
@@ -4364,7 +4447,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 35 Neutral damage to all foes. Always Hits"
             }
-        ]
+        ],
+        "requirements": "Level: 15 HP: 150, SPD: 40"
     },
     {
         "id": "085",
@@ -4427,7 +4511,8 @@
                 "inherit": "Yes",
                 "description": "Flee from a battle"
             }
-        ]
+        ],
+        "requirements": "Level: 15 SPD: 50, CAM: 25%"
     },
     {
         "id": "086",
@@ -4490,7 +4575,8 @@
                 "inherit": "Yes",
                 "description": "Increases EVA of one battle member by 10%"
             }
-        ]
+        ],
+        "requirements": "Level: 15 ATK: 35, SPD: 50"
     },
     {
         "id": "087",
@@ -4552,7 +4638,8 @@
                 "inherit": "Yes",
                 "description": "Increases INT of one member by 10%"
             }
-        ]
+        ],
+        "requirements": "Level: 14 SP: 40, INT: 40, SPD: 40"
     },
     {
         "id": "088",
@@ -4616,7 +4703,8 @@
                 "inherit": "Yes",
                 "description": "Increase COMBO for one member by 50%"
             }
-        ]
+        ],
+        "requirements": "Level: 15 ATK: 50, SPD: 20"
     },
     {
         "id": "089",
@@ -4681,7 +4769,8 @@
                 "inherit": "Yes",
                 "description": "Reduces DEF of one enemy by 10%"
             }
-        ]
+        ],
+        "requirements": "Level: 16 HP: 150, ATK: 40"
     },
     {
         "id": "090",
@@ -4744,7 +4833,8 @@
                 "inherit": "Yes",
                 "description": "Doubles damage output in the next turn"
             }
-        ]
+        ],
+        "requirements": "Level: 16 ATK: 55, CAM: 50%"
     },
     {
         "id": "091",
@@ -4807,7 +4897,8 @@
                 "inherit": "Yes",
                 "description": "Increases ACC of one battle member by 10%"
             }
-        ]
+        ],
+        "requirements": "Level: 16 HP: 150, ATK: 50"
     },
     {
         "id": "092",
@@ -4871,7 +4962,8 @@
                 "inherit": "Yes",
                 "description": "Magic attack, 30 Water damage to one foe. Puts target to sleep. 70% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 14 INT: 35"
     },
     {
         "id": "093",
@@ -4933,7 +5025,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 30 Wind damage to all foes. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 14 ATK: 55"
     },
     {
         "id": "094",
@@ -4995,7 +5088,8 @@
                 "inherit": "Yes",
                 "description": "Recover Sleep from one party member and restore some HP"
             }
-        ]
+        ],
+        "requirements": "Level: 14 SP: 40, INT: 40"
     },
     {
         "id": "095",
@@ -5057,7 +5151,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 85 Thunder damage to one foe. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 12 HP: 130, SP: 25, DEF: 40"
     },
     {
         "id": "096",
@@ -5118,7 +5213,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 30 Wind damage to all foes. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 14 ATK: 60, SPD: 25"
     },
     {
         "id": "097",
@@ -5179,7 +5275,8 @@
                 "inherit": "Yes",
                 "description": "Increases CRIT of one battle member by 10%"
             }
-        ]
+        ],
+        "requirements": "Level: 14 ATK: 40, DEF: 25, SPD: 40"
     },
     {
         "id": "098",
@@ -5242,7 +5339,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 40 Wind damage to one foe. Crystallizes target. 70% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 18 ABI: 5"
     },
     {
         "id": "099",
@@ -5304,7 +5402,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 30 Fire damage to all foes. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 14 HP: 150, DEF: 60"
     },
     {
         "id": "100",
@@ -5366,7 +5465,8 @@
                 "inherit": "Yes",
                 "description": "Counterattacks the enemy when you receive a physical attack"
             }
-        ]
+        ],
+        "requirements": "Level: 14 ATK: 30, DEF: 40"
     },
     {
         "id": "101",
@@ -5429,7 +5529,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 50 Neutral damage to one foe. Absorb 10% SP"
             }
-        ]
+        ],
+        "requirements": "Level: 15 ATK: 50, SPD: 55"
     },
     {
         "id": "102",
@@ -5492,7 +5593,8 @@
                 "inherit": "Yes",
                 "description": "Restores HP for one party member"
             }
-        ]
+        ],
+        "requirements": "Level: 14 HP: 150, INT: 40"
     },
     {
         "id": "103",
@@ -5555,7 +5657,8 @@
                 "inherit": "Yes",
                 "description": "Counterattacks the enemy when you receive a magic attack"
             }
-        ]
+        ],
+        "requirements": "Level: 14 DEF: 30, INT: 40"
     },
     {
         "id": "104",
@@ -5617,7 +5720,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 90 Neutral damage to one foe. Always Hits"
             }
-        ]
+        ],
+        "requirements": "Level: 14 HP: 300, SPD: 30"
     },
     {
         "id": "105",
@@ -5680,7 +5784,8 @@
                 "inherit": "Yes",
                 "description": "Counterattacks the enemy when you receive a physical attack"
             }
-        ]
+        ],
+        "requirements": "Level: 15 HP: 150, ATK: 50"
     },
     {
         "id": "106",
@@ -5743,7 +5848,8 @@
                 "inherit": "Yes",
                 "description": "Magic attack, 75 Dark damage to one foe. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 12 HP: 150, DEF: 40"
     },
     {
         "id": "107",
@@ -5808,7 +5914,8 @@
                 "inherit": "Yes",
                 "description": "Magic attack, 80 Neutral damage to one foe. Always Hits"
             }
-        ]
+        ],
+        "requirements": "Level: 14 HP: 150, DEF: 35"
     },
     {
         "id": "108",
@@ -5872,7 +5979,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 85 Wind damage to one foe. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 14 ATK: 40, SPD: 55"
     },
     {
         "id": "109",
@@ -5934,7 +6042,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 50 Neutral damage to all foes. Always Hits"
             }
-        ]
+        ],
+        "requirements": "Level: 15 ATK: 45, SPD: 50"
     },
     {
         "id": "110",
@@ -5995,7 +6104,8 @@
                 "inherit": "Yes",
                 "description": "Increases CRIT of one battle member by 10%"
             }
-        ]
+        ],
+        "requirements": "Level: 20 ATK: 50, SPD: 50"
     },
     {
         "id": "111",
@@ -6057,7 +6167,8 @@
                 "inherit": "Yes",
                 "description": "Restores HP for one party member"
             }
-        ]
+        ],
+        "requirements": "Level: 16 SP: 40, INT: 40"
     },
     {
         "id": "112",
@@ -6121,7 +6232,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 40 Earth damage to one foe. Stuns target. 70% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 14 DEF: 55"
     },
     {
         "id": "113",
@@ -6183,7 +6295,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 30 Earth damage to all foes. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 14 HP: 150, DEF: 40"
     },
     {
         "id": "114",
@@ -6246,7 +6359,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 90 Neutral damage to one foe. Always Hits"
             }
-        ]
+        ],
+        "requirements": "Level: 14 HP: 150, ATK: 40"
     },
     {
         "id": "115",
@@ -6310,7 +6424,8 @@
                 "inherit": "Yes",
                 "description": "Revive one fallen party member with 50% HP"
             }
-        ]
+        ],
+        "requirements": "Level: 16 INT: 40, CAM: 25%"
     },
     {
         "id": "116",
@@ -6375,7 +6490,8 @@
                 "inherit": "Yes",
                 "description": "Magic attack, 20 Dark damage to all foes. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 16 ATK: 40, ABI: 5"
     },
     {
         "id": "117",
@@ -6436,7 +6552,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 35 Neutral damage to all foes. Always Hits"
             }
-        ]
+        ],
+        "requirements": "Level: 14 ATK: 45, SPD: 40"
     },
     {
         "id": "118",
@@ -6499,7 +6616,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 40 Thunder damage to one foe. Paralyzes target. 70% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 16 HP: 300, DEF: 30, CAM: 25%"
     },
     {
         "id": "119",
@@ -6563,7 +6681,8 @@
                 "inherit": "Yes",
                 "description": "Increases SPD of one member by 10%"
             }
-        ]
+        ],
+        "requirements": "Level: 14 ATK: 40, SPD: 40"
     },
     {
         "id": "120",
@@ -6626,7 +6745,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 40 Earth damage to one foe. Stuns target. 70% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 12 ATK: 40, DEF: 40"
     },
     {
         "id": "121",
@@ -6688,7 +6808,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 85 Water damage to one foe. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 12 HP: 150, DEF: 40"
     },
     {
         "id": "122",
@@ -6753,7 +6874,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 30 Fire damage to all foes. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 14 HP: 40, INT: 40, SPD: 40"
     },
     {
         "id": "123",
@@ -6815,7 +6937,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 45 Fire damage to all foes. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 16 ATK: 55, SPD: 50"
     },
     {
         "id": "124",
@@ -6880,7 +7003,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 50 Neutral damage to one foe. Absorb 10% SP"
             }
-        ]
+        ],
+        "requirements": "Level: 13 SP: 40, INT: 30"
     },
     {
         "id": "125",
@@ -6944,7 +7068,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 85 Light damage to one foe. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 16 ATK: 40, SPD: 35"
     },
     {
         "id": "126",
@@ -7014,7 +7139,8 @@
                 "inherit": "Yes",
                 "description": "Restores a little HP for all party members"
             }
-        ]
+        ],
+        "requirements": "Level: 15 SP: 40, SPD: 40, CAM: 100%, Cleared \"Hacker's Memory\""
     },
     {
         "id": "127",
@@ -7077,7 +7203,8 @@
                 "inherit": "Yes",
                 "description": "Magic attack, 30 Neutral damage to one foe. Makes target buggy. 70% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 20"
     },
     {
         "id": "128",
@@ -7141,7 +7268,8 @@
                 "inherit": "Yes",
                 "description": "Magic attack, 80 Neutral damage to one foe. Always Hits"
             }
-        ]
+        ],
+        "requirements": "Level: 16 INT: 40, CAM: 25%"
     },
     {
         "id": "129",
@@ -7205,7 +7333,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 40 Plant damage to one foe. Poisons target. 70% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 12 HP: 300"
     },
     {
         "id": "130",
@@ -7267,7 +7396,8 @@
                 "inherit": "Yes",
                 "description": "Flee from a battle"
             }
-        ]
+        ],
+        "requirements": "Level: 14 SPD: 50"
     },
     {
         "id": "131",
@@ -7333,7 +7463,8 @@
                 "inherit": "Yes",
                 "description": "Magic attack, 75 Fire damage to one foe. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 14 ATK: 40"
     },
     {
         "id": "132",
@@ -7394,7 +7525,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 30 Earth damage to all foes. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 14 ATK: 55, DEF: 55"
     },
     {
         "id": "133",
@@ -7458,7 +7590,8 @@
                 "inherit": "Yes",
                 "description": "Restores a little HP for all party members"
             }
-        ]
+        ],
+        "requirements": "Level: 14 HP: 250, ATK: 30"
     },
     {
         "id": "134",
@@ -7519,7 +7652,8 @@
                 "inherit": "Yes",
                 "description": "Magic attack, 75 Light damage to one foe. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 13 INT: 40, SPD: 40, CAM: 10%"
     },
     {
         "id": "135",
@@ -7583,7 +7717,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 40 Earth damage to one foe. Stuns target. 70% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 15 HP: 130, ATK: 50"
     },
     {
         "id": "136",
@@ -7648,7 +7783,8 @@
                 "inherit": "Yes",
                 "description": "Magic attack, 30 Neutral damage to one foe. Makes target buggy. 70% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 12 HP: 500"
     },
     {
         "id": "137",
@@ -7713,7 +7849,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 85 Light damage to one foe. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 16 ATK: 55"
     },
     {
         "id": "138",
@@ -7775,7 +7912,8 @@
                 "inherit": "Yes",
                 "description": "Counterattacks the enemy when you receive a physical attack"
             }
-        ]
+        ],
+        "requirements": "Level: 15 ATK: 35, SPD: 40"
     },
     {
         "id": "139",
@@ -7839,7 +7977,8 @@
                 "inherit": "Yes",
                 "description": "Restores a little HP for all party members"
             }
-        ]
+        ],
+        "requirements": "Level: 16 SPD: 40, ABI: 5"
     },
     {
         "id": "140",
@@ -7903,7 +8042,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 40 Thunder damage to one foe. Paralyzes target. 70% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 14 ATK: 40, SPD: 40"
     },
     {
         "id": "141",
@@ -7975,7 +8115,8 @@
                 "inherit": "Yes",
                 "description": "Magic attack, 35 Plant damage to all foes. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 28 HP: 400, DEF: 95"
     },
     {
         "id": "142",
@@ -8047,7 +8188,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 85 Light damage to one foe. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": ""
     },
     {
         "id": "143",
@@ -8122,7 +8264,8 @@
                 "inherit": "Yes",
                 "description": "Magic attack, 100 Neutral damage to one foe. Always Hits"
             }
-        ]
+        ],
+        "requirements": "Level: 28 ATK: 65, INT: 75, SPD: 85"
     },
     {
         "id": "144",
@@ -8196,7 +8339,8 @@
                 "inherit": "Yes",
                 "description": "Magic attack, 95 Wind damage to one foe. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 28 ATK: 75, DEF: 75, INT: 75"
     },
     {
         "id": "145",
@@ -8271,7 +8415,8 @@
                 "inherit": "Yes",
                 "description": "Magic attack, 100 Neutral damage to one foe. Always Hits"
             }
-        ]
+        ],
+        "requirements": "Level: 26 DEF: 110"
     },
     {
         "id": "146",
@@ -8345,7 +8490,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 105 Dark damage to one foe. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 30 ATK: 95, SPD: 80"
     },
     {
         "id": "147",
@@ -8421,7 +8567,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 105 Dark damage to one foe. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 30 ATK: 70, INT: 90, ABI: 10"
     },
     {
         "id": "148",
@@ -8493,7 +8640,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 45 Wind damage to all foes. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 30 ATK: 80, SPD: 95, ABI: 10"
     },
     {
         "id": "149",
@@ -8564,7 +8712,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 45 Fire damage to all foes. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 30 HP: 500, ATK: 120, DEF: 60, Item: Beast Spirit of Flame"
     },
     {
         "id": "150",
@@ -8638,7 +8787,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 105 Light damage to one foe. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 30 ATK: 75, SPD: 95, CAM: 25%"
     },
     {
         "id": "151",
@@ -8713,7 +8863,8 @@
                 "inherit": "Yes",
                 "description": "Magic attack, 95 Dark damage to one foe. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 26 SP: 75, DEF: 75, SPD: 65"
     },
     {
         "id": "152",
@@ -8786,7 +8937,8 @@
                 "inherit": "Yes",
                 "description": "Magic attack, 95 Light damage to one foe. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 30 SP: 75, INT: 100, ABI: 10"
     },
     {
         "id": "153",
@@ -8858,7 +9010,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 105 Plant damage to one foe. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 26 ATK: 95, DEF: 90"
     },
     {
         "id": "154",
@@ -8932,7 +9085,8 @@
                 "inherit": "Yes",
                 "description": "Counterattacks the enemy when you receive a magic attack"
             }
-        ]
+        ],
+        "requirements": "Level: 30 ATK: 75, SPD: 75"
     },
     {
         "id": "155",
@@ -9003,7 +9157,8 @@
                 "inherit": "Yes",
                 "description": "Increases SPD of all battle members by 10%"
             }
-        ]
+        ],
+        "requirements": "Level: 30 HP: 300, ATK: 100, SPD: 85, Item: Beast Spirit of Light"
     },
     {
         "id": "156",
@@ -9079,7 +9234,8 @@
                 "inherit": "Yes",
                 "description": "Magic attack, 95 Thunder damage to one foe. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 26 HP: 800, ATK: 75, DEF: 95"
     },
     {
         "id": "157",
@@ -9151,7 +9307,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 105 Thunder damage to one foe. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 26 HP: 700, DEF: 85"
     },
     {
         "id": "158",
@@ -9225,7 +9382,8 @@
                 "inherit": "Yes",
                 "description": "Magic attack, 30 Fire damage to one foe. Confuses target. 70% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 28 DEF: 75, SPD: 75"
     },
     {
         "id": "159",
@@ -9297,7 +9455,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 45 Earth damage to all foes. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 30 HP: 400, ATK: 125, ABI: 10"
     },
     {
         "id": "160",
@@ -9370,7 +9529,8 @@
                 "inherit": "Yes",
                 "description": "Counterattacks the enemy when you receive a physical attack"
             }
-        ]
+        ],
+        "requirements": "Level: 26 HP: 400, ATK: 95"
     },
     {
         "id": "161",
@@ -9445,7 +9605,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 110 Neutral damage to one foe. Always Hits"
             }
-        ]
+        ],
+        "requirements": "Level: 30 HP: 400, ATK: 80, SPD: 70"
     },
     {
         "id": "162",
@@ -9517,7 +9678,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 105 Water damage to one foe. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 30 SP: 60, ATK: 70"
     },
     {
         "id": "163",
@@ -9591,7 +9753,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 105 Dark damage to one foe. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 28 HP: 400, ATK: 75, SPD: 75"
     },
     {
         "id": "164",
@@ -9662,7 +9825,8 @@
                 "inherit": "Yes",
                 "description": "Magic attack, 95 Earth damage to one foe. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 30 DEF: 75, INT: 65, CAM: 100%, Digimon: Angemon"
     },
     {
         "id": "165",
@@ -9735,7 +9899,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 105 Plant damage to one foe. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 28 HP: 800, DEF: 70"
     },
     {
         "id": "166",
@@ -9808,7 +9973,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 105 Wind damage to one foe. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 30 ATK: 60, INT: 75, SPD: 75, CAM: 100%, Digimon: Gatomon"
     },
     {
         "id": "167",
@@ -9881,7 +10047,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 105 Light damage to one foe. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 28 SP: 70, ATK: 70, DEF: 80"
     },
     {
         "id": "168",
@@ -9954,7 +10121,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 105 Earth damage to one foe. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 28 ATK: 120, DEF: 85, SPD: 70"
     },
     {
         "id": "169",
@@ -10027,7 +10195,8 @@
                 "inherit": "Yes",
                 "description": "Magic attack, 95 Dark damage to one foe. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 28 ATK: 80, INT: 70"
     },
     {
         "id": "170",
@@ -10101,7 +10270,8 @@
                 "inherit": "Yes",
                 "description": "Magic attack, 35 Water damage to all foes. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 30 HP: 800, ATK: 75, CAM: 50%"
     },
     {
         "id": "171",
@@ -10173,7 +10343,8 @@
                 "inherit": "Yes",
                 "description": "Revive one fallen party member with 50% HP"
             }
-        ]
+        ],
+        "requirements": "Level: 30 ATK: 90, SPD: 80"
     },
     {
         "id": "172",
@@ -10245,7 +10416,8 @@
                 "inherit": "Yes",
                 "description": "Magic attack, 35 Dark damage to all foes. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 30 SP: 60, INT: 75, SPD: 60"
     },
     {
         "id": "173",
@@ -10317,7 +10489,8 @@
                 "inherit": "Yes",
                 "description": "Magic attack, 35 Dark damage to all foes. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 28 SP: 70, INT: 85"
     },
     {
         "id": "174",
@@ -10389,7 +10562,8 @@
                 "inherit": "Yes",
                 "description": "Magic attack, 95 Light damage to one foe. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 30 SP: 75, SPD: 100, ABI: 10"
     },
     {
         "id": "175",
@@ -10459,7 +10633,8 @@
                 "inherit": "Yes",
                 "description": "Counterattacks the enemy when you receive a physical attack"
             }
-        ]
+        ],
+        "requirements": "Level: 30 HP: 400, ATK: 90, SPD: 75, CAM: 100%, Digimon: Stingmon"
     },
     {
         "id": "176",
@@ -10531,7 +10706,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 110 Neutral damage to one foe. Always Hits"
             }
-        ]
+        ],
+        "requirements": "Level: 30 HP: 700, DEF: 75"
     },
     {
         "id": "177",
@@ -10604,7 +10780,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 105 Fire damage to one foe. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 28 HP: 500, ATK: 95"
     },
     {
         "id": "178",
@@ -10676,7 +10853,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 50 Neutral damage to all foes. Always Hits"
             }
-        ]
+        ],
+        "requirements": "Level: 40 HP: 800, ATK: 80, DEF: 80"
     },
     {
         "id": "179",
@@ -10749,7 +10927,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 105 Water damage to one foe. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 26 HP: 900"
     },
     {
         "id": "180",
@@ -10822,7 +11001,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 105 Earth damage to one foe. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 28 ATK: 75, DEF: 75"
     },
     {
         "id": "181",
@@ -10896,7 +11076,8 @@
                 "inherit": "Yes",
                 "description": "Counterattacks the enemy when you receive a physical attack"
             }
-        ]
+        ],
+        "requirements": "Level: 30 HP: 400, ATK: 95, DEF: 75"
     },
     {
         "id": "182",
@@ -10971,7 +11152,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 50 Neutral damage to all foes. Always Hits"
             }
-        ]
+        ],
+        "requirements": "Level: 30 ATK: 75, DEF: 75"
     },
     {
         "id": "183",
@@ -11043,7 +11225,8 @@
                 "inherit": "Yes",
                 "description": "Magic attack, 100 Neutral damage to one foe. Always Hits"
             }
-        ]
+        ],
+        "requirements": "Level: 28 SP: 60, INT: 85"
     },
     {
         "id": "184",
@@ -11112,7 +11295,8 @@
                 "inherit": "Yes",
                 "description": "Counterattacks the enemy when you receive a physical attack"
             }
-        ]
+        ],
+        "requirements": "Level: 30 ATK: 90, DEF: 60, SPD: 75, CAM: 100%, Digimon: Stingmon"
     },
     {
         "id": "185",
@@ -11185,7 +11369,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 105 Water damage to one foe. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 28 HP: 350, ATK: 75, SPD: 75"
     },
     {
         "id": "186",
@@ -11258,7 +11443,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 105 Earth damage to one foe. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 26 ATK: 65, DEF: 65"
     },
     {
         "id": "187",
@@ -11332,7 +11518,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 40 Wind damage to one foe. Crystallizes target. 70% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 26 HP: 850, ATK: 60, INT: 60"
     },
     {
         "id": "188",
@@ -11405,7 +11592,8 @@
                 "inherit": "Yes",
                 "description": "Restores HP for one party member"
             }
-        ]
+        ],
+        "requirements": "Level: 26 SP: 75, INT: 80, SPD: 80"
     },
     {
         "id": "189",
@@ -11478,7 +11666,8 @@
                 "inherit": "Yes",
                 "description": "Magic attack, 95 Wind damage to one foe. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 26 SP: 65, INT: 65"
     },
     {
         "id": "190",
@@ -11551,7 +11740,8 @@
                 "inherit": "Yes",
                 "description": "Magic attack, 35 Dark damage to all foes. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 28 SP: 80, INT: 80"
     },
     {
         "id": "191",
@@ -11624,7 +11814,8 @@
                 "inherit": "Yes",
                 "description": "Magic attack, 95 Dark damage to one foe. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 32"
     },
     {
         "id": "192",
@@ -11699,7 +11890,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 105 Fire damage to one foe. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 28 HP: 400, ATK: 80, INT: 70"
     },
     {
         "id": "193",
@@ -11771,7 +11963,8 @@
                 "inherit": "Yes",
                 "description": "Magic attack, 95 Dark damage to one foe. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 26 SP: 85"
     },
     {
         "id": "194",
@@ -11844,7 +12037,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 105 Water damage to one foe. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 28 HP: 850, DEF: 75, INT: 75"
     },
     {
         "id": "195",
@@ -11919,7 +12113,8 @@
                 "inherit": "Yes",
                 "description": "Revive one fallen party member with 50% HP"
             }
-        ]
+        ],
+        "requirements": "Level: 30 SP: 80, INT: 80, ABI: 10"
     },
     {
         "id": "196",
@@ -11991,7 +12186,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 105 Fire damage to one foe. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 26 ATK: 80, DEF: 75"
     },
     {
         "id": "197",
@@ -12063,7 +12259,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 105 Dark damage to one foe. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 28 ATK: 75, SPD: 80"
     },
     {
         "id": "198",
@@ -12138,7 +12335,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 45 Wind damage to all foes. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 26 ATK: 75, SPD: 80"
     },
     {
         "id": "199",
@@ -12210,7 +12408,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 45 Earth damage to all foes. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 26 ATK: 75, DEF: 80"
     },
     {
         "id": "200",
@@ -12286,7 +12485,8 @@
                 "inherit": "Yes",
                 "description": "Magic attack, 95 Thunder damage to one foe. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 30 HP: 400, SP: 70, INT: 70"
     },
     {
         "id": "201",
@@ -12361,7 +12561,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 105 Wind damage to one foe. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 26 HP: 400, ATK: 95, SPD: 75"
     },
     {
         "id": "202",
@@ -12436,7 +12637,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 105 Light damage to one foe. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 30 ATK: 105, SPD: 75"
     },
     {
         "id": "203",
@@ -12509,7 +12711,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 105 Fire damage to one foe. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 30 HP: 350, ATK: 100, CAM: 50%"
     },
     {
         "id": "204",
@@ -12584,7 +12787,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 105 Fire damage to one foe. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 30 HP: 450, ATK: 110"
     },
     {
         "id": "205",
@@ -12658,7 +12862,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 105 Thunder damage to one foe. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 28 ATK: 75, DEF: 95"
     },
     {
         "id": "206",
@@ -12731,7 +12936,8 @@
                 "inherit": "Yes",
                 "description": "Magic attack, 95 Fire damage to one foe. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 26 DEF: 80, INT: 65"
     },
     {
         "id": "207",
@@ -12804,7 +13010,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 110 Neutral damage to one foe. Always Hits"
             }
-        ]
+        ],
+        "requirements": "Level: 26 HP: 600, ATK: 60"
     },
     {
         "id": "208",
@@ -12878,7 +13085,8 @@
                 "inherit": "Yes",
                 "description": "Counterattacks the enemy when you receive a magic attack"
             }
-        ]
+        ],
+        "requirements": "Level: 30 SP: 75, SPD: 90"
     },
     {
         "id": "209",
@@ -12952,7 +13160,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 105 Fire damage to one foe. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 30 HP: 350, ATK: 100, SPD: 75, CAM: 50%"
     },
     {
         "id": "210",
@@ -13025,7 +13234,8 @@
                 "inherit": "Yes",
                 "description": "Magic attack, 95 Plant damage to one foe. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 30 SP: 75, INT: 75"
     },
     {
         "id": "211",
@@ -13097,7 +13307,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 105 Thunder damage to one foe. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 28 ATK: 75, SPD: 75, CAM: 50%"
     },
     {
         "id": "212",
@@ -13170,7 +13381,8 @@
                 "inherit": "Yes",
                 "description": "Magic attack, 35 Plant damage to all foes. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 30 INT: 75, SPD: 75, CAM: 50%"
     },
     {
         "id": "213",
@@ -13248,7 +13460,8 @@
                 "inherit": "Yes",
                 "description": "Magic attack, 65 Light damage to all foes. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 55 ATK: 180, INT: 240, SPD: 180, ABI: 80"
     },
     {
         "id": "214",
@@ -13322,7 +13535,8 @@
                 "inherit": "Yes",
                 "description": "Magic attack, 35 Dark damage to all foes. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 30 SP: 75, INT: 95, ABI: 10"
     },
     {
         "id": "215",
@@ -13396,7 +13610,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 45 Earth damage to all foes. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 28 ATK: 90, SPD: 85, CAM: 50%"
     },
     {
         "id": "216",
@@ -13469,7 +13684,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 50 Neutral damage to all foes. Always Hits"
             }
-        ]
+        ],
+        "requirements": "Level: 28 HP: 400, ATK: 90, SPD: 70"
     },
     {
         "id": "217",
@@ -13541,7 +13757,8 @@
                 "inherit": "Yes",
                 "description": "Magic attack, 95 Dark damage to one foe. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 28 SP: 75, INT: 100"
     },
     {
         "id": "218",
@@ -13621,7 +13838,8 @@
                 "inherit": "Yes",
                 "description": "Reduce COMBO for one enemy by 100%"
             }
-        ]
+        ],
+        "requirements": ""
     },
     {
         "id": "219",
@@ -13711,7 +13929,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 80 Neutral damage to all foes. Always Hits"
             }
-        ]
+        ],
+        "requirements": "Level: 60 ATK: 150, DEF: 170, INT: 135, ABI: 80"
     },
     {
         "id": "220",
@@ -13799,7 +14018,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 75 Wind damage to all foes. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 60 ATK: 120, SPD: 145, ABI: 80"
     },
     {
         "id": "221",
@@ -13878,7 +14098,8 @@
                 "inherit": "Yes",
                 "description": "Magic attack, 30 Neutral damage to one foe. Makes target buggy. 70% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 45 SP: 120, INT: 120, ABI: 20"
     },
     {
         "id": "222",
@@ -13959,7 +14180,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 80 Neutral damage to all foes. Always Hits"
             }
-        ]
+        ],
+        "requirements": "Level: 55 HP: 1600, DEF: 150, SPD: 150, ABI: 20"
     },
     {
         "id": "223",
@@ -14037,7 +14259,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 80 Neutral damage to all foes. Always Hits"
             }
-        ]
+        ],
+        "requirements": "Level: 0 Mode Change"
     },
     {
         "id": "224",
@@ -14116,7 +14339,8 @@
                 "inherit": "Yes",
                 "description": "Magic attack, 65 Water damage to all foes. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 50 HP: 1700, ATK: 130, DEF: 130, INT: 120, ABI: 20"
     },
     {
         "id": "225",
@@ -14195,7 +14419,8 @@
                 "inherit": "Yes",
                 "description": "Revive all fallen party members with full HP"
             }
-        ]
+        ],
+        "requirements": "Level: 50 ATK: 130, INT: 130, SPD: 160, ABI: 20"
     },
     {
         "id": "226",
@@ -14275,7 +14500,8 @@
                 "inherit": "Yes",
                 "description": "Revive all fallen party members with full HP"
             }
-        ]
+        ],
+        "requirements": "Level: 55 SP: 120, INT: 145, SPD: 130, ABI: 40"
     },
     {
         "id": "227",
@@ -14355,7 +14581,8 @@
                 "inherit": "Yes",
                 "description": "Magic attack, 65 Dark damage to all foes. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 55 HP: 1200, SP: 110, ATK: 110, INT: 110, ABI: 40"
     },
     {
         "id": "228",
@@ -14445,7 +14672,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 75 Fire damage to all foes. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 55 HP: 1700, ATK: 160, DEF: 130, ABI: 20, CAM: 80%"
     },
     {
         "id": "229",
@@ -14522,7 +14750,8 @@
                 "inherit": "Yes",
                 "description": "Magic attack, 65 Light damage to all foes. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 55 SP: 120, DEF: 120, INT: 145, ABI: 40"
     },
     {
         "id": "230",
@@ -14601,7 +14830,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 75 Fire damage to all foes. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 50 ATK: 120, DEF: 100, SPD: 100, ABI: 20"
     },
     {
         "id": "231",
@@ -14679,7 +14909,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 75 Fire damage to all foes. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 55 HP: 1500, ATK: 150, DEF: 120, ABI: 20, CAM: 80%"
     },
     {
         "id": "232",
@@ -14766,7 +14997,8 @@
                 "inherit": "Yes",
                 "description": "Magic attack, 65 Water damage to all foes. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 60 ATK: 130, DEF: 130, INT: 130, ABI: 40"
     },
     {
         "id": "233",
@@ -14852,7 +15084,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 75 Thunder damage to all foes. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 50 HP: 1500, ATK: 130, DEF: 120, ABI: 20"
     },
     {
         "id": "234",
@@ -14940,7 +15173,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 75 Fire damage to all foes. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 60 HP: 1700, ATK: 145, DEF: 120, ABI: 80"
     },
     {
         "id": "235",
@@ -15018,7 +15252,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 80 Neutral damage to all foes. Always Hits"
             }
-        ]
+        ],
+        "requirements": "Level: 45 ATK: 110, DEF: 130, SPD: 100, ABI: 20"
     },
     {
         "id": "236",
@@ -15096,7 +15331,8 @@
                 "inherit": "Yes",
                 "description": "Magic attack, 65 Dark damage to all foes. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 55 SP: 120, INT: 135, SPD: 120, ABI: 20"
     },
     {
         "id": "237",
@@ -15176,7 +15412,8 @@
                 "inherit": "Yes",
                 "description": "Increases SPD of all battle members by 10%"
             }
-        ]
+        ],
+        "requirements": "Level: 45 HP: 1500, ATK: 120, DEF: 120, ABI: 20"
     },
     {
         "id": "238",
@@ -15264,7 +15501,8 @@
                 "inherit": "Yes",
                 "description": "Magic attack, 65 Dark damage to all foes. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 50 HP: 1300, ATK: 110, INT: 110, ABI: 40"
     },
     {
         "id": "239",
@@ -15342,7 +15580,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 75 Thunder damage to all foes. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 50 DEF: 160, SPD: 120, ABI: 20"
     },
     {
         "id": "240",
@@ -15420,7 +15659,8 @@
                 "inherit": "Yes",
                 "description": "Revive one fallen party member with 50% HP"
             }
-        ]
+        ],
+        "requirements": "Level: 50 SP: 110, INT: 140, ABI: 20"
     },
     {
         "id": "241",
@@ -15507,7 +15747,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 75 Earth damage to all foes. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 60 SP: 110, DEF: 180, INT: 140, ABI: 80"
     },
     {
         "id": "242",
@@ -15584,7 +15825,8 @@
                 "inherit": "Yes",
                 "description": "Make one member immune to all status effects"
             }
-        ]
+        ],
+        "requirements": "Level: 55 HP: 1100, SP: 100, INT: 100, ABI: 40"
     },
     {
         "id": "243",
@@ -15662,7 +15904,8 @@
                 "inherit": "Yes",
                 "description": "Make one member endure all attacks that could kill you once"
             }
-        ]
+        ],
+        "requirements": "Level: 55 SP: 120, INT: 145, SPD: 100, ABI: 40"
     },
     {
         "id": "244",
@@ -15741,7 +15984,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 75 Thunder damage to all foes. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 55 ATK: 130, DEF: 120, INT: 120, ABI: 40"
     },
     {
         "id": "245",
@@ -15820,7 +16064,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 75 Wind damage to all foes. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 50 ATK: 145, SPD: 120, ABI: 20"
     },
     {
         "id": "246",
@@ -15898,7 +16143,8 @@
                 "inherit": "Yes",
                 "description": "Make one member immune to all status effects"
             }
-        ]
+        ],
+        "requirements": "Level: 55 SP: 120, INT: 120, SPD: 120, ABI: 20"
     },
     {
         "id": "247",
@@ -15985,7 +16231,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 75 Fire damage to all foes. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 60 ATK: 180, SPD: 180, ABI: 80, CAM: 80%"
     },
     {
         "id": "248",
@@ -16065,7 +16312,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 75 Fire damage to all foes. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 55 ATK: 140, SPD: 130, ABI: 20, CAM: 80%"
     },
     {
         "id": "249",
@@ -16141,7 +16389,8 @@
                 "inherit": "Yes",
                 "description": "Make one member immune to all status effects"
             }
-        ]
+        ],
+        "requirements": "Level: 60 HP: 2000, ATK: 250, ABI: 30, CAM: 100%"
     },
     {
         "id": "250",
@@ -16221,7 +16470,8 @@
                 "inherit": "Yes",
                 "description": "Increase COMBO for one member by 100%"
             }
-        ]
+        ],
+        "requirements": "Level: 50 HP: 1000, ATK: 130, DEF: 110, ABI: 20, CAM: 80%"
     },
     {
         "id": "251",
@@ -16309,7 +16559,8 @@
                 "inherit": "Yes",
                 "description": "Restores a lot of HP for one party member"
             }
-        ]
+        ],
+        "requirements": "Level: 60 DEF: 140, INT: 120, SPD: 150, ABI: 80"
     },
     {
         "id": "252",
@@ -16389,7 +16640,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 75 Wind damage to all foes. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 55 HP: 1300, ATK: 130, SPD: 130, ABI: 20"
     },
     {
         "id": "253",
@@ -16467,7 +16719,8 @@
                 "inherit": "Yes",
                 "description": "Revive all fallen party members with full HP"
             }
-        ]
+        ],
+        "requirements": "Level: 55 SP: 130, DEF: 130, INT: 150, ABI: 40, CAM: 50%"
     },
     {
         "id": "254",
@@ -16545,7 +16798,8 @@
                 "inherit": "Yes",
                 "description": "Increase COMBO for one member by 100%"
             }
-        ]
+        ],
+        "requirements": "Level: 50 DEF: 130, SPD: 130, ABI: 20"
     },
     {
         "id": "255",
@@ -16625,7 +16879,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 75 Thunder damage to all foes. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 50 ATK: 150, DEF: 140, ABI: 20"
     },
     {
         "id": "256",
@@ -16705,7 +16960,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 75 Thunder damage to all foes. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 50 HP: 1000, ATK: 120, SPD: 130, ABI: 20"
     },
     {
         "id": "257",
@@ -16784,7 +17040,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 75 Earth damage to all foes. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 55 HP: 1400, ATK: 150, INT: 120, ABI: 20"
     },
     {
         "id": "258",
@@ -16860,7 +17117,8 @@
                 "inherit": "Yes",
                 "description": "Increases SPD of all battle members by 10%"
             }
-        ]
+        ],
+        "requirements": "Level: 55 HP: 1600, ATK: 140, DEF: 130, ABI: 40"
     },
     {
         "id": "259",
@@ -16939,7 +17197,8 @@
                 "inherit": "Yes",
                 "description": "Magic attack, 65 Water damage to all foes. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 55 DEF: 120, INT: 130, SPD: 130, ABI: 20"
     },
     {
         "id": "260",
@@ -17021,7 +17280,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 75 Fire damage to all foes. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 55 HP: 1100, ATK: 180, SPD: 130, ABI: 20"
     },
     {
         "id": "261",
@@ -17100,7 +17360,8 @@
                 "inherit": "Yes",
                 "description": "Magic attack, 65 Dark damage to all foes. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 60 HP: 1600, ATK: 230, INT: 160, ABI: 80"
     },
     {
         "id": "262",
@@ -17189,7 +17450,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 75 Fire damage to all foes. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 60 ATK: 140, DEF: 140, INT: 140, ABI: 80, CAM: 50%"
     },
     {
         "id": "263",
@@ -17277,7 +17539,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 75 Wind damage to all foes. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 60 HP: 1200, ATK: 140, DEF: 120, SPD: 130, ABI: 80"
     },
     {
         "id": "264",
@@ -17355,7 +17618,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 80 Neutral damage to all foes. Always Hits"
             }
-        ]
+        ],
+        "requirements": "Level: 60 HP: 1500, ATK: 140, DEF: 120, ABI: 20"
     },
     {
         "id": "265",
@@ -17435,7 +17699,8 @@
                 "inherit": "Yes",
                 "description": "Magic attack, 30 Light damage to one foe. Prevents the use of support skills"
             }
-        ]
+        ],
+        "requirements": "Level: 60 SP: 100, INT: 120, SPD: 140, ABI: 80"
     },
     {
         "id": "266",
@@ -17513,7 +17778,8 @@
                 "inherit": "Yes",
                 "description": "Magic attack, 30 Light damage to one foe. Prevents the use of support skills"
             }
-        ]
+        ],
+        "requirements": "Level: 0 Mode Change"
     },
     {
         "id": "267",
@@ -17591,7 +17857,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 75 Fire damage to all foes. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 50 HP: 1600, ATK: 160, ABI: 20"
     },
     {
         "id": "268",
@@ -17669,7 +17936,8 @@
                 "inherit": "Yes",
                 "description": "Magic attack, 95 Water damage to one foe. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 55 HP: 1000, SP: 100, INT: 130, ABI: 20"
     },
     {
         "id": "269",
@@ -17747,7 +18015,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 75 Thunder damage to all foes. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 55 ATK: 100, DEF: 130, INT: 100, ABI: 20"
     },
     {
         "id": "270",
@@ -17825,7 +18094,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 80 Neutral damage to all foes. Always Hits"
             }
-        ]
+        ],
+        "requirements": "Level: 50 ATK: 120, DEF: 135, ABI: 2"
     },
     {
         "id": "271",
@@ -17903,7 +18173,8 @@
                 "inherit": "Yes",
                 "description": "Magic attack, 65 Dark damage to all foes. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 60 SP: 160, DEF: 120, INT: 200, ABI: 80"
     },
     {
         "id": "272",
@@ -17986,7 +18257,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 75 Earth damage to all foes. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 55 ATK: 120, DEF: 130, ABI: 20"
     },
     {
         "id": "273",
@@ -18067,7 +18339,8 @@
                 "inherit": "Yes",
                 "description": "Magic attack, 65 Dark damage to all foes. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 50 ATK: 130, INT: 160, SPD: 110, ABI: 20"
     },
     {
         "id": "274",
@@ -18148,7 +18421,8 @@
                 "inherit": "Yes",
                 "description": "Magic attack, 65 Plant damage to all foes. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 50 ATK: 130, DEF: 130, INT: 130, ABI: 20"
     },
     {
         "id": "275",
@@ -18227,7 +18501,8 @@
                 "inherit": "Yes",
                 "description": "Reduces SPD of all enemies by 10%"
             }
-        ]
+        ],
+        "requirements": "Level: 65 ABI: 10"
     },
     {
         "id": "276",
@@ -18317,7 +18592,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 75 Fire damage to all foes. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 55 HP: 1800, ATK: 140, DEF: 140, ABI: 20"
     },
     {
         "id": "277",
@@ -18396,7 +18672,8 @@
                 "inherit": "Yes",
                 "description": "Restores a lot of HP for one party member"
             }
-        ]
+        ],
+        "requirements": "Level: 45 DEF: 150, ABI: 20"
     },
     {
         "id": "278",
@@ -18476,7 +18753,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 75 Earth damage to all foes. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 55 HP: 1500, ATK: 160, DEF: 140, ABI: 20"
     },
     {
         "id": "279",
@@ -18555,7 +18833,8 @@
                 "inherit": "Yes",
                 "description": "Magic attack, 65 Water damage to all foes. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 50 SP: 100, DEF: 120, INT: 145, ABI: 20"
     },
     {
         "id": "280",
@@ -18635,7 +18914,8 @@
                 "inherit": "Yes",
                 "description": "Magic attack, 65 Plant damage to all foes. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 50 HP: 1100, DEF: 150, INT: 120, ABI: 20"
     },
     {
         "id": "281",
@@ -18714,7 +18994,8 @@
                 "inherit": "Yes",
                 "description": "Magic attack, 65 Dark damage to all foes. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 60 HP: 2000, ATK: 250, SPD: 150, ABI: 80"
     },
     {
         "id": "282",
@@ -18790,7 +19071,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 75 Fire damage to all foes. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 80 HP: 2100, ATK: 300, SPD: 220, ABI: 100, CAM: 100%"
     },
     {
         "id": "283",
@@ -18870,7 +19152,8 @@
                 "inherit": "Yes",
                 "description": "Magic attack, 65 Dark damage to all foes. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 60 HP: 1700, SP: 140, INT: 180, ABI: 80"
     },
     {
         "id": "284",
@@ -18948,7 +19231,8 @@
                 "inherit": "Yes",
                 "description": "Make one member endure all attacks that could kill you once"
             }
-        ]
+        ],
+        "requirements": "Level: 50 INT: 130, SPD: 150, ABI: 20"
     },
     {
         "id": "285",
@@ -19026,7 +19310,8 @@
                 "inherit": "Yes",
                 "description": "Magic attack, 65 Light damage to all foes. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 55 HP: 900, SP: 120, INT: 145, ABI: 20"
     },
     {
         "id": "286",
@@ -19104,7 +19389,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 75 Thunder damage to all foes. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 50 ATK: 145, DEF: 100, ABI: 20"
     },
     {
         "id": "287",
@@ -19184,7 +19470,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 75 Thunder damage to all foes. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 50 ATK: 130, SPD: 160, ABI: 20, CAM: 80%"
     },
     {
         "id": "288",
@@ -19262,7 +19549,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 75 Thunder damage to all foes. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 0 Mode Change"
     },
     {
         "id": "289",
@@ -19339,7 +19627,8 @@
                 "inherit": "Yes",
                 "description": "Make one member endure all attacks that could kill you once"
             }
-        ]
+        ],
+        "requirements": "Level: 60 SP: 120, ATK: 120, INT: 120, ABI: 80, CAM: 100%, Digimon: LadyDevimon"
     },
     {
         "id": "290",
@@ -19417,7 +19706,8 @@
                 "inherit": "Yes",
                 "description": "Make one member endure all attacks that could kill you once"
             }
-        ]
+        ],
+        "requirements": "Level: 50 SP: 110, INT: 135, ABI: 20, CAM: 50%"
     },
     {
         "id": "291",
@@ -19497,7 +19787,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 80 Neutral damage to all foes. Always Hits"
             }
-        ]
+        ],
+        "requirements": "Level: 55 ATK: 150, SPD: 140, ABI: 20"
     },
     {
         "id": "292",
@@ -19577,7 +19868,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 75 Wind damage to all foes. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 55 ATK: 120, SPD: 130, ABI: 20"
     },
     {
         "id": "293",
@@ -19653,7 +19945,8 @@
                 "inherit": "Yes",
                 "description": "Magic attack, 65 Light damage to all foes. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 60 ATK: 200, SPD: 200, ABI: 30, CAM: 100%"
     },
     {
         "id": "294",
@@ -19734,7 +20027,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 75 Thunder damage to all foes. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 50 HP: 1300, ATK: 130, DEF: 130, ABI: 20"
     },
     {
         "id": "295",
@@ -19813,7 +20107,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 75 Fire damage to all foes. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 55 HP: 1700, ATK: 180, ABI: 40"
     },
     {
         "id": "296",
@@ -19892,7 +20187,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 75 Earth damage to all foes. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 45 SP: 100, ATK: 120, DEF: 140, ABI: 20"
     },
     {
         "id": "297",
@@ -19982,7 +20278,8 @@
                 "inherit": "Yes",
                 "description": "Magic attack, 65 Water damage to all foes. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 55 ATK: 130, DEF: 120, SPD: 150, ABI: 20, CAM: 80%"
     },
     {
         "id": "298",
@@ -20073,7 +20370,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 75 Thunder damage to all foes. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 55 DEF: 135, SPD: 125, ABI: 20"
     },
     {
         "id": "299",
@@ -20153,7 +20451,8 @@
                 "inherit": "Yes",
                 "description": "Magic attack, 65 Water damage to all foes. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 50 SP: 120, DEF: 120, INT: 120, ABI: 20"
     },
     {
         "id": "300",
@@ -20230,7 +20529,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 75 Wind damage to all foes. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 55 ATK: 130, INT: 110, SPD: 160, ABI: 20"
     },
     {
         "id": "301",
@@ -20308,7 +20608,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 75 Thunder damage to all foes. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 55 HP: 1300, ATK: 180, DEF: 150, ABI: 20"
     },
     {
         "id": "302",
@@ -20386,7 +20687,8 @@
                 "inherit": "Yes",
                 "description": "Magic attack, 65 Water damage to all foes. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 60 Requires:"
     },
     {
         "id": "303",
@@ -20463,7 +20765,8 @@
                 "inherit": "Yes",
                 "description": "Magic attack, 65 Dark damage to all foes. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 60 SP: 200, INT: 250, SPD: 130, ABI: 80"
     },
     {
         "id": "304",
@@ -20543,7 +20846,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 75 Wind damage to all foes. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 55 ATK: 130, SPD: 160, ABI: 20"
     },
     {
         "id": "305",
@@ -20619,7 +20923,8 @@
                 "inherit": "Yes",
                 "description": "Magic attack, 30 Light damage to one foe. Prevents the use of support skills"
             }
-        ]
+        ],
+        "requirements": "Level: 60 SP: 160, SPD: 250, ABI: 30, CAM: 100%"
     },
     {
         "id": "306",
@@ -20706,7 +21011,8 @@
                 "inherit": "Yes",
                 "description": "Magic attack, 65 Dark damage to all foes. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 60 ATK: 120, INT: 135, SPD: 150, ABI: 80, CAM: 50%"
     },
     {
         "id": "307",
@@ -20786,7 +21092,8 @@
                 "inherit": "Yes",
                 "description": "Magic attack, 65 Plant damage to all foes. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 55 SP: 120, INT: 120, ABI: 20"
     },
     {
         "id": "308",
@@ -20862,7 +21169,8 @@
                 "inherit": "Yes",
                 "description": "Revive all fallen party members with full HP"
             }
-        ]
+        ],
+        "requirements": "Level: 60 SP: 170, INT: 180, ABI: 30, CAM: 100%"
     },
     {
         "id": "309",
@@ -20940,7 +21248,8 @@
                 "inherit": "Yes",
                 "description": "Magic attack, 65 Plant damage to all foes. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 55 INT: 170, SPD: 130, ABI: 20"
     },
     {
         "id": "310",
@@ -21026,7 +21335,8 @@
                 "inherit": "Yes",
                 "description": "Reduces INT of all enemies by 10%"
             }
-        ]
+        ],
+        "requirements": "Level: 70 HP: 2000, SP: 140, ATK: 290, ABI: 100"
     },
     {
         "id": "311",
@@ -21102,7 +21412,8 @@
                 "inherit": "Yes",
                 "description": "Magic attack, 65 Dark damage to all foes. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": ""
     },
     {
         "id": "312",
@@ -21179,7 +21490,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 105 Dark damage to one foe. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 60 ATK: 180, DEF: 170, INT: 150, ABI: 80, CAM: 100%, Digimon: Ouryumon"
     },
     {
         "id": "313",
@@ -21255,7 +21567,8 @@
                 "inherit": "Yes",
                 "description": "Revive all fallen party members with full HP"
             }
-        ]
+        ],
+        "requirements": "Level: 70 ATK: 160, DEF: 160, INT: 160, SPD: 160, ABI: 100"
     },
     {
         "id": "314",
@@ -21342,7 +21655,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 75 Wind damage to all foes. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 60 HP: 1650, ATK: 150, SPD: 150, ABI: 100, CAM: 100%, Digimon: Breakdramon"
     },
     {
         "id": "315",
@@ -21429,7 +21743,8 @@
                 "inherit": "Yes",
                 "description": "Magic attack, 95 Light damage to one foe. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 60 ATK: 200, INT: 150, SPD: 150, ABI: 40, CAM: 100%, Digimon: MetalGarurumon"
     },
     {
         "id": "316",
@@ -21516,7 +21831,8 @@
                 "inherit": "Yes",
                 "description": "Magic attack, 65 Dark damage to all foes. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 60 HP: 1500, ATK: 150, DEF: 200, ABI: 40, CAM: 100%, Digimon: MetalGarurumon (Blk)"
     },
     {
         "id": "317",
@@ -21603,7 +21919,8 @@
                 "inherit": "Yes",
                 "description": "Magic attack, 30 Neutral damage to one foe. Makes target buggy. 70% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 60 ATK: 255, ABI: 40, CAM: 100%, Digimon: Darkdramon"
     },
     {
         "id": "318",
@@ -21690,7 +22007,8 @@
                 "inherit": "Yes",
                 "description": "Magic attack, 30 Neutral damage to one foe. Makes target buggy. 70% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 60 ATK: 155, INT: 100, ABI: 40, CAM: 100%, Digimon: BanchoLeomon"
     },
     {
         "id": "319",
@@ -21777,7 +22095,8 @@
                 "inherit": "Yes",
                 "description": "Revive all fallen party members with full HP"
             }
-        ]
+        ],
+        "requirements": "Level: 60 HP: 1000, ATK: 150, INT: 150, ABI: 100, CAM: 100%, Digimon: MagnaGarurumon"
     },
     {
         "id": "320",
@@ -21853,7 +22172,8 @@
                 "inherit": "Yes",
                 "description": "Restores a lot of HP for one party member"
             }
-        ]
+        ],
+        "requirements": "Level: 80 ATK: 185, DEF: 185, INT: 185, ABI: 80, CAM: 100%"
     },
     {
         "id": "321",
@@ -21931,7 +22251,8 @@
                 "inherit": "Yes",
                 "description": "Magic attack, 65 Dark damage to all foes. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 0 Mode Change"
     },
     {
         "id": "322",
@@ -22007,7 +22328,8 @@
                 "inherit": "Yes",
                 "description": "Magic attack, 30 Light damage to one foe. Prevents the use of support skills"
             }
-        ]
+        ],
+        "requirements": "Level: 70 HP: 1400, SP: 160, ATK: 130, INT: 250, SPD: 170, ABI: 100"
     },
     {
         "id": "323",
@@ -22063,7 +22385,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 105 Fire damage to one foe. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 14 ATK: 40, SPD: 40, CAM: 25%, Item: Digi-Egg of Courage"
     },
     {
         "id": "324",
@@ -22150,7 +22473,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 75 Earth damage to all foes. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 60 ATK: 120, DEF: 145, ABI: 80, CAM: 50%, Item: Digi-Egg of Miracles"
     },
     {
         "id": "325",
@@ -22227,7 +22551,8 @@
                 "inherit": "Yes",
                 "description": "Magic attack, 65 Light damage to all foes. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 50 ATK: 100, DEF: 120, INT: 120, ABI: 40, CAM: 50%, Item: Digi-Egg of Destiny"
     },
     {
         "id": "326",
@@ -22275,7 +22600,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 40 Earth damage to one foe. Stuns target. 70% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 8 ATK: 30, SPD: 20, CAM: 10%"
     },
     {
         "id": "327",
@@ -22361,7 +22687,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 80 Neutral damage to all foes. Always Hits"
             }
-        ]
+        ],
+        "requirements": "Level: 60 ATK: 130, DEF: 130, SPD: 120, ABI: 80"
     },
     {
         "id": "328",
@@ -22411,7 +22738,8 @@
                 "inherit": "Yes",
                 "description": "Increases CRIT of one battle member by 10%"
             }
-        ]
+        ],
+        "requirements": "Level: 8 ATK: 30, DEF: 30"
     },
     {
         "id": "329",
@@ -22473,7 +22801,8 @@
                 "inherit": "Yes",
                 "description": "Increases SPD of one member by 10%"
             }
-        ]
+        ],
+        "requirements": "Level: 14 ATK: 40, DEF: 40"
     },
     {
         "id": "330",
@@ -22546,7 +22875,8 @@
                 "inherit": "Yes",
                 "description": "Increases CRIT of one battle member by 10%"
             }
-        ]
+        ],
+        "requirements": "Level: 30 HP: 400, ATK: 95, DEF: 75"
     },
     {
         "id": "331",
@@ -22626,7 +22956,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 80 Neutral damage to all foes. Always Hits"
             }
-        ]
+        ],
+        "requirements": "Level: 50 HP: 1300, ATK: 180, ABI: 20"
     },
     {
         "id": "332",
@@ -22705,7 +23036,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 80 Neutral damage to all foes. Always Hits"
             }
-        ]
+        ],
+        "requirements": "Level: 99 ABI: 120"
     },
     {
         "id": "333",
@@ -22766,7 +23098,8 @@
                 "inherit": "Yes",
                 "description": "Magic attack, 55 Light damage to one foe. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 7 SP: 20, INT: 30, CAM: 50%, DLC Required"
     },
     {
         "id": "334",
@@ -22852,7 +23185,8 @@
                 "inherit": "Yes",
                 "description": "Revive all fallen party members with full HP"
             }
-        ]
+        ],
+        "requirements": "Level: 60 HP: 1150, SP: 130, INT: 150, ABI: 50, DLC Required"
     },
     {
         "id": "335",
@@ -22914,7 +23248,8 @@
                 "inherit": "Yes",
                 "description": "Magic attack, 20 Dark damage to all foes. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": "Level: 14 SP: 40, SPD: 50, CAM: 10%, DLC Required"
     },
     {
         "id": "336",
@@ -23000,7 +23335,8 @@
                 "inherit": "Yes",
                 "description": "Restores a lot of HP for all party members"
             }
-        ]
+        ],
+        "requirements": "Level: 60 HP: 1150, ATK: 130, SPD: 150, ABI: 50, DLC Required"
     },
     {
         "id": "337",
@@ -23084,7 +23420,8 @@
                 "inherit": "Yes",
                 "description": "Increase COMBO for one member by 100%"
             }
-        ]
+        ],
+        "requirements": ""
     },
     {
         "id": "338",
@@ -23168,7 +23505,8 @@
                 "inherit": "Yes",
                 "description": "Physical attack, 80 Neutral damage to all foes. Always Hits"
             }
-        ]
+        ],
+        "requirements": ""
     },
     {
         "id": "339",
@@ -23252,7 +23590,8 @@
                 "inherit": "Yes",
                 "description": "Magic attack, 65 Water damage to all foes. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": ""
     },
     {
         "id": "340",
@@ -23336,7 +23675,8 @@
                 "inherit": "Yes",
                 "description": "Revive all fallen party members with full HP"
             }
-        ]
+        ],
+        "requirements": ""
     },
     {
         "id": "341",
@@ -23420,6 +23760,7 @@
                 "inherit": "Yes",
                 "description": "Magic attack, 95 Wind damage to one foe. 95% accuracy"
             }
-        ]
+        ],
+        "requirements": ""
     }
 ]
