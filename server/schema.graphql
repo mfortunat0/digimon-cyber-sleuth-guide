@@ -1,0 +1,38 @@
+type Digimon{
+    id: String
+    name: String
+    type: String
+    memory: String
+    requirements: String
+    attribute: String
+    equipSlot: String
+    supSkillName: String
+    supSkillDescribe: String
+    digivolveFrom: [String]
+    digivolveInto: [String]
+    skills: [Skill]
+}
+
+type Skill{
+    level: String
+    name: String
+    sp: String
+    type: String
+    power: String
+    attribute: String
+    inherit: String
+    description: String
+}
+
+input InputDigimon{
+    id: String = "all"
+    name: String = "all"
+    type: String = "all"
+    memory: String = "all"
+    attribute: String = "all"
+    equipSlot: String = "all"
+}
+
+type Query{
+    digimon(digimon: InputDigimon): [Digimon]
+}
