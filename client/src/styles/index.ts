@@ -12,6 +12,10 @@ interface IContainer {
   show: boolean;
 }
 
+interface IDescribe {
+  textTransform: string;
+}
+
 const Row = styled.div<IRow>`
   width: 100%;
   display: flex;
@@ -59,7 +63,7 @@ const ProfileImage = styled.div<IProfileImage>`
 `;
 
 const CardContainer = styled.div`
-  padding: 3vh 3vh 3vh 3vh;
+  padding: 3vh 3vw 3vh 3vw;
   margin-bottom: 3vh;
   background-color: #008ec7;
   box-shadow: 0px 0px 7px 0px rgba(0, 142, 199, 1);
@@ -67,7 +71,19 @@ const CardContainer = styled.div`
   height: 78vh;
   width: 425px;
   @media (max-width: 425px) {
+    overflow: auto;
     width: 85vw;
+    ::-webkit-scrollbar {
+      width: 3px;
+      margin-right: 2px;
+    }
+    ::-webkit-scrollbar-track {
+      border-radius: 10px;
+    }
+    ::-webkit-scrollbar-thumb {
+      background: white;
+      border-radius: 4px;
+    }
   }
 `;
 
@@ -75,13 +91,17 @@ const ProfileName = styled.h1`
   color: white;
   text-align: center;
   font-size: 4.5vh;
+  ::first-letter {
+    text-transform: uppercase;
+  }
 `;
 
-const Describe = styled.p`
+const Describe = styled.p<IDescribe>`
   color: white;
   font-size: 2.7vh;
   letter-spacing: 1px;
   font-weight: 400;
+  text-transform: ${(props) => props.textTransform};
 `;
 
 const EvoltutionTitle = styled.h3`
@@ -118,8 +138,8 @@ const DescribeContainer = styled.div<IContainer>`
   display: ${(props) => (props.show ? "inline-block" : "none")};
   @media (max-width: 425px) {
     width: 78vw;
+    padding-right: 3vw;
   }
-  padding-right: 3vw;
 `;
 
 const TabContainer = styled.div`
