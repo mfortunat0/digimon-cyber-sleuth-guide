@@ -19,7 +19,7 @@ const app = express();
 app.use(router);
 app.use("/images", express.static(join(__dirname, "../images")));
 
-app.listen(3000, () => console.log("Rest on port 3000"));
+app.listen(3001, () => console.log("Rest on port 3000"));
 server.listen().then(() => {
     console.log("Graphql on port 4000");
 });
