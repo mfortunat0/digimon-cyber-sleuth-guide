@@ -1,4 +1,5 @@
 import express from "express";
+import cors from "cors";
 import { ApolloServer } from "apollo-server";
 import { readFileSync } from "fs";
 import { join } from "path";
@@ -16,6 +17,7 @@ const server = new ApolloServer({
 });
 
 const app = express();
+app.use(cors());
 app.use(router);
 app.use("/images", express.static(join(__dirname, "../images")));
 
