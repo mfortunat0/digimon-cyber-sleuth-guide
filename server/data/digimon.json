@@ -26,7 +26,8 @@
                 "description": "Magic attack, 30 Dark damage to one foe"
             }
         ],
-        "requirements": ""
+        "requirements": "",
+        "stage": "baby"
     },
     {
         "id": "002",
@@ -55,7 +56,8 @@
                 "description": "Physical attack, 25 Plant damage to one foe. 10% chance of reducing target's SPD by 10%"
             }
         ],
-        "requirements": ""
+        "requirements": "",
+        "stage": "baby"
     },
     {
         "id": "003",
@@ -83,7 +85,8 @@
                 "description": "Magic attack, 30 Water damage to one foe"
             }
         ],
-        "requirements": ""
+        "requirements": "",
+        "stage": "baby"
     },
     {
         "id": "004",
@@ -111,7 +114,8 @@
                 "description": "Magic attack, 30 Water damage to one foe"
             }
         ],
-        "requirements": ""
+        "requirements": "",
+        "stage": "baby"
     },
     {
         "id": "005",
@@ -139,7 +143,8 @@
                 "description": "Magic attack, 35 Water damage to one foe"
             }
         ],
-        "requirements": ""
+        "requirements": "",
+        "stage": "baby"
     },
     {
         "id": "006",
@@ -178,7 +183,8 @@
                 "description": "Physical attack, 50 Neutral damage to one foe. Absorb 10% SP"
             }
         ],
-        "requirements": "Level: 8 ATK: 55, ABI: 5, Cleared \"Hacker's Memory\""
+        "requirements": "Level: 8 ATK: 55, ABI: 5, Cleared \"Hacker's Memory\"",
+        "stage": "in-Training"
     },
     {
         "id": "007",
@@ -222,7 +228,8 @@
                 "description": "Physical attack, 65 Fire damage to one foe. 95% accuracy"
             }
         ],
-        "requirements": "Level: 3 ATK: 15"
+        "requirements": "Level: 3 ATK: 15",
+        "stage": "in-Training"
     },
     {
         "id": "008",
@@ -264,7 +271,8 @@
                 "description": "Magic attack, 55 Plant damage to one foe. 95% accuracy"
             }
         ],
-        "requirements": "Level: 5"
+        "requirements": "Level: 5",
+        "stage": "in-Training"
     },
     {
         "id": "009",
@@ -308,7 +316,8 @@
                 "description": "Physical attack, 65 Earth damage to one foe. 95% accuracy"
             }
         ],
-        "requirements": "Level: 5"
+        "requirements": "Level: 5",
+        "stage": "in-Training"
     },
     {
         "id": "010",
@@ -350,7 +359,8 @@
                 "description": "Physical attack, 65 Dark damage to one foe. 95% accuracy"
             }
         ],
-        "requirements": "Level: 5"
+        "requirements": "Level: 5",
+        "stage": "in-Training"
     },
     {
         "id": "011",
@@ -393,7 +403,8 @@
                 "description": "Physical attack, 70 Neutral damage to one foe. Always Hits"
             }
         ],
-        "requirements": "Level: 5"
+        "requirements": "Level: 5",
+        "stage": "in-Training"
     },
     {
         "id": "012",
@@ -435,7 +446,8 @@
                 "description": "Physical attack, 65 Light damage to one foe. 95% accuracy"
             }
         ],
-        "requirements": "Level: 3 INT: 10"
+        "requirements": "Level: 3 INT: 10",
+        "stage": "in-Training"
     },
     {
         "id": "013",
@@ -477,7 +489,8 @@
                 "description": "Magic attack, 55 Dark damage to one foe. 95% accuracy"
             }
         ],
-        "requirements": "Level: 5"
+        "requirements": "Level: 5",
+        "stage": "in-Training"
     },
     {
         "id": "014",
@@ -519,7 +532,8 @@
                 "description": "Physical attack, 65 Plant damage to one foe. 95% accuracy"
             }
         ],
-        "requirements": "Level: 3 HP: 50"
+        "requirements": "Level: 3 HP: 50",
+        "stage": "in-Training"
     },
     {
         "id": "015",
@@ -561,7 +575,8 @@
                 "description": "Magic attack, 55 Water damage to one foe. 95% accuracy"
             }
         ],
-        "requirements": "Level: 3 INT: 15"
+        "requirements": "Level: 3 INT: 15",
+        "stage": "in-Training"
     },
     {
         "id": "016",
@@ -603,7 +618,8 @@
                 "description": "Magic attack, 60 Neutral damage to one foe. Always Hits"
             }
         ],
-        "requirements": "Level: 3 DEF: 15"
+        "requirements": "Level: 3 DEF: 15",
+        "stage": "in-Training"
     },
     {
         "id": "017",
@@ -645,7 +661,8 @@
                 "description": "Physical attack, 65 Wind damage to one foe. 95% accuracy"
             }
         ],
-        "requirements": "Level: 5"
+        "requirements": "Level: 5",
+        "stage": "in-Training"
     },
     {
         "id": "018",
@@ -699,7 +716,8 @@
                 "description": "Increases ATK of one member by 10%"
             }
         ],
-        "requirements": "Level: 9 ATK: 30, CAM: 10%"
+        "requirements": "Level: 9 ATK: 30, CAM: 10%",
+        "stage": "rookie"
     },
     {
         "id": "019",
@@ -753,7 +771,8 @@
                 "description": "Increases DEF of one member by 10%"
             }
         ],
-        "requirements": "Level: 8 ATK: 30"
+        "requirements": "Level: 8 ATK: 30",
+        "stage": "rookie"
     },
     {
         "id": "020",
@@ -804,7 +823,8 @@
                 "description": "Physical attack, 65 Dark damage to one foe. 95% accuracy"
             }
         ],
-        "requirements": ""
+        "requirements": "",
+        "stage": "rookie"
     },
     {
         "id": "021",
@@ -858,7 +878,8 @@
                 "description": "Physical attack, 40 Earth damage to one foe. Stuns target. 70% accuracy"
             }
         ],
-        "requirements": "Level: 7 HP: 75, DEF: 20, CAM: 10%"
+        "requirements": "Level: 7 HP: 75, DEF: 20, CAM: 10%",
+        "stage": "rookie"
     },
     {
         "id": "022",
@@ -912,7 +933,8 @@
                 "description": "Magic attack, 30 Water damage to one foe. Puts target to sleep. 70% accuracy"
             }
         ],
-        "requirements": "Level: 7 SP: 20, INT: 30"
+        "requirements": "Level: 7 SP: 20, INT: 30",
+        "stage": "rookie"
     },
     {
         "id": "023",
@@ -966,7 +988,8 @@
                 "description": "Physical attack, 40 Thunder damage to one foe. Paralyzes target. 70% accuracy"
             }
         ],
-        "requirements": "Level: 7 HP: 75, SP: 20, SPD: 20"
+        "requirements": "Level: 7 HP: 75, SP: 20, SPD: 20",
+        "stage": "rookie"
     },
     {
         "id": "024",
@@ -1020,7 +1043,8 @@
                 "description": "Recover Sleep from one party member and restore some HP"
             }
         ],
-        "requirements": "Level: 7 INT: 20"
+        "requirements": "Level: 7 INT: 20",
+        "stage": "rookie"
     },
     {
         "id": "025",
@@ -1074,7 +1098,8 @@
                 "description": "Increases EVA of one battle member by 10%"
             }
         ],
-        "requirements": "Level: 9 ATK: 20, SPD: 20, CAM: 10%"
+        "requirements": "Level: 9 ATK: 20, SPD: 20, CAM: 10%",
+        "stage": "rookie"
     },
     {
         "id": "026",
@@ -1128,7 +1153,8 @@
                 "description": "Magic attack, 30 Fire damage to one foe. Confuses target. 70% accuracy"
             }
         ],
-        "requirements": "Level: 9 ATK: 15, SPD: 20"
+        "requirements": "Level: 9 ATK: 15, SPD: 20",
+        "stage": "rookie"
     },
     {
         "id": "027",
@@ -1182,7 +1208,8 @@
                 "description": "Recover Stun from one party member and restore some HP"
             }
         ],
-        "requirements": "Level: 7 HP: 75, ATK: 20, SPD: 20"
+        "requirements": "Level: 7 HP: 75, ATK: 20, SPD: 20",
+        "stage": "rookie"
     },
     {
         "id": "028",
@@ -1235,7 +1262,8 @@
                 "description": "Recover Panic from one party member and restore some HP"
             }
         ],
-        "requirements": "Level: 6 HP: 80, ATK: 30"
+        "requirements": "Level: 6 HP: 80, ATK: 30",
+        "stage": "rookie"
     },
     {
         "id": "029",
@@ -1289,7 +1317,8 @@
                 "description": "Increases ATK of one member by 10%"
             }
         ],
-        "requirements": "Level: 7 ATK: 30, SPD: 20"
+        "requirements": "Level: 7 ATK: 30, SPD: 20",
+        "stage": "rookie"
     },
     {
         "id": "030",
@@ -1342,7 +1371,8 @@
                 "description": "Magic attack, 55 Light damage to one foe. 95% accuracy"
             }
         ],
-        "requirements": "Level: 8 SP: 20, INT: 20"
+        "requirements": "Level: 8 SP: 20, INT: 20",
+        "stage": "rookie"
     },
     {
         "id": "031",
@@ -1395,7 +1425,8 @@
                 "description": "Reduces DEF of one enemy by 10%"
             }
         ],
-        "requirements": "Level: 9 ATK: 20, SPD: 20"
+        "requirements": "Level: 9 ATK: 20, SPD: 20",
+        "stage": "rookie"
     },
     {
         "id": "032",
@@ -1449,7 +1480,8 @@
                 "description": "Physical attack, 65 Earth damage to one foe. 95% accuracy"
             }
         ],
-        "requirements": "Level: 8 DEF: 30"
+        "requirements": "Level: 8 DEF: 30",
+        "stage": "rookie"
     },
     {
         "id": "033",
@@ -1503,7 +1535,8 @@
                 "description": "Physical attack, 40 Earth damage to one foe. Stuns target. 70% accuracy"
             }
         ],
-        "requirements": "Level: 7 ATK: 40"
+        "requirements": "Level: 7 ATK: 40",
+        "stage": "rookie"
     },
     {
         "id": "034",
@@ -1557,7 +1590,8 @@
                 "description": "Recover Panic from one party member and restore some HP"
             }
         ],
-        "requirements": "Level: 8 HP: 100, CAM: 10%"
+        "requirements": "Level: 8 HP: 100, CAM: 10%",
+        "stage": "rookie"
     },
     {
         "id": "035",
@@ -1610,7 +1644,8 @@
                 "description": "Recover Sleep from one party member and restore some HP"
             }
         ],
-        "requirements": "Level: 7 DEF: 15, INT: 20"
+        "requirements": "Level: 7 DEF: 15, INT: 20",
+        "stage": "rookie"
     },
     {
         "id": "036",
@@ -1662,7 +1697,8 @@
                 "description": "Increases ATK of one member by 10%"
             }
         ],
-        "requirements": "Level: 10 ATK: 20, SPD: 20"
+        "requirements": "Level: 10 ATK: 20, SPD: 20",
+        "stage": "rookie"
     },
     {
         "id": "037",
@@ -1716,7 +1752,8 @@
                 "description": "Magic attack, 20 Light damage to all foes. 95% accuracy"
             }
         ],
-        "requirements": "Level: 6 HP: 75, DEF: 25"
+        "requirements": "Level: 6 HP: 75, DEF: 25",
+        "stage": "rookie"
     },
     {
         "id": "038",
@@ -1768,7 +1805,8 @@
                 "description": "Flee from a battle"
             }
         ],
-        "requirements": "Level: 6 SPD: 30"
+        "requirements": "Level: 6 SPD: 30",
+        "stage": "rookie"
     },
     {
         "id": "039",
@@ -1821,7 +1859,8 @@
                 "description": "Increases SPD of one member by 10%"
             }
         ],
-        "requirements": "Level: 8 SPD: 30, CAM: 10%"
+        "requirements": "Level: 8 SPD: 30, CAM: 10%",
+        "stage": "rookie"
     },
     {
         "id": "040",
@@ -1874,7 +1913,8 @@
                 "description": "Physical attack, 40 Thunder damage to one foe. Paralyzes target. 70% accuracy"
             }
         ],
-        "requirements": "Level: 9 DEF: 20"
+        "requirements": "Level: 9 DEF: 20",
+        "stage": "rookie"
     },
     {
         "id": "041",
@@ -1928,7 +1968,8 @@
                 "description": "Magic attack, 55 Fire damage to one foe. 95% accuracy"
             }
         ],
-        "requirements": "Level: 8 HP: 75, DEF: 20"
+        "requirements": "Level: 8 HP: 75, DEF: 20",
+        "stage": "rookie"
     },
     {
         "id": "042",
@@ -1981,7 +2022,8 @@
                 "description": "Physical attack, 40 Dark damage to one foe. 10% chance to inflict Death"
             }
         ],
-        "requirements": "Level: 8 ATK: 30, SPD: 20"
+        "requirements": "Level: 8 ATK: 30, SPD: 20",
+        "stage": "rookie"
     },
     {
         "id": "043",
@@ -2033,7 +2075,8 @@
                 "description": "Physical attack, 70 Neutral damage to one foe. Always Hits"
             }
         ],
-        "requirements": "Level: 6 ATK: 50, DEF: 20, CAM: 10%"
+        "requirements": "Level: 6 ATK: 50, DEF: 20, CAM: 10%",
+        "stage": "rookie"
     },
     {
         "id": "044",
@@ -2086,7 +2129,8 @@
                 "description": "Increases CRIT of one battle member by 10%"
             }
         ],
-        "requirements": "Level: 8 ATK: 20, SPD: 30"
+        "requirements": "Level: 8 ATK: 20, SPD: 30",
+        "stage": "rookie"
     },
     {
         "id": "045",
@@ -2139,7 +2183,8 @@
                 "description": "Magic attack, 55 Thunder damage to one foe. 95% accuracy"
             }
         ],
-        "requirements": "Level: 7 HP: 75, DEF: 30, CAM: 10%"
+        "requirements": "Level: 7 HP: 75, DEF: 30, CAM: 10%",
+        "stage": "rookie"
     },
     {
         "id": "046",
@@ -2193,7 +2238,8 @@
                 "description": "Increases INT of one member by 10%"
             }
         ],
-        "requirements": "Level: 7 INT: 20, SPD: 20, CAM: 10%"
+        "requirements": "Level: 7 INT: 20, SPD: 20, CAM: 10%",
+        "stage": "rookie"
     },
     {
         "id": "047",
@@ -2247,7 +2293,8 @@
                 "description": "Physical attack, 105 Fire damage to one foe. 95% accuracy"
             }
         ],
-        "requirements": "Level: 9 ATK: 20, ABI: 20, Item: Steel Will"
+        "requirements": "Level: 9 ATK: 20, ABI: 20, Item: Steel Will",
+        "stage": "rookie"
     },
     {
         "id": "048",
@@ -2301,7 +2348,8 @@
                 "description": "Recover Poison from one party member and restore some HP"
             }
         ],
-        "requirements": "Level: 8 HP: 100, CAM: 10%"
+        "requirements": "Level: 8 HP: 100, CAM: 10%",
+        "stage": "rookie"
     },
     {
         "id": "049",
@@ -2354,7 +2402,8 @@
                 "description": "Reduces ATK of one enemy by 10%"
             }
         ],
-        "requirements": "Level: 8 SPD: 30"
+        "requirements": "Level: 8 SPD: 30",
+        "stage": "rookie"
     },
     {
         "id": "050",
@@ -2407,7 +2456,8 @@
                 "description": "Increases INT of one member by 10%"
             }
         ],
-        "requirements": "Level: 8 INT: 20, SPD: 20, CAM: 10%"
+        "requirements": "Level: 8 INT: 20, SPD: 20, CAM: 10%",
+        "stage": "rookie"
     },
     {
         "id": "051",
@@ -2459,7 +2509,8 @@
                 "description": "Recover Paralyze from one party member and restore some HP"
             }
         ],
-        "requirements": "Level: 9 SPD: 30"
+        "requirements": "Level: 9 SPD: 30",
+        "stage": "rookie"
     },
     {
         "id": "052",
@@ -2512,7 +2563,8 @@
                 "description": "Increase COMBO for one member by 50%"
             }
         ],
-        "requirements": "Level: 6 SPD: 30"
+        "requirements": "Level: 6 SPD: 30",
+        "stage": "rookie"
     },
     {
         "id": "053",
@@ -2566,7 +2618,8 @@
                 "description": "Physical attack, 65 Wind damage to one foe. 95% accuracy"
             }
         ],
-        "requirements": "Level: 6 ATK: 20, SPD: 20, CAM: 10%"
+        "requirements": "Level: 6 ATK: 20, SPD: 20, CAM: 10%",
+        "stage": "rookie"
     },
     {
         "id": "054",
@@ -2620,7 +2673,8 @@
                 "description": "Restores a little HP for one party member"
             }
         ],
-        "requirements": "Level: 7 SP: 20, INT: 20, CAM: 10%"
+        "requirements": "Level: 7 SP: 20, INT: 20, CAM: 10%",
+        "stage": "rookie"
     },
     {
         "id": "055",
@@ -2674,7 +2728,8 @@
                 "description": "Recover Paralyze from one party member and restore some HP"
             }
         ],
-        "requirements": "Level: 8 INT: 40"
+        "requirements": "Level: 8 INT: 40",
+        "stage": "rookie"
     },
     {
         "id": "056",
@@ -2727,7 +2782,8 @@
                 "description": "Magic attack, 55 Wind damage to one foe. 95% accuracy"
             }
         ],
-        "requirements": "Level: 7 SPD: 30, CAM: 10%"
+        "requirements": "Level: 7 SPD: 30, CAM: 10%",
+        "stage": "rookie"
     },
     {
         "id": "057",
@@ -2779,7 +2835,8 @@
                 "description": "Physical attack, 65 Plant damage to one foe. 95% accuracy"
             }
         ],
-        "requirements": "Level: 8 HP: 75, DEF: 10"
+        "requirements": "Level: 8 HP: 75, DEF: 10",
+        "stage": "rookie"
     },
     {
         "id": "058",
@@ -2832,7 +2889,8 @@
                 "description": "Increases ATK of one member by 10%"
             }
         ],
-        "requirements": "Level: 8 ATK: 35, CAM: 10%"
+        "requirements": "Level: 8 ATK: 35, CAM: 10%",
+        "stage": "rookie"
     },
     {
         "id": "059",
@@ -2884,7 +2942,8 @@
                 "description": "Recover Poison from one party member and restore some HP"
             }
         ],
-        "requirements": "Level: 9 HP: 75"
+        "requirements": "Level: 9 HP: 75",
+        "stage": "rookie"
     },
     {
         "id": "060",
@@ -2955,7 +3014,8 @@
                 "description": "Restores HP for all party members"
             }
         ],
-        "requirements": "Level: 30 SP: 80, INT: 130, ABI: 80"
+        "requirements": "Level: 30 SP: 80, INT: 130, ABI: 80",
+        "stage": "rookie"
     },
     {
         "id": "061",
@@ -3007,7 +3067,8 @@
                 "description": "Magic attack, 30 Water damage to one foe. Puts target to sleep. 70% accuracy"
             }
         ],
-        "requirements": "Level: 8 SP: 30, INT: 20"
+        "requirements": "Level: 8 SP: 30, INT: 20",
+        "stage": "rookie"
     },
     {
         "id": "062",
@@ -3061,7 +3122,8 @@
                 "description": "Recover Panic from one party member and restore some HP"
             }
         ],
-        "requirements": "Level: 7 ATK: 20, INT: 20, SPD: 20"
+        "requirements": "Level: 7 ATK: 20, INT: 20, SPD: 20",
+        "stage": "rookie"
     },
     {
         "id": "063",
@@ -3115,7 +3177,8 @@
                 "description": "Reduces INT of one enemy by 10%"
             }
         ],
-        "requirements": "Level: 8 ATK: 15, INT: 20"
+        "requirements": "Level: 8 ATK: 15, INT: 20",
+        "stage": "rookie"
     },
     {
         "id": "064",
@@ -3169,7 +3232,8 @@
                 "description": "Reduces SPD of one enemy by 10%"
             }
         ],
-        "requirements": "Level: 8 DEF: 20, CAM: 10%"
+        "requirements": "Level: 8 DEF: 20, CAM: 10%",
+        "stage": "rookie"
     },
     {
         "id": "065",
@@ -3234,7 +3298,8 @@
                 "description": "Magic attack, 20 Dark damage to all foes. 95% accuracy"
             }
         ],
-        "requirements": "Level: 15 ATK: 40, INT: 40"
+        "requirements": "Level: 15 ATK: 40, INT: 40",
+        "stage": "champion"
     },
     {
         "id": "066",
@@ -3296,7 +3361,8 @@
                 "description": "Magic attack, 20 Water damage to all foes. 95% accuracy"
             }
         ],
-        "requirements": "Level: 15 HP: 110, DEF: 50"
+        "requirements": "Level: 15 HP: 110, DEF: 50",
+        "stage": "champion"
     },
     {
         "id": "067",
@@ -3361,7 +3427,8 @@
                 "description": "Physical attack, 30 Wind damage to all foes. 95% accuracy"
             }
         ],
-        "requirements": "Level: 14 SPD: 55"
+        "requirements": "Level: 14 SPD: 55",
+        "stage": "champion"
     },
     {
         "id": "068",
@@ -3424,7 +3491,8 @@
                 "description": "Doubles damage output in the next turn"
             }
         ],
-        "requirements": "Level: 15 HP: 150, ATK: 50, Item: Human Spirit of Flame"
+        "requirements": "Level: 15 HP: 150, ATK: 50, Item: Human Spirit of Flame",
+        "stage": "champion"
     },
     {
         "id": "069",
@@ -3487,7 +3555,8 @@
                 "description": "Counterattacks the enemy when you receive a physical attack"
             }
         ],
-        "requirements": ""
+        "requirements": "",
+        "stage": "champion"
     },
     {
         "id": "070",
@@ -3552,7 +3621,8 @@
                 "description": "Physical attack, 30 Earth damage to all foes. 95% accuracy"
             }
         ],
-        "requirements": "Level: 15 HP: 150, DEF: 40"
+        "requirements": "Level: 15 HP: 150, DEF: 40",
+        "stage": "champion"
     },
     {
         "id": "071",
@@ -3616,7 +3686,8 @@
                 "description": "Restores a little HP for one party member"
             }
         ],
-        "requirements": "Level: 15 HP: 300, CAM: 25%"
+        "requirements": "Level: 15 HP: 300, CAM: 25%",
+        "stage": "champion"
     },
     {
         "id": "072",
@@ -3680,7 +3751,8 @@
                 "description": "Magic attack, 75 Wind damage to one foe. 95% accuracy"
             }
         ],
-        "requirements": "Level: 14 SP: 35, INT: 55"
+        "requirements": "Level: 14 SP: 35, INT: 55",
+        "stage": "champion"
     },
     {
         "id": "073",
@@ -3743,7 +3815,8 @@
                 "description": "Physical attack, 90 Neutral damage to one foe. Always Hits"
             }
         ],
-        "requirements": "Level: 15 HP: 45, SPD: 55, Item: Human Spirit of Light"
+        "requirements": "Level: 15 HP: 45, SPD: 55, Item: Human Spirit of Light",
+        "stage": "champion"
     },
     {
         "id": "074",
@@ -3807,7 +3880,8 @@
                 "description": "Magic attack, 80 Neutral damage to one foe. Always Hits"
             }
         ],
-        "requirements": "Level: 14 HP: 500"
+        "requirements": "Level: 14 HP: 500",
+        "stage": "champion"
     },
     {
         "id": "075",
@@ -3871,7 +3945,8 @@
                 "description": "Physical attack, 85 Fire damage to one foe. 95% accuracy"
             }
         ],
-        "requirements": "Level: 14 ATK: 35, SPD: 45"
+        "requirements": "Level: 14 ATK: 35, SPD: 45",
+        "stage": "champion"
     },
     {
         "id": "076",
@@ -3936,7 +4011,8 @@
                 "description": "Magic attack, 75 Light damage to one foe. 95% accuracy"
             }
         ],
-        "requirements": "Level: 14 ATK: 40, SPD: 40, CAM: 25%"
+        "requirements": "Level: 14 ATK: 40, SPD: 40, CAM: 25%",
+        "stage": "champion"
     },
     {
         "id": "077",
@@ -4001,7 +4077,8 @@
                 "description": "Magic attack, 20 Light damage to all foes. 95% accuracy"
             }
         ],
-        "requirements": "Level: 16 INT: 40, ABI: 5"
+        "requirements": "Level: 16 INT: 40, ABI: 5",
+        "stage": "champion"
     },
     {
         "id": "078",
@@ -4065,7 +4142,8 @@
                 "description": "Physical attack, 85 Dark damage to one foe. 95% accuracy"
             }
         ],
-        "requirements": "Level: 14 ATK: 55"
+        "requirements": "Level: 14 ATK: 55",
+        "stage": "champion"
     },
     {
         "id": "079",
@@ -4130,7 +4208,8 @@
                 "description": "Magic attack, 75 Thunder damage to one foe. 95% accuracy"
             }
         ],
-        "requirements": "Level: 14 DEF: 55"
+        "requirements": "Level: 14 DEF: 55",
+        "stage": "champion"
     },
     {
         "id": "080",
@@ -4195,7 +4274,8 @@
                 "description": "Physical attack, 30 Thunder damage to all foes. 95% accuracy"
             }
         ],
-        "requirements": "Level: 14 HP: 130, DEF: 60"
+        "requirements": "Level: 14 HP: 130, DEF: 60",
+        "stage": "champion"
     },
     {
         "id": "081",
@@ -4258,7 +4338,8 @@
                 "description": "Physical attack, 85 Water damage to one foe. 95% accuracy"
             }
         ],
-        "requirements": "Level: 15 SPD: 55"
+        "requirements": "Level: 15 SPD: 55",
+        "stage": "champion"
     },
     {
         "id": "082",
@@ -4321,7 +4402,8 @@
                 "description": "Magic attack, 75 Thunder damage to one foe. 95% accuracy"
             }
         ],
-        "requirements": "Level: 14 DEF: 40, INT: 40"
+        "requirements": "Level: 14 DEF: 40, INT: 40",
+        "stage": "champion"
     },
     {
         "id": "083",
@@ -4384,7 +4466,8 @@
                 "description": "Increases DEF of one member by 10%"
             }
         ],
-        "requirements": "Level: 14 HP: 150, DEF: 55"
+        "requirements": "Level: 14 HP: 150, DEF: 55",
+        "stage": "champion"
     },
     {
         "id": "084",
@@ -4448,7 +4531,8 @@
                 "description": "Physical attack, 35 Neutral damage to all foes. Always Hits"
             }
         ],
-        "requirements": "Level: 15 HP: 150, SPD: 40"
+        "requirements": "Level: 15 HP: 150, SPD: 40",
+        "stage": "champion"
     },
     {
         "id": "085",
@@ -4512,7 +4596,8 @@
                 "description": "Flee from a battle"
             }
         ],
-        "requirements": "Level: 15 SPD: 50, CAM: 25%"
+        "requirements": "Level: 15 SPD: 50, CAM: 25%",
+        "stage": "champion"
     },
     {
         "id": "086",
@@ -4576,7 +4661,8 @@
                 "description": "Increases EVA of one battle member by 10%"
             }
         ],
-        "requirements": "Level: 15 ATK: 35, SPD: 50"
+        "requirements": "Level: 15 ATK: 35, SPD: 50",
+        "stage": "champion"
     },
     {
         "id": "087",
@@ -4639,7 +4725,8 @@
                 "description": "Increases INT of one member by 10%"
             }
         ],
-        "requirements": "Level: 14 SP: 40, INT: 40, SPD: 40"
+        "requirements": "Level: 14 SP: 40, INT: 40, SPD: 40",
+        "stage": "champion"
     },
     {
         "id": "088",
@@ -4704,7 +4791,8 @@
                 "description": "Increase COMBO for one member by 50%"
             }
         ],
-        "requirements": "Level: 15 ATK: 50, SPD: 20"
+        "requirements": "Level: 15 ATK: 50, SPD: 20",
+        "stage": "champion"
     },
     {
         "id": "089",
@@ -4770,7 +4858,8 @@
                 "description": "Reduces DEF of one enemy by 10%"
             }
         ],
-        "requirements": "Level: 16 HP: 150, ATK: 40"
+        "requirements": "Level: 16 HP: 150, ATK: 40",
+        "stage": "champion"
     },
     {
         "id": "090",
@@ -4834,7 +4923,8 @@
                 "description": "Doubles damage output in the next turn"
             }
         ],
-        "requirements": "Level: 16 ATK: 55, CAM: 50%"
+        "requirements": "Level: 16 ATK: 55, CAM: 50%",
+        "stage": "champion"
     },
     {
         "id": "091",
@@ -4898,7 +4988,8 @@
                 "description": "Increases ACC of one battle member by 10%"
             }
         ],
-        "requirements": "Level: 16 HP: 150, ATK: 50"
+        "requirements": "Level: 16 HP: 150, ATK: 50",
+        "stage": "champion"
     },
     {
         "id": "092",
@@ -4963,7 +5054,8 @@
                 "description": "Magic attack, 30 Water damage to one foe. Puts target to sleep. 70% accuracy"
             }
         ],
-        "requirements": "Level: 14 INT: 35"
+        "requirements": "Level: 14 INT: 35",
+        "stage": "champion"
     },
     {
         "id": "093",
@@ -5026,7 +5118,8 @@
                 "description": "Physical attack, 30 Wind damage to all foes. 95% accuracy"
             }
         ],
-        "requirements": "Level: 14 ATK: 55"
+        "requirements": "Level: 14 ATK: 55",
+        "stage": "champion"
     },
     {
         "id": "094",
@@ -5089,7 +5182,8 @@
                 "description": "Recover Sleep from one party member and restore some HP"
             }
         ],
-        "requirements": "Level: 14 SP: 40, INT: 40"
+        "requirements": "Level: 14 SP: 40, INT: 40",
+        "stage": "champion"
     },
     {
         "id": "095",
@@ -5152,7 +5246,8 @@
                 "description": "Physical attack, 85 Thunder damage to one foe. 95% accuracy"
             }
         ],
-        "requirements": "Level: 12 HP: 130, SP: 25, DEF: 40"
+        "requirements": "Level: 12 HP: 130, SP: 25, DEF: 40",
+        "stage": "champion"
     },
     {
         "id": "096",
@@ -5214,7 +5309,8 @@
                 "description": "Physical attack, 30 Wind damage to all foes. 95% accuracy"
             }
         ],
-        "requirements": "Level: 14 ATK: 60, SPD: 25"
+        "requirements": "Level: 14 ATK: 60, SPD: 25",
+        "stage": "champion"
     },
     {
         "id": "097",
@@ -5276,7 +5372,8 @@
                 "description": "Increases CRIT of one battle member by 10%"
             }
         ],
-        "requirements": "Level: 14 ATK: 40, DEF: 25, SPD: 40"
+        "requirements": "Level: 14 ATK: 40, DEF: 25, SPD: 40",
+        "stage": "champion"
     },
     {
         "id": "098",
@@ -5340,7 +5437,8 @@
                 "description": "Physical attack, 40 Wind damage to one foe. Crystallizes target. 70% accuracy"
             }
         ],
-        "requirements": "Level: 18 ABI: 5"
+        "requirements": "Level: 18 ABI: 5",
+        "stage": "champion"
     },
     {
         "id": "099",
@@ -5403,7 +5501,8 @@
                 "description": "Physical attack, 30 Fire damage to all foes. 95% accuracy"
             }
         ],
-        "requirements": "Level: 14 HP: 150, DEF: 60"
+        "requirements": "Level: 14 HP: 150, DEF: 60",
+        "stage": "champion"
     },
     {
         "id": "100",
@@ -5466,7 +5565,8 @@
                 "description": "Counterattacks the enemy when you receive a physical attack"
             }
         ],
-        "requirements": "Level: 14 ATK: 30, DEF: 40"
+        "requirements": "Level: 14 ATK: 30, DEF: 40",
+        "stage": "champion"
     },
     {
         "id": "101",
@@ -5530,7 +5630,8 @@
                 "description": "Physical attack, 50 Neutral damage to one foe. Absorb 10% SP"
             }
         ],
-        "requirements": "Level: 15 ATK: 50, SPD: 55"
+        "requirements": "Level: 15 ATK: 50, SPD: 55",
+        "stage": "champion"
     },
     {
         "id": "102",
@@ -5594,7 +5695,8 @@
                 "description": "Restores HP for one party member"
             }
         ],
-        "requirements": "Level: 14 HP: 150, INT: 40"
+        "requirements": "Level: 14 HP: 150, INT: 40",
+        "stage": "champion"
     },
     {
         "id": "103",
@@ -5658,7 +5760,8 @@
                 "description": "Counterattacks the enemy when you receive a magic attack"
             }
         ],
-        "requirements": "Level: 14 DEF: 30, INT: 40"
+        "requirements": "Level: 14 DEF: 30, INT: 40",
+        "stage": "champion"
     },
     {
         "id": "104",
@@ -5721,7 +5824,8 @@
                 "description": "Physical attack, 90 Neutral damage to one foe. Always Hits"
             }
         ],
-        "requirements": "Level: 14 HP: 300, SPD: 30"
+        "requirements": "Level: 14 HP: 300, SPD: 30",
+        "stage": "champion"
     },
     {
         "id": "105",
@@ -5785,7 +5889,8 @@
                 "description": "Counterattacks the enemy when you receive a physical attack"
             }
         ],
-        "requirements": "Level: 15 HP: 150, ATK: 50"
+        "requirements": "Level: 15 HP: 150, ATK: 50",
+        "stage": "champion"
     },
     {
         "id": "106",
@@ -5849,7 +5954,8 @@
                 "description": "Magic attack, 75 Dark damage to one foe. 95% accuracy"
             }
         ],
-        "requirements": "Level: 12 HP: 150, DEF: 40"
+        "requirements": "Level: 12 HP: 150, DEF: 40",
+        "stage": "champion"
     },
     {
         "id": "107",
@@ -5915,7 +6021,8 @@
                 "description": "Magic attack, 80 Neutral damage to one foe. Always Hits"
             }
         ],
-        "requirements": "Level: 14 HP: 150, DEF: 35"
+        "requirements": "Level: 14 HP: 150, DEF: 35",
+        "stage": "champion"
     },
     {
         "id": "108",
@@ -5980,7 +6087,8 @@
                 "description": "Physical attack, 85 Wind damage to one foe. 95% accuracy"
             }
         ],
-        "requirements": "Level: 14 ATK: 40, SPD: 55"
+        "requirements": "Level: 14 ATK: 40, SPD: 55",
+        "stage": "champion"
     },
     {
         "id": "109",
@@ -6043,7 +6151,8 @@
                 "description": "Physical attack, 50 Neutral damage to all foes. Always Hits"
             }
         ],
-        "requirements": "Level: 15 ATK: 45, SPD: 50"
+        "requirements": "Level: 15 ATK: 45, SPD: 50",
+        "stage": "champion"
     },
     {
         "id": "110",
@@ -6105,7 +6214,8 @@
                 "description": "Increases CRIT of one battle member by 10%"
             }
         ],
-        "requirements": "Level: 20 ATK: 50, SPD: 50"
+        "requirements": "Level: 20 ATK: 50, SPD: 50",
+        "stage": "champion"
     },
     {
         "id": "111",
@@ -6168,7 +6278,8 @@
                 "description": "Restores HP for one party member"
             }
         ],
-        "requirements": "Level: 16 SP: 40, INT: 40"
+        "requirements": "Level: 16 SP: 40, INT: 40",
+        "stage": "champion"
     },
     {
         "id": "112",
@@ -6233,7 +6344,8 @@
                 "description": "Physical attack, 40 Earth damage to one foe. Stuns target. 70% accuracy"
             }
         ],
-        "requirements": "Level: 14 DEF: 55"
+        "requirements": "Level: 14 DEF: 55",
+        "stage": "champion"
     },
     {
         "id": "113",
@@ -6296,7 +6408,8 @@
                 "description": "Physical attack, 30 Earth damage to all foes. 95% accuracy"
             }
         ],
-        "requirements": "Level: 14 HP: 150, DEF: 40"
+        "requirements": "Level: 14 HP: 150, DEF: 40",
+        "stage": "champion"
     },
     {
         "id": "114",
@@ -6360,7 +6473,8 @@
                 "description": "Physical attack, 90 Neutral damage to one foe. Always Hits"
             }
         ],
-        "requirements": "Level: 14 HP: 150, ATK: 40"
+        "requirements": "Level: 14 HP: 150, ATK: 40",
+        "stage": "champion"
     },
     {
         "id": "115",
@@ -6425,7 +6539,8 @@
                 "description": "Revive one fallen party member with 50% HP"
             }
         ],
-        "requirements": "Level: 16 INT: 40, CAM: 25%"
+        "requirements": "Level: 16 INT: 40, CAM: 25%",
+        "stage": "champion"
     },
     {
         "id": "116",
@@ -6491,7 +6606,8 @@
                 "description": "Magic attack, 20 Dark damage to all foes. 95% accuracy"
             }
         ],
-        "requirements": "Level: 16 ATK: 40, ABI: 5"
+        "requirements": "Level: 16 ATK: 40, ABI: 5",
+        "stage": "champion"
     },
     {
         "id": "117",
@@ -6553,7 +6669,8 @@
                 "description": "Physical attack, 35 Neutral damage to all foes. Always Hits"
             }
         ],
-        "requirements": "Level: 14 ATK: 45, SPD: 40"
+        "requirements": "Level: 14 ATK: 45, SPD: 40",
+        "stage": "champion"
     },
     {
         "id": "118",
@@ -6617,7 +6734,8 @@
                 "description": "Physical attack, 40 Thunder damage to one foe. Paralyzes target. 70% accuracy"
             }
         ],
-        "requirements": "Level: 16 HP: 300, DEF: 30, CAM: 25%"
+        "requirements": "Level: 16 HP: 300, DEF: 30, CAM: 25%",
+        "stage": "champion"
     },
     {
         "id": "119",
@@ -6682,7 +6800,8 @@
                 "description": "Increases SPD of one member by 10%"
             }
         ],
-        "requirements": "Level: 14 ATK: 40, SPD: 40"
+        "requirements": "Level: 14 ATK: 40, SPD: 40",
+        "stage": "champion"
     },
     {
         "id": "120",
@@ -6746,7 +6865,8 @@
                 "description": "Physical attack, 40 Earth damage to one foe. Stuns target. 70% accuracy"
             }
         ],
-        "requirements": "Level: 12 ATK: 40, DEF: 40"
+        "requirements": "Level: 12 ATK: 40, DEF: 40",
+        "stage": "champion"
     },
     {
         "id": "121",
@@ -6809,7 +6929,8 @@
                 "description": "Physical attack, 85 Water damage to one foe. 95% accuracy"
             }
         ],
-        "requirements": "Level: 12 HP: 150, DEF: 40"
+        "requirements": "Level: 12 HP: 150, DEF: 40",
+        "stage": "champion"
     },
     {
         "id": "122",
@@ -6875,7 +6996,8 @@
                 "description": "Physical attack, 30 Fire damage to all foes. 95% accuracy"
             }
         ],
-        "requirements": "Level: 14 HP: 40, INT: 40, SPD: 40"
+        "requirements": "Level: 14 HP: 40, INT: 40, SPD: 40",
+        "stage": "champion"
     },
     {
         "id": "123",
@@ -6938,7 +7060,8 @@
                 "description": "Physical attack, 45 Fire damage to all foes. 95% accuracy"
             }
         ],
-        "requirements": "Level: 16 ATK: 55, SPD: 50"
+        "requirements": "Level: 16 ATK: 55, SPD: 50",
+        "stage": "champion"
     },
     {
         "id": "124",
@@ -7004,7 +7127,8 @@
                 "description": "Physical attack, 50 Neutral damage to one foe. Absorb 10% SP"
             }
         ],
-        "requirements": "Level: 13 SP: 40, INT: 30"
+        "requirements": "Level: 13 SP: 40, INT: 30",
+        "stage": "champion"
     },
     {
         "id": "125",
@@ -7069,7 +7193,8 @@
                 "description": "Physical attack, 85 Light damage to one foe. 95% accuracy"
             }
         ],
-        "requirements": "Level: 16 ATK: 40, SPD: 35"
+        "requirements": "Level: 16 ATK: 40, SPD: 35",
+        "stage": "champion"
     },
     {
         "id": "126",
@@ -7140,7 +7265,8 @@
                 "description": "Restores a little HP for all party members"
             }
         ],
-        "requirements": "Level: 15 SP: 40, SPD: 40, CAM: 100%, Cleared \"Hacker's Memory\""
+        "requirements": "Level: 15 SP: 40, SPD: 40, CAM: 100%, Cleared \"Hacker's Memory\"",
+        "stage": "champion"
     },
     {
         "id": "127",
@@ -7204,7 +7330,8 @@
                 "description": "Magic attack, 30 Neutral damage to one foe. Makes target buggy. 70% accuracy"
             }
         ],
-        "requirements": "Level: 20"
+        "requirements": "Level: 20",
+        "stage": "champion"
     },
     {
         "id": "128",
@@ -7269,7 +7396,8 @@
                 "description": "Magic attack, 80 Neutral damage to one foe. Always Hits"
             }
         ],
-        "requirements": "Level: 16 INT: 40, CAM: 25%"
+        "requirements": "Level: 16 INT: 40, CAM: 25%",
+        "stage": "champion"
     },
     {
         "id": "129",
@@ -7334,7 +7462,8 @@
                 "description": "Physical attack, 40 Plant damage to one foe. Poisons target. 70% accuracy"
             }
         ],
-        "requirements": "Level: 12 HP: 300"
+        "requirements": "Level: 12 HP: 300",
+        "stage": "champion"
     },
     {
         "id": "130",
@@ -7397,7 +7526,8 @@
                 "description": "Flee from a battle"
             }
         ],
-        "requirements": "Level: 14 SPD: 50"
+        "requirements": "Level: 14 SPD: 50",
+        "stage": "champion"
     },
     {
         "id": "131",
@@ -7464,7 +7594,8 @@
                 "description": "Magic attack, 75 Fire damage to one foe. 95% accuracy"
             }
         ],
-        "requirements": "Level: 14 ATK: 40"
+        "requirements": "Level: 14 ATK: 40",
+        "stage": "champion"
     },
     {
         "id": "132",
@@ -7526,7 +7657,8 @@
                 "description": "Physical attack, 30 Earth damage to all foes. 95% accuracy"
             }
         ],
-        "requirements": "Level: 14 ATK: 55, DEF: 55"
+        "requirements": "Level: 14 ATK: 55, DEF: 55",
+        "stage": "champion"
     },
     {
         "id": "133",
@@ -7591,7 +7723,8 @@
                 "description": "Restores a little HP for all party members"
             }
         ],
-        "requirements": "Level: 14 HP: 250, ATK: 30"
+        "requirements": "Level: 14 HP: 250, ATK: 30",
+        "stage": "champion"
     },
     {
         "id": "134",
@@ -7653,7 +7786,8 @@
                 "description": "Magic attack, 75 Light damage to one foe. 95% accuracy"
             }
         ],
-        "requirements": "Level: 13 INT: 40, SPD: 40, CAM: 10%"
+        "requirements": "Level: 13 INT: 40, SPD: 40, CAM: 10%",
+        "stage": "champion"
     },
     {
         "id": "135",
@@ -7718,7 +7852,8 @@
                 "description": "Physical attack, 40 Earth damage to one foe. Stuns target. 70% accuracy"
             }
         ],
-        "requirements": "Level: 15 HP: 130, ATK: 50"
+        "requirements": "Level: 15 HP: 130, ATK: 50",
+        "stage": "champion"
     },
     {
         "id": "136",
@@ -7784,7 +7919,8 @@
                 "description": "Magic attack, 30 Neutral damage to one foe. Makes target buggy. 70% accuracy"
             }
         ],
-        "requirements": "Level: 12 HP: 500"
+        "requirements": "Level: 12 HP: 500",
+        "stage": "champion"
     },
     {
         "id": "137",
@@ -7850,7 +7986,8 @@
                 "description": "Physical attack, 85 Light damage to one foe. 95% accuracy"
             }
         ],
-        "requirements": "Level: 16 ATK: 55"
+        "requirements": "Level: 16 ATK: 55",
+        "stage": "champion"
     },
     {
         "id": "138",
@@ -7913,7 +8050,8 @@
                 "description": "Counterattacks the enemy when you receive a physical attack"
             }
         ],
-        "requirements": "Level: 15 ATK: 35, SPD: 40"
+        "requirements": "Level: 15 ATK: 35, SPD: 40",
+        "stage": "champion"
     },
     {
         "id": "139",
@@ -7978,7 +8116,8 @@
                 "description": "Restores a little HP for all party members"
             }
         ],
-        "requirements": "Level: 16 SPD: 40, ABI: 5"
+        "requirements": "Level: 16 SPD: 40, ABI: 5",
+        "stage": "champion"
     },
     {
         "id": "140",
@@ -8043,7 +8182,8 @@
                 "description": "Physical attack, 40 Thunder damage to one foe. Paralyzes target. 70% accuracy"
             }
         ],
-        "requirements": "Level: 14 ATK: 40, SPD: 40"
+        "requirements": "Level: 14 ATK: 40, SPD: 40",
+        "stage": "champion"
     },
     {
         "id": "141",
@@ -8116,7 +8256,8 @@
                 "description": "Magic attack, 35 Plant damage to all foes. 95% accuracy"
             }
         ],
-        "requirements": "Level: 28 HP: 400, DEF: 95"
+        "requirements": "Level: 28 HP: 400, DEF: 95",
+        "stage": "ultimate"
     },
     {
         "id": "142",
@@ -8189,7 +8330,8 @@
                 "description": "Physical attack, 85 Light damage to one foe. 95% accuracy"
             }
         ],
-        "requirements": ""
+        "requirements": "",
+        "stage": "ultimate"
     },
     {
         "id": "143",
@@ -8265,7 +8407,8 @@
                 "description": "Magic attack, 100 Neutral damage to one foe. Always Hits"
             }
         ],
-        "requirements": "Level: 28 ATK: 65, INT: 75, SPD: 85"
+        "requirements": "Level: 28 ATK: 65, INT: 75, SPD: 85",
+        "stage": "ultimate"
     },
     {
         "id": "144",
@@ -8340,7 +8483,8 @@
                 "description": "Magic attack, 95 Wind damage to one foe. 95% accuracy"
             }
         ],
-        "requirements": "Level: 28 ATK: 75, DEF: 75, INT: 75"
+        "requirements": "Level: 28 ATK: 75, DEF: 75, INT: 75",
+        "stage": "ultimate"
     },
     {
         "id": "145",
@@ -8416,7 +8560,8 @@
                 "description": "Magic attack, 100 Neutral damage to one foe. Always Hits"
             }
         ],
-        "requirements": "Level: 26 DEF: 110"
+        "requirements": "Level: 26 DEF: 110",
+        "stage": "ultimate"
     },
     {
         "id": "146",
@@ -8491,7 +8636,8 @@
                 "description": "Physical attack, 105 Dark damage to one foe. 95% accuracy"
             }
         ],
-        "requirements": "Level: 30 ATK: 95, SPD: 80"
+        "requirements": "Level: 30 ATK: 95, SPD: 80",
+        "stage": "ultimate"
     },
     {
         "id": "147",
@@ -8568,7 +8714,8 @@
                 "description": "Physical attack, 105 Dark damage to one foe. 95% accuracy"
             }
         ],
-        "requirements": "Level: 30 ATK: 70, INT: 90, ABI: 10"
+        "requirements": "Level: 30 ATK: 70, INT: 90, ABI: 10",
+        "stage": "ultimate"
     },
     {
         "id": "148",
@@ -8641,7 +8788,8 @@
                 "description": "Physical attack, 45 Wind damage to all foes. 95% accuracy"
             }
         ],
-        "requirements": "Level: 30 ATK: 80, SPD: 95, ABI: 10"
+        "requirements": "Level: 30 ATK: 80, SPD: 95, ABI: 10",
+        "stage": "ultimate"
     },
     {
         "id": "149",
@@ -8713,7 +8861,8 @@
                 "description": "Physical attack, 45 Fire damage to all foes. 95% accuracy"
             }
         ],
-        "requirements": "Level: 30 HP: 500, ATK: 120, DEF: 60, Item: Beast Spirit of Flame"
+        "requirements": "Level: 30 HP: 500, ATK: 120, DEF: 60, Item: Beast Spirit of Flame",
+        "stage": "ultimate"
     },
     {
         "id": "150",
@@ -8788,7 +8937,8 @@
                 "description": "Physical attack, 105 Light damage to one foe. 95% accuracy"
             }
         ],
-        "requirements": "Level: 30 ATK: 75, SPD: 95, CAM: 25%"
+        "requirements": "Level: 30 ATK: 75, SPD: 95, CAM: 25%",
+        "stage": "ultimate"
     },
     {
         "id": "151",
@@ -8864,7 +9014,8 @@
                 "description": "Magic attack, 95 Dark damage to one foe. 95% accuracy"
             }
         ],
-        "requirements": "Level: 26 SP: 75, DEF: 75, SPD: 65"
+        "requirements": "Level: 26 SP: 75, DEF: 75, SPD: 65",
+        "stage": "ultimate"
     },
     {
         "id": "152",
@@ -8938,7 +9089,8 @@
                 "description": "Magic attack, 95 Light damage to one foe. 95% accuracy"
             }
         ],
-        "requirements": "Level: 30 SP: 75, INT: 100, ABI: 10"
+        "requirements": "Level: 30 SP: 75, INT: 100, ABI: 10",
+        "stage": "ultimate"
     },
     {
         "id": "153",
@@ -9011,7 +9163,8 @@
                 "description": "Physical attack, 105 Plant damage to one foe. 95% accuracy"
             }
         ],
-        "requirements": "Level: 26 ATK: 95, DEF: 90"
+        "requirements": "Level: 26 ATK: 95, DEF: 90",
+        "stage": "ultimate"
     },
     {
         "id": "154",
@@ -9086,7 +9239,8 @@
                 "description": "Counterattacks the enemy when you receive a magic attack"
             }
         ],
-        "requirements": "Level: 30 ATK: 75, SPD: 75"
+        "requirements": "Level: 30 ATK: 75, SPD: 75",
+        "stage": "ultimate"
     },
     {
         "id": "155",
@@ -9158,7 +9312,8 @@
                 "description": "Increases SPD of all battle members by 10%"
             }
         ],
-        "requirements": "Level: 30 HP: 300, ATK: 100, SPD: 85, Item: Beast Spirit of Light"
+        "requirements": "Level: 30 HP: 300, ATK: 100, SPD: 85, Item: Beast Spirit of Light",
+        "stage": "ultimate"
     },
     {
         "id": "156",
@@ -9235,7 +9390,8 @@
                 "description": "Magic attack, 95 Thunder damage to one foe. 95% accuracy"
             }
         ],
-        "requirements": "Level: 26 HP: 800, ATK: 75, DEF: 95"
+        "requirements": "Level: 26 HP: 800, ATK: 75, DEF: 95",
+        "stage": "ultimate"
     },
     {
         "id": "157",
@@ -9308,7 +9464,8 @@
                 "description": "Physical attack, 105 Thunder damage to one foe. 95% accuracy"
             }
         ],
-        "requirements": "Level: 26 HP: 700, DEF: 85"
+        "requirements": "Level: 26 HP: 700, DEF: 85",
+        "stage": "ultimate"
     },
     {
         "id": "158",
@@ -9383,7 +9540,8 @@
                 "description": "Magic attack, 30 Fire damage to one foe. Confuses target. 70% accuracy"
             }
         ],
-        "requirements": "Level: 28 DEF: 75, SPD: 75"
+        "requirements": "Level: 28 DEF: 75, SPD: 75",
+        "stage": "ultimate"
     },
     {
         "id": "159",
@@ -9456,7 +9614,8 @@
                 "description": "Physical attack, 45 Earth damage to all foes. 95% accuracy"
             }
         ],
-        "requirements": "Level: 30 HP: 400, ATK: 125, ABI: 10"
+        "requirements": "Level: 30 HP: 400, ATK: 125, ABI: 10",
+        "stage": "ultimate"
     },
     {
         "id": "160",
@@ -9530,7 +9689,8 @@
                 "description": "Counterattacks the enemy when you receive a physical attack"
             }
         ],
-        "requirements": "Level: 26 HP: 400, ATK: 95"
+        "requirements": "Level: 26 HP: 400, ATK: 95",
+        "stage": "ultimate"
     },
     {
         "id": "161",
@@ -9606,7 +9766,8 @@
                 "description": "Physical attack, 110 Neutral damage to one foe. Always Hits"
             }
         ],
-        "requirements": "Level: 30 HP: 400, ATK: 80, SPD: 70"
+        "requirements": "Level: 30 HP: 400, ATK: 80, SPD: 70",
+        "stage": "ultimate"
     },
     {
         "id": "162",
@@ -9679,7 +9840,8 @@
                 "description": "Physical attack, 105 Water damage to one foe. 95% accuracy"
             }
         ],
-        "requirements": "Level: 30 SP: 60, ATK: 70"
+        "requirements": "Level: 30 SP: 60, ATK: 70",
+        "stage": "ultimate"
     },
     {
         "id": "163",
@@ -9754,7 +9916,8 @@
                 "description": "Physical attack, 105 Dark damage to one foe. 95% accuracy"
             }
         ],
-        "requirements": "Level: 28 HP: 400, ATK: 75, SPD: 75"
+        "requirements": "Level: 28 HP: 400, ATK: 75, SPD: 75",
+        "stage": "ultimate"
     },
     {
         "id": "164",
@@ -9826,7 +9989,8 @@
                 "description": "Magic attack, 95 Earth damage to one foe. 95% accuracy"
             }
         ],
-        "requirements": "Level: 30 DEF: 75, INT: 65, CAM: 100%, Digimon: Angemon"
+        "requirements": "Level: 30 DEF: 75, INT: 65, CAM: 100%, Digimon: Angemon",
+        "stage": "ultimate"
     },
     {
         "id": "165",
@@ -9900,7 +10064,8 @@
                 "description": "Physical attack, 105 Plant damage to one foe. 95% accuracy"
             }
         ],
-        "requirements": "Level: 28 HP: 800, DEF: 70"
+        "requirements": "Level: 28 HP: 800, DEF: 70",
+        "stage": "ultimate"
     },
     {
         "id": "166",
@@ -9974,7 +10139,8 @@
                 "description": "Physical attack, 105 Wind damage to one foe. 95% accuracy"
             }
         ],
-        "requirements": "Level: 30 ATK: 60, INT: 75, SPD: 75, CAM: 100%, Digimon: Gatomon"
+        "requirements": "Level: 30 ATK: 60, INT: 75, SPD: 75, CAM: 100%, Digimon: Gatomon",
+        "stage": "ultimate"
     },
     {
         "id": "167",
@@ -10048,7 +10214,8 @@
                 "description": "Physical attack, 105 Light damage to one foe. 95% accuracy"
             }
         ],
-        "requirements": "Level: 28 SP: 70, ATK: 70, DEF: 80"
+        "requirements": "Level: 28 SP: 70, ATK: 70, DEF: 80",
+        "stage": "ultimate"
     },
     {
         "id": "168",
@@ -10122,7 +10289,8 @@
                 "description": "Physical attack, 105 Earth damage to one foe. 95% accuracy"
             }
         ],
-        "requirements": "Level: 28 ATK: 120, DEF: 85, SPD: 70"
+        "requirements": "Level: 28 ATK: 120, DEF: 85, SPD: 70",
+        "stage": "ultimate"
     },
     {
         "id": "169",
@@ -10196,7 +10364,8 @@
                 "description": "Magic attack, 95 Dark damage to one foe. 95% accuracy"
             }
         ],
-        "requirements": "Level: 28 ATK: 80, INT: 70"
+        "requirements": "Level: 28 ATK: 80, INT: 70",
+        "stage": "ultimate"
     },
     {
         "id": "170",
@@ -10271,7 +10440,8 @@
                 "description": "Magic attack, 35 Water damage to all foes. 95% accuracy"
             }
         ],
-        "requirements": "Level: 30 HP: 800, ATK: 75, CAM: 50%"
+        "requirements": "Level: 30 HP: 800, ATK: 75, CAM: 50%",
+        "stage": "ultimate"
     },
     {
         "id": "171",
@@ -10344,7 +10514,8 @@
                 "description": "Revive one fallen party member with 50% HP"
             }
         ],
-        "requirements": "Level: 30 ATK: 90, SPD: 80"
+        "requirements": "Level: 30 ATK: 90, SPD: 80",
+        "stage": "ultimate"
     },
     {
         "id": "172",
@@ -10417,7 +10588,8 @@
                 "description": "Magic attack, 35 Dark damage to all foes. 95% accuracy"
             }
         ],
-        "requirements": "Level: 30 SP: 60, INT: 75, SPD: 60"
+        "requirements": "Level: 30 SP: 60, INT: 75, SPD: 60",
+        "stage": "ultimate"
     },
     {
         "id": "173",
@@ -10490,7 +10662,8 @@
                 "description": "Magic attack, 35 Dark damage to all foes. 95% accuracy"
             }
         ],
-        "requirements": "Level: 28 SP: 70, INT: 85"
+        "requirements": "Level: 28 SP: 70, INT: 85",
+        "stage": "ultimate"
     },
     {
         "id": "174",
@@ -10563,7 +10736,8 @@
                 "description": "Magic attack, 95 Light damage to one foe. 95% accuracy"
             }
         ],
-        "requirements": "Level: 30 SP: 75, SPD: 100, ABI: 10"
+        "requirements": "Level: 30 SP: 75, SPD: 100, ABI: 10",
+        "stage": "ultimate"
     },
     {
         "id": "175",
@@ -10634,7 +10808,8 @@
                 "description": "Counterattacks the enemy when you receive a physical attack"
             }
         ],
-        "requirements": "Level: 30 HP: 400, ATK: 90, SPD: 75, CAM: 100%, Digimon: Stingmon"
+        "requirements": "Level: 30 HP: 400, ATK: 90, SPD: 75, CAM: 100%, Digimon: Stingmon",
+        "stage": "ultimate"
     },
     {
         "id": "176",
@@ -10707,7 +10882,8 @@
                 "description": "Physical attack, 110 Neutral damage to one foe. Always Hits"
             }
         ],
-        "requirements": "Level: 30 HP: 700, DEF: 75"
+        "requirements": "Level: 30 HP: 700, DEF: 75",
+        "stage": "ultimate"
     },
     {
         "id": "177",
@@ -10781,7 +10957,8 @@
                 "description": "Physical attack, 105 Fire damage to one foe. 95% accuracy"
             }
         ],
-        "requirements": "Level: 28 HP: 500, ATK: 95"
+        "requirements": "Level: 28 HP: 500, ATK: 95",
+        "stage": "ultimate"
     },
     {
         "id": "178",
@@ -10854,7 +11031,8 @@
                 "description": "Physical attack, 50 Neutral damage to all foes. Always Hits"
             }
         ],
-        "requirements": "Level: 40 HP: 800, ATK: 80, DEF: 80"
+        "requirements": "Level: 40 HP: 800, ATK: 80, DEF: 80",
+        "stage": "ultimate"
     },
     {
         "id": "179",
@@ -10928,7 +11106,8 @@
                 "description": "Physical attack, 105 Water damage to one foe. 95% accuracy"
             }
         ],
-        "requirements": "Level: 26 HP: 900"
+        "requirements": "Level: 26 HP: 900",
+        "stage": "ultimate"
     },
     {
         "id": "180",
@@ -11002,7 +11181,8 @@
                 "description": "Physical attack, 105 Earth damage to one foe. 95% accuracy"
             }
         ],
-        "requirements": "Level: 28 ATK: 75, DEF: 75"
+        "requirements": "Level: 28 ATK: 75, DEF: 75",
+        "stage": "ultimate"
     },
     {
         "id": "181",
@@ -11077,7 +11257,8 @@
                 "description": "Counterattacks the enemy when you receive a physical attack"
             }
         ],
-        "requirements": "Level: 30 HP: 400, ATK: 95, DEF: 75"
+        "requirements": "Level: 30 HP: 400, ATK: 95, DEF: 75",
+        "stage": "ultimate"
     },
     {
         "id": "182",
@@ -11153,7 +11334,8 @@
                 "description": "Physical attack, 50 Neutral damage to all foes. Always Hits"
             }
         ],
-        "requirements": "Level: 30 ATK: 75, DEF: 75"
+        "requirements": "Level: 30 ATK: 75, DEF: 75",
+        "stage": "ultimate"
     },
     {
         "id": "183",
@@ -11226,7 +11408,8 @@
                 "description": "Magic attack, 100 Neutral damage to one foe. Always Hits"
             }
         ],
-        "requirements": "Level: 28 SP: 60, INT: 85"
+        "requirements": "Level: 28 SP: 60, INT: 85",
+        "stage": "ultimate"
     },
     {
         "id": "184",
@@ -11296,7 +11479,8 @@
                 "description": "Counterattacks the enemy when you receive a physical attack"
             }
         ],
-        "requirements": "Level: 30 ATK: 90, DEF: 60, SPD: 75, CAM: 100%, Digimon: Stingmon"
+        "requirements": "Level: 30 ATK: 90, DEF: 60, SPD: 75, CAM: 100%, Digimon: Stingmon",
+        "stage": "ultimate"
     },
     {
         "id": "185",
@@ -11370,7 +11554,8 @@
                 "description": "Physical attack, 105 Water damage to one foe. 95% accuracy"
             }
         ],
-        "requirements": "Level: 28 HP: 350, ATK: 75, SPD: 75"
+        "requirements": "Level: 28 HP: 350, ATK: 75, SPD: 75",
+        "stage": "ultimate"
     },
     {
         "id": "186",
@@ -11444,7 +11629,8 @@
                 "description": "Physical attack, 105 Earth damage to one foe. 95% accuracy"
             }
         ],
-        "requirements": "Level: 26 ATK: 65, DEF: 65"
+        "requirements": "Level: 26 ATK: 65, DEF: 65",
+        "stage": "ultimate"
     },
     {
         "id": "187",
@@ -11519,7 +11705,8 @@
                 "description": "Physical attack, 40 Wind damage to one foe. Crystallizes target. 70% accuracy"
             }
         ],
-        "requirements": "Level: 26 HP: 850, ATK: 60, INT: 60"
+        "requirements": "Level: 26 HP: 850, ATK: 60, INT: 60",
+        "stage": "ultimate"
     },
     {
         "id": "188",
@@ -11593,7 +11780,8 @@
                 "description": "Restores HP for one party member"
             }
         ],
-        "requirements": "Level: 26 SP: 75, INT: 80, SPD: 80"
+        "requirements": "Level: 26 SP: 75, INT: 80, SPD: 80",
+        "stage": "ultimate"
     },
     {
         "id": "189",
@@ -11667,7 +11855,8 @@
                 "description": "Magic attack, 95 Wind damage to one foe. 95% accuracy"
             }
         ],
-        "requirements": "Level: 26 SP: 65, INT: 65"
+        "requirements": "Level: 26 SP: 65, INT: 65",
+        "stage": "ultimate"
     },
     {
         "id": "190",
@@ -11741,7 +11930,8 @@
                 "description": "Magic attack, 35 Dark damage to all foes. 95% accuracy"
             }
         ],
-        "requirements": "Level: 28 SP: 80, INT: 80"
+        "requirements": "Level: 28 SP: 80, INT: 80",
+        "stage": "ultimate"
     },
     {
         "id": "191",
@@ -11815,7 +12005,8 @@
                 "description": "Magic attack, 95 Dark damage to one foe. 95% accuracy"
             }
         ],
-        "requirements": "Level: 32"
+        "requirements": "Level: 32",
+        "stage": "ultimate"
     },
     {
         "id": "192",
@@ -11891,7 +12082,8 @@
                 "description": "Physical attack, 105 Fire damage to one foe. 95% accuracy"
             }
         ],
-        "requirements": "Level: 28 HP: 400, ATK: 80, INT: 70"
+        "requirements": "Level: 28 HP: 400, ATK: 80, INT: 70",
+        "stage": "ultimate"
     },
     {
         "id": "193",
@@ -11964,7 +12156,8 @@
                 "description": "Magic attack, 95 Dark damage to one foe. 95% accuracy"
             }
         ],
-        "requirements": "Level: 26 SP: 85"
+        "requirements": "Level: 26 SP: 85",
+        "stage": "ultimate"
     },
     {
         "id": "194",
@@ -12038,7 +12231,8 @@
                 "description": "Physical attack, 105 Water damage to one foe. 95% accuracy"
             }
         ],
-        "requirements": "Level: 28 HP: 850, DEF: 75, INT: 75"
+        "requirements": "Level: 28 HP: 850, DEF: 75, INT: 75",
+        "stage": "ultimate"
     },
     {
         "id": "195",
@@ -12114,7 +12308,8 @@
                 "description": "Revive one fallen party member with 50% HP"
             }
         ],
-        "requirements": "Level: 30 SP: 80, INT: 80, ABI: 10"
+        "requirements": "Level: 30 SP: 80, INT: 80, ABI: 10",
+        "stage": "ultimate"
     },
     {
         "id": "196",
@@ -12187,7 +12382,8 @@
                 "description": "Physical attack, 105 Fire damage to one foe. 95% accuracy"
             }
         ],
-        "requirements": "Level: 26 ATK: 80, DEF: 75"
+        "requirements": "Level: 26 ATK: 80, DEF: 75",
+        "stage": "ultimate"
     },
     {
         "id": "197",
@@ -12260,7 +12456,8 @@
                 "description": "Physical attack, 105 Dark damage to one foe. 95% accuracy"
             }
         ],
-        "requirements": "Level: 28 ATK: 75, SPD: 80"
+        "requirements": "Level: 28 ATK: 75, SPD: 80",
+        "stage": "ultimate"
     },
     {
         "id": "198",
@@ -12336,7 +12533,8 @@
                 "description": "Physical attack, 45 Wind damage to all foes. 95% accuracy"
             }
         ],
-        "requirements": "Level: 26 ATK: 75, SPD: 80"
+        "requirements": "Level: 26 ATK: 75, SPD: 80",
+        "stage": "ultimate"
     },
     {
         "id": "199",
@@ -12409,7 +12607,8 @@
                 "description": "Physical attack, 45 Earth damage to all foes. 95% accuracy"
             }
         ],
-        "requirements": "Level: 26 ATK: 75, DEF: 80"
+        "requirements": "Level: 26 ATK: 75, DEF: 80",
+        "stage": "ultimate"
     },
     {
         "id": "200",
@@ -12486,7 +12685,8 @@
                 "description": "Magic attack, 95 Thunder damage to one foe. 95% accuracy"
             }
         ],
-        "requirements": "Level: 30 HP: 400, SP: 70, INT: 70"
+        "requirements": "Level: 30 HP: 400, SP: 70, INT: 70",
+        "stage": "ultimate"
     },
     {
         "id": "201",
@@ -12562,7 +12762,8 @@
                 "description": "Physical attack, 105 Wind damage to one foe. 95% accuracy"
             }
         ],
-        "requirements": "Level: 26 HP: 400, ATK: 95, SPD: 75"
+        "requirements": "Level: 26 HP: 400, ATK: 95, SPD: 75",
+        "stage": "ultimate"
     },
     {
         "id": "202",
@@ -12638,7 +12839,8 @@
                 "description": "Physical attack, 105 Light damage to one foe. 95% accuracy"
             }
         ],
-        "requirements": "Level: 30 ATK: 105, SPD: 75"
+        "requirements": "Level: 30 ATK: 105, SPD: 75",
+        "stage": "ultimate"
     },
     {
         "id": "203",
@@ -12712,7 +12914,8 @@
                 "description": "Physical attack, 105 Fire damage to one foe. 95% accuracy"
             }
         ],
-        "requirements": "Level: 30 HP: 350, ATK: 100, CAM: 50%"
+        "requirements": "Level: 30 HP: 350, ATK: 100, CAM: 50%",
+        "stage": "ultimate"
     },
     {
         "id": "204",
@@ -12788,7 +12991,8 @@
                 "description": "Physical attack, 105 Fire damage to one foe. 95% accuracy"
             }
         ],
-        "requirements": "Level: 30 HP: 450, ATK: 110"
+        "requirements": "Level: 30 HP: 450, ATK: 110",
+        "stage": "ultimate"
     },
     {
         "id": "205",
@@ -12863,7 +13067,8 @@
                 "description": "Physical attack, 105 Thunder damage to one foe. 95% accuracy"
             }
         ],
-        "requirements": "Level: 28 ATK: 75, DEF: 95"
+        "requirements": "Level: 28 ATK: 75, DEF: 95",
+        "stage": "ultimate"
     },
     {
         "id": "206",
@@ -12937,7 +13142,8 @@
                 "description": "Magic attack, 95 Fire damage to one foe. 95% accuracy"
             }
         ],
-        "requirements": "Level: 26 DEF: 80, INT: 65"
+        "requirements": "Level: 26 DEF: 80, INT: 65",
+        "stage": "ultimate"
     },
     {
         "id": "207",
@@ -13011,7 +13217,8 @@
                 "description": "Physical attack, 110 Neutral damage to one foe. Always Hits"
             }
         ],
-        "requirements": "Level: 26 HP: 600, ATK: 60"
+        "requirements": "Level: 26 HP: 600, ATK: 60",
+        "stage": "ultimate"
     },
     {
         "id": "208",
@@ -13086,7 +13293,8 @@
                 "description": "Counterattacks the enemy when you receive a magic attack"
             }
         ],
-        "requirements": "Level: 30 SP: 75, SPD: 90"
+        "requirements": "Level: 30 SP: 75, SPD: 90",
+        "stage": "ultimate"
     },
     {
         "id": "209",
@@ -13161,7 +13369,8 @@
                 "description": "Physical attack, 105 Fire damage to one foe. 95% accuracy"
             }
         ],
-        "requirements": "Level: 30 HP: 350, ATK: 100, SPD: 75, CAM: 50%"
+        "requirements": "Level: 30 HP: 350, ATK: 100, SPD: 75, CAM: 50%",
+        "stage": "ultimate"
     },
     {
         "id": "210",
@@ -13235,7 +13444,8 @@
                 "description": "Magic attack, 95 Plant damage to one foe. 95% accuracy"
             }
         ],
-        "requirements": "Level: 30 SP: 75, INT: 75"
+        "requirements": "Level: 30 SP: 75, INT: 75",
+        "stage": "ultimate"
     },
     {
         "id": "211",
@@ -13308,7 +13518,8 @@
                 "description": "Physical attack, 105 Thunder damage to one foe. 95% accuracy"
             }
         ],
-        "requirements": "Level: 28 ATK: 75, SPD: 75, CAM: 50%"
+        "requirements": "Level: 28 ATK: 75, SPD: 75, CAM: 50%",
+        "stage": "ultimate"
     },
     {
         "id": "212",
@@ -13382,7 +13593,8 @@
                 "description": "Magic attack, 35 Plant damage to all foes. 95% accuracy"
             }
         ],
-        "requirements": "Level: 30 INT: 75, SPD: 75, CAM: 50%"
+        "requirements": "Level: 30 INT: 75, SPD: 75, CAM: 50%",
+        "stage": "ultimate"
     },
     {
         "id": "213",
@@ -13461,7 +13673,8 @@
                 "description": "Magic attack, 65 Light damage to all foes. 95% accuracy"
             }
         ],
-        "requirements": "Level: 55 ATK: 180, INT: 240, SPD: 180, ABI: 80"
+        "requirements": "Level: 55 ATK: 180, INT: 240, SPD: 180, ABI: 80",
+        "stage": "ultimate"
     },
     {
         "id": "214",
@@ -13536,7 +13749,8 @@
                 "description": "Magic attack, 35 Dark damage to all foes. 95% accuracy"
             }
         ],
-        "requirements": "Level: 30 SP: 75, INT: 95, ABI: 10"
+        "requirements": "Level: 30 SP: 75, INT: 95, ABI: 10",
+        "stage": "ultimate"
     },
     {
         "id": "215",
@@ -13611,7 +13825,8 @@
                 "description": "Physical attack, 45 Earth damage to all foes. 95% accuracy"
             }
         ],
-        "requirements": "Level: 28 ATK: 90, SPD: 85, CAM: 50%"
+        "requirements": "Level: 28 ATK: 90, SPD: 85, CAM: 50%",
+        "stage": "ultimate"
     },
     {
         "id": "216",
@@ -13685,7 +13900,8 @@
                 "description": "Physical attack, 50 Neutral damage to all foes. Always Hits"
             }
         ],
-        "requirements": "Level: 28 HP: 400, ATK: 90, SPD: 70"
+        "requirements": "Level: 28 HP: 400, ATK: 90, SPD: 70",
+        "stage": "ultimate"
     },
     {
         "id": "217",
@@ -13758,7 +13974,8 @@
                 "description": "Magic attack, 95 Dark damage to one foe. 95% accuracy"
             }
         ],
-        "requirements": "Level: 28 SP: 75, INT: 100"
+        "requirements": "Level: 28 SP: 75, INT: 100",
+        "stage": "ultimate"
     },
     {
         "id": "218",
@@ -13839,7 +14056,8 @@
                 "description": "Reduce COMBO for one enemy by 100%"
             }
         ],
-        "requirements": ""
+        "requirements": "",
+        "stage": "mega"
     },
     {
         "id": "219",
@@ -13930,7 +14148,8 @@
                 "description": "Physical attack, 80 Neutral damage to all foes. Always Hits"
             }
         ],
-        "requirements": "Level: 60 ATK: 150, DEF: 170, INT: 135, ABI: 80"
+        "requirements": "Level: 60 ATK: 150, DEF: 170, INT: 135, ABI: 80",
+        "stage": "mega"
     },
     {
         "id": "220",
@@ -14019,7 +14238,8 @@
                 "description": "Physical attack, 75 Wind damage to all foes. 95% accuracy"
             }
         ],
-        "requirements": "Level: 60 ATK: 120, SPD: 145, ABI: 80"
+        "requirements": "Level: 60 ATK: 120, SPD: 145, ABI: 80",
+        "stage": "mega"
     },
     {
         "id": "221",
@@ -14099,7 +14319,8 @@
                 "description": "Magic attack, 30 Neutral damage to one foe. Makes target buggy. 70% accuracy"
             }
         ],
-        "requirements": "Level: 45 SP: 120, INT: 120, ABI: 20"
+        "requirements": "Level: 45 SP: 120, INT: 120, ABI: 20",
+        "stage": "mega"
     },
     {
         "id": "222",
@@ -14181,7 +14402,8 @@
                 "description": "Physical attack, 80 Neutral damage to all foes. Always Hits"
             }
         ],
-        "requirements": "Level: 55 HP: 1600, DEF: 150, SPD: 150, ABI: 20"
+        "requirements": "Level: 55 HP: 1600, DEF: 150, SPD: 150, ABI: 20",
+        "stage": "mega"
     },
     {
         "id": "223",
@@ -14260,7 +14482,8 @@
                 "description": "Physical attack, 80 Neutral damage to all foes. Always Hits"
             }
         ],
-        "requirements": "Level: 0 Mode Change"
+        "requirements": "Level: 0 Mode Change",
+        "stage": "mega"
     },
     {
         "id": "224",
@@ -14340,7 +14563,8 @@
                 "description": "Magic attack, 65 Water damage to all foes. 95% accuracy"
             }
         ],
-        "requirements": "Level: 50 HP: 1700, ATK: 130, DEF: 130, INT: 120, ABI: 20"
+        "requirements": "Level: 50 HP: 1700, ATK: 130, DEF: 130, INT: 120, ABI: 20",
+        "stage": "mega"
     },
     {
         "id": "225",
@@ -14420,7 +14644,8 @@
                 "description": "Revive all fallen party members with full HP"
             }
         ],
-        "requirements": "Level: 50 ATK: 130, INT: 130, SPD: 160, ABI: 20"
+        "requirements": "Level: 50 ATK: 130, INT: 130, SPD: 160, ABI: 20",
+        "stage": "mega"
     },
     {
         "id": "226",
@@ -14501,7 +14726,8 @@
                 "description": "Revive all fallen party members with full HP"
             }
         ],
-        "requirements": "Level: 55 SP: 120, INT: 145, SPD: 130, ABI: 40"
+        "requirements": "Level: 55 SP: 120, INT: 145, SPD: 130, ABI: 40",
+        "stage": "mega"
     },
     {
         "id": "227",
@@ -14582,7 +14808,8 @@
                 "description": "Magic attack, 65 Dark damage to all foes. 95% accuracy"
             }
         ],
-        "requirements": "Level: 55 HP: 1200, SP: 110, ATK: 110, INT: 110, ABI: 40"
+        "requirements": "Level: 55 HP: 1200, SP: 110, ATK: 110, INT: 110, ABI: 40",
+        "stage": "mega"
     },
     {
         "id": "228",
@@ -14673,7 +14900,8 @@
                 "description": "Physical attack, 75 Fire damage to all foes. 95% accuracy"
             }
         ],
-        "requirements": "Level: 55 HP: 1700, ATK: 160, DEF: 130, ABI: 20, CAM: 80%"
+        "requirements": "Level: 55 HP: 1700, ATK: 160, DEF: 130, ABI: 20, CAM: 80%",
+        "stage": "mega"
     },
     {
         "id": "229",
@@ -14751,7 +14979,8 @@
                 "description": "Magic attack, 65 Light damage to all foes. 95% accuracy"
             }
         ],
-        "requirements": "Level: 55 SP: 120, DEF: 120, INT: 145, ABI: 40"
+        "requirements": "Level: 55 SP: 120, DEF: 120, INT: 145, ABI: 40",
+        "stage": "mega"
     },
     {
         "id": "230",
@@ -14831,7 +15060,8 @@
                 "description": "Physical attack, 75 Fire damage to all foes. 95% accuracy"
             }
         ],
-        "requirements": "Level: 50 ATK: 120, DEF: 100, SPD: 100, ABI: 20"
+        "requirements": "Level: 50 ATK: 120, DEF: 100, SPD: 100, ABI: 20",
+        "stage": "mega"
     },
     {
         "id": "231",
@@ -14910,7 +15140,8 @@
                 "description": "Physical attack, 75 Fire damage to all foes. 95% accuracy"
             }
         ],
-        "requirements": "Level: 55 HP: 1500, ATK: 150, DEF: 120, ABI: 20, CAM: 80%"
+        "requirements": "Level: 55 HP: 1500, ATK: 150, DEF: 120, ABI: 20, CAM: 80%",
+        "stage": "mega"
     },
     {
         "id": "232",
@@ -14998,7 +15229,8 @@
                 "description": "Magic attack, 65 Water damage to all foes. 95% accuracy"
             }
         ],
-        "requirements": "Level: 60 ATK: 130, DEF: 130, INT: 130, ABI: 40"
+        "requirements": "Level: 60 ATK: 130, DEF: 130, INT: 130, ABI: 40",
+        "stage": "mega"
     },
     {
         "id": "233",
@@ -15085,7 +15317,8 @@
                 "description": "Physical attack, 75 Thunder damage to all foes. 95% accuracy"
             }
         ],
-        "requirements": "Level: 50 HP: 1500, ATK: 130, DEF: 120, ABI: 20"
+        "requirements": "Level: 50 HP: 1500, ATK: 130, DEF: 120, ABI: 20",
+        "stage": "mega"
     },
     {
         "id": "234",
@@ -15174,7 +15407,8 @@
                 "description": "Physical attack, 75 Fire damage to all foes. 95% accuracy"
             }
         ],
-        "requirements": "Level: 60 HP: 1700, ATK: 145, DEF: 120, ABI: 80"
+        "requirements": "Level: 60 HP: 1700, ATK: 145, DEF: 120, ABI: 80",
+        "stage": "mega"
     },
     {
         "id": "235",
@@ -15253,7 +15487,8 @@
                 "description": "Physical attack, 80 Neutral damage to all foes. Always Hits"
             }
         ],
-        "requirements": "Level: 45 ATK: 110, DEF: 130, SPD: 100, ABI: 20"
+        "requirements": "Level: 45 ATK: 110, DEF: 130, SPD: 100, ABI: 20",
+        "stage": "mega"
     },
     {
         "id": "236",
@@ -15332,7 +15567,8 @@
                 "description": "Magic attack, 65 Dark damage to all foes. 95% accuracy"
             }
         ],
-        "requirements": "Level: 55 SP: 120, INT: 135, SPD: 120, ABI: 20"
+        "requirements": "Level: 55 SP: 120, INT: 135, SPD: 120, ABI: 20",
+        "stage": "mega"
     },
     {
         "id": "237",
@@ -15413,7 +15649,8 @@
                 "description": "Increases SPD of all battle members by 10%"
             }
         ],
-        "requirements": "Level: 45 HP: 1500, ATK: 120, DEF: 120, ABI: 20"
+        "requirements": "Level: 45 HP: 1500, ATK: 120, DEF: 120, ABI: 20",
+        "stage": "mega"
     },
     {
         "id": "238",
@@ -15502,7 +15739,8 @@
                 "description": "Magic attack, 65 Dark damage to all foes. 95% accuracy"
             }
         ],
-        "requirements": "Level: 50 HP: 1300, ATK: 110, INT: 110, ABI: 40"
+        "requirements": "Level: 50 HP: 1300, ATK: 110, INT: 110, ABI: 40",
+        "stage": "mega"
     },
     {
         "id": "239",
@@ -15581,7 +15819,8 @@
                 "description": "Physical attack, 75 Thunder damage to all foes. 95% accuracy"
             }
         ],
-        "requirements": "Level: 50 DEF: 160, SPD: 120, ABI: 20"
+        "requirements": "Level: 50 DEF: 160, SPD: 120, ABI: 20",
+        "stage": "mega"
     },
     {
         "id": "240",
@@ -15660,7 +15899,8 @@
                 "description": "Revive one fallen party member with 50% HP"
             }
         ],
-        "requirements": "Level: 50 SP: 110, INT: 140, ABI: 20"
+        "requirements": "Level: 50 SP: 110, INT: 140, ABI: 20",
+        "stage": "mega"
     },
     {
         "id": "241",
@@ -15748,7 +15988,8 @@
                 "description": "Physical attack, 75 Earth damage to all foes. 95% accuracy"
             }
         ],
-        "requirements": "Level: 60 SP: 110, DEF: 180, INT: 140, ABI: 80"
+        "requirements": "Level: 60 SP: 110, DEF: 180, INT: 140, ABI: 80",
+        "stage": "mega"
     },
     {
         "id": "242",
@@ -15826,7 +16067,8 @@
                 "description": "Make one member immune to all status effects"
             }
         ],
-        "requirements": "Level: 55 HP: 1100, SP: 100, INT: 100, ABI: 40"
+        "requirements": "Level: 55 HP: 1100, SP: 100, INT: 100, ABI: 40",
+        "stage": "mega"
     },
     {
         "id": "243",
@@ -15905,7 +16147,8 @@
                 "description": "Make one member endure all attacks that could kill you once"
             }
         ],
-        "requirements": "Level: 55 SP: 120, INT: 145, SPD: 100, ABI: 40"
+        "requirements": "Level: 55 SP: 120, INT: 145, SPD: 100, ABI: 40",
+        "stage": "mega"
     },
     {
         "id": "244",
@@ -15985,7 +16228,8 @@
                 "description": "Physical attack, 75 Thunder damage to all foes. 95% accuracy"
             }
         ],
-        "requirements": "Level: 55 ATK: 130, DEF: 120, INT: 120, ABI: 40"
+        "requirements": "Level: 55 ATK: 130, DEF: 120, INT: 120, ABI: 40",
+        "stage": "mega"
     },
     {
         "id": "245",
@@ -16065,7 +16309,8 @@
                 "description": "Physical attack, 75 Wind damage to all foes. 95% accuracy"
             }
         ],
-        "requirements": "Level: 50 ATK: 145, SPD: 120, ABI: 20"
+        "requirements": "Level: 50 ATK: 145, SPD: 120, ABI: 20",
+        "stage": "mega"
     },
     {
         "id": "246",
@@ -16144,7 +16389,8 @@
                 "description": "Make one member immune to all status effects"
             }
         ],
-        "requirements": "Level: 55 SP: 120, INT: 120, SPD: 120, ABI: 20"
+        "requirements": "Level: 55 SP: 120, INT: 120, SPD: 120, ABI: 20",
+        "stage": "mega"
     },
     {
         "id": "247",
@@ -16232,7 +16478,8 @@
                 "description": "Physical attack, 75 Fire damage to all foes. 95% accuracy"
             }
         ],
-        "requirements": "Level: 60 ATK: 180, SPD: 180, ABI: 80, CAM: 80%"
+        "requirements": "Level: 60 ATK: 180, SPD: 180, ABI: 80, CAM: 80%",
+        "stage": "mega"
     },
     {
         "id": "248",
@@ -16313,7 +16560,8 @@
                 "description": "Physical attack, 75 Fire damage to all foes. 95% accuracy"
             }
         ],
-        "requirements": "Level: 55 ATK: 140, SPD: 130, ABI: 20, CAM: 80%"
+        "requirements": "Level: 55 ATK: 140, SPD: 130, ABI: 20, CAM: 80%",
+        "stage": "mega"
     },
     {
         "id": "249",
@@ -16390,7 +16638,8 @@
                 "description": "Make one member immune to all status effects"
             }
         ],
-        "requirements": "Level: 60 HP: 2000, ATK: 250, ABI: 30, CAM: 100%"
+        "requirements": "Level: 60 HP: 2000, ATK: 250, ABI: 30, CAM: 100%",
+        "stage": "mega"
     },
     {
         "id": "250",
@@ -16471,7 +16720,8 @@
                 "description": "Increase COMBO for one member by 100%"
             }
         ],
-        "requirements": "Level: 50 HP: 1000, ATK: 130, DEF: 110, ABI: 20, CAM: 80%"
+        "requirements": "Level: 50 HP: 1000, ATK: 130, DEF: 110, ABI: 20, CAM: 80%",
+        "stage": "mega"
     },
     {
         "id": "251",
@@ -16560,7 +16810,8 @@
                 "description": "Restores a lot of HP for one party member"
             }
         ],
-        "requirements": "Level: 60 DEF: 140, INT: 120, SPD: 150, ABI: 80"
+        "requirements": "Level: 60 DEF: 140, INT: 120, SPD: 150, ABI: 80",
+        "stage": "mega"
     },
     {
         "id": "252",
@@ -16641,7 +16892,8 @@
                 "description": "Physical attack, 75 Wind damage to all foes. 95% accuracy"
             }
         ],
-        "requirements": "Level: 55 HP: 1300, ATK: 130, SPD: 130, ABI: 20"
+        "requirements": "Level: 55 HP: 1300, ATK: 130, SPD: 130, ABI: 20",
+        "stage": "mega"
     },
     {
         "id": "253",
@@ -16720,7 +16972,8 @@
                 "description": "Revive all fallen party members with full HP"
             }
         ],
-        "requirements": "Level: 55 SP: 130, DEF: 130, INT: 150, ABI: 40, CAM: 50%"
+        "requirements": "Level: 55 SP: 130, DEF: 130, INT: 150, ABI: 40, CAM: 50%",
+        "stage": "mega"
     },
     {
         "id": "254",
@@ -16799,7 +17052,8 @@
                 "description": "Increase COMBO for one member by 100%"
             }
         ],
-        "requirements": "Level: 50 DEF: 130, SPD: 130, ABI: 20"
+        "requirements": "Level: 50 DEF: 130, SPD: 130, ABI: 20",
+        "stage": "mega"
     },
     {
         "id": "255",
@@ -16880,7 +17134,8 @@
                 "description": "Physical attack, 75 Thunder damage to all foes. 95% accuracy"
             }
         ],
-        "requirements": "Level: 50 ATK: 150, DEF: 140, ABI: 20"
+        "requirements": "Level: 50 ATK: 150, DEF: 140, ABI: 20",
+        "stage": "mega"
     },
     {
         "id": "256",
@@ -16961,7 +17216,8 @@
                 "description": "Physical attack, 75 Thunder damage to all foes. 95% accuracy"
             }
         ],
-        "requirements": "Level: 50 HP: 1000, ATK: 120, SPD: 130, ABI: 20"
+        "requirements": "Level: 50 HP: 1000, ATK: 120, SPD: 130, ABI: 20",
+        "stage": "mega"
     },
     {
         "id": "257",
@@ -17041,7 +17297,8 @@
                 "description": "Physical attack, 75 Earth damage to all foes. 95% accuracy"
             }
         ],
-        "requirements": "Level: 55 HP: 1400, ATK: 150, INT: 120, ABI: 20"
+        "requirements": "Level: 55 HP: 1400, ATK: 150, INT: 120, ABI: 20",
+        "stage": "mega"
     },
     {
         "id": "258",
@@ -17118,7 +17375,8 @@
                 "description": "Increases SPD of all battle members by 10%"
             }
         ],
-        "requirements": "Level: 55 HP: 1600, ATK: 140, DEF: 130, ABI: 40"
+        "requirements": "Level: 55 HP: 1600, ATK: 140, DEF: 130, ABI: 40",
+        "stage": "mega"
     },
     {
         "id": "259",
@@ -17198,7 +17456,8 @@
                 "description": "Magic attack, 65 Water damage to all foes. 95% accuracy"
             }
         ],
-        "requirements": "Level: 55 DEF: 120, INT: 130, SPD: 130, ABI: 20"
+        "requirements": "Level: 55 DEF: 120, INT: 130, SPD: 130, ABI: 20",
+        "stage": "mega"
     },
     {
         "id": "260",
@@ -17281,7 +17540,8 @@
                 "description": "Physical attack, 75 Fire damage to all foes. 95% accuracy"
             }
         ],
-        "requirements": "Level: 55 HP: 1100, ATK: 180, SPD: 130, ABI: 20"
+        "requirements": "Level: 55 HP: 1100, ATK: 180, SPD: 130, ABI: 20",
+        "stage": "mega"
     },
     {
         "id": "261",
@@ -17361,7 +17621,8 @@
                 "description": "Magic attack, 65 Dark damage to all foes. 95% accuracy"
             }
         ],
-        "requirements": "Level: 60 HP: 1600, ATK: 230, INT: 160, ABI: 80"
+        "requirements": "Level: 60 HP: 1600, ATK: 230, INT: 160, ABI: 80",
+        "stage": "mega"
     },
     {
         "id": "262",
@@ -17451,7 +17712,8 @@
                 "description": "Physical attack, 75 Fire damage to all foes. 95% accuracy"
             }
         ],
-        "requirements": "Level: 60 ATK: 140, DEF: 140, INT: 140, ABI: 80, CAM: 50%"
+        "requirements": "Level: 60 ATK: 140, DEF: 140, INT: 140, ABI: 80, CAM: 50%",
+        "stage": "mega"
     },
     {
         "id": "263",
@@ -17540,7 +17802,8 @@
                 "description": "Physical attack, 75 Wind damage to all foes. 95% accuracy"
             }
         ],
-        "requirements": "Level: 60 HP: 1200, ATK: 140, DEF: 120, SPD: 130, ABI: 80"
+        "requirements": "Level: 60 HP: 1200, ATK: 140, DEF: 120, SPD: 130, ABI: 80",
+        "stage": "mega"
     },
     {
         "id": "264",
@@ -17619,7 +17882,8 @@
                 "description": "Physical attack, 80 Neutral damage to all foes. Always Hits"
             }
         ],
-        "requirements": "Level: 60 HP: 1500, ATK: 140, DEF: 120, ABI: 20"
+        "requirements": "Level: 60 HP: 1500, ATK: 140, DEF: 120, ABI: 20",
+        "stage": "mega"
     },
     {
         "id": "265",
@@ -17700,7 +17964,8 @@
                 "description": "Magic attack, 30 Light damage to one foe. Prevents the use of support skills"
             }
         ],
-        "requirements": "Level: 60 SP: 100, INT: 120, SPD: 140, ABI: 80"
+        "requirements": "Level: 60 SP: 100, INT: 120, SPD: 140, ABI: 80",
+        "stage": "mega"
     },
     {
         "id": "266",
@@ -17779,7 +18044,8 @@
                 "description": "Magic attack, 30 Light damage to one foe. Prevents the use of support skills"
             }
         ],
-        "requirements": "Level: 0 Mode Change"
+        "requirements": "Level: 0 Mode Change",
+        "stage": "ultra"
     },
     {
         "id": "267",
@@ -17858,7 +18124,8 @@
                 "description": "Physical attack, 75 Fire damage to all foes. 95% accuracy"
             }
         ],
-        "requirements": "Level: 50 HP: 1600, ATK: 160, ABI: 20"
+        "requirements": "Level: 50 HP: 1600, ATK: 160, ABI: 20",
+        "stage": "mega"
     },
     {
         "id": "268",
@@ -17937,7 +18204,8 @@
                 "description": "Magic attack, 95 Water damage to one foe. 95% accuracy"
             }
         ],
-        "requirements": "Level: 55 HP: 1000, SP: 100, INT: 130, ABI: 20"
+        "requirements": "Level: 55 HP: 1000, SP: 100, INT: 130, ABI: 20",
+        "stage": "mega"
     },
     {
         "id": "269",
@@ -18016,7 +18284,8 @@
                 "description": "Physical attack, 75 Thunder damage to all foes. 95% accuracy"
             }
         ],
-        "requirements": "Level: 55 ATK: 100, DEF: 130, INT: 100, ABI: 20"
+        "requirements": "Level: 55 ATK: 100, DEF: 130, INT: 100, ABI: 20",
+        "stage": "mega"
     },
     {
         "id": "270",
@@ -18095,7 +18364,8 @@
                 "description": "Physical attack, 80 Neutral damage to all foes. Always Hits"
             }
         ],
-        "requirements": "Level: 50 ATK: 120, DEF: 135, ABI: 2"
+        "requirements": "Level: 50 ATK: 120, DEF: 135, ABI: 2",
+        "stage": "mega"
     },
     {
         "id": "271",
@@ -18174,7 +18444,8 @@
                 "description": "Magic attack, 65 Dark damage to all foes. 95% accuracy"
             }
         ],
-        "requirements": "Level: 60 SP: 160, DEF: 120, INT: 200, ABI: 80"
+        "requirements": "Level: 60 SP: 160, DEF: 120, INT: 200, ABI: 80",
+        "stage": "mega"
     },
     {
         "id": "272",
@@ -18258,7 +18529,8 @@
                 "description": "Physical attack, 75 Earth damage to all foes. 95% accuracy"
             }
         ],
-        "requirements": "Level: 55 ATK: 120, DEF: 130, ABI: 20"
+        "requirements": "Level: 55 ATK: 120, DEF: 130, ABI: 20",
+        "stage": "mega"
     },
     {
         "id": "273",
@@ -18340,7 +18612,8 @@
                 "description": "Magic attack, 65 Dark damage to all foes. 95% accuracy"
             }
         ],
-        "requirements": "Level: 50 ATK: 130, INT: 160, SPD: 110, ABI: 20"
+        "requirements": "Level: 50 ATK: 130, INT: 160, SPD: 110, ABI: 20",
+        "stage": "mega"
     },
     {
         "id": "274",
@@ -18422,7 +18695,8 @@
                 "description": "Magic attack, 65 Plant damage to all foes. 95% accuracy"
             }
         ],
-        "requirements": "Level: 50 ATK: 130, DEF: 130, INT: 130, ABI: 20"
+        "requirements": "Level: 50 ATK: 130, DEF: 130, INT: 130, ABI: 20",
+        "stage": "mega"
     },
     {
         "id": "275",
@@ -18502,7 +18776,8 @@
                 "description": "Reduces SPD of all enemies by 10%"
             }
         ],
-        "requirements": "Level: 65 ABI: 10"
+        "requirements": "Level: 65 ABI: 10",
+        "stage": "mega"
     },
     {
         "id": "276",
@@ -18593,7 +18868,8 @@
                 "description": "Physical attack, 75 Fire damage to all foes. 95% accuracy"
             }
         ],
-        "requirements": "Level: 55 HP: 1800, ATK: 140, DEF: 140, ABI: 20"
+        "requirements": "Level: 55 HP: 1800, ATK: 140, DEF: 140, ABI: 20",
+        "stage": "mega"
     },
     {
         "id": "277",
@@ -18673,7 +18949,8 @@
                 "description": "Restores a lot of HP for one party member"
             }
         ],
-        "requirements": "Level: 45 DEF: 150, ABI: 20"
+        "requirements": "Level: 45 DEF: 150, ABI: 20",
+        "stage": "mega"
     },
     {
         "id": "278",
@@ -18754,7 +19031,8 @@
                 "description": "Physical attack, 75 Earth damage to all foes. 95% accuracy"
             }
         ],
-        "requirements": "Level: 55 HP: 1500, ATK: 160, DEF: 140, ABI: 20"
+        "requirements": "Level: 55 HP: 1500, ATK: 160, DEF: 140, ABI: 20",
+        "stage": "mega"
     },
     {
         "id": "279",
@@ -18834,7 +19112,8 @@
                 "description": "Magic attack, 65 Water damage to all foes. 95% accuracy"
             }
         ],
-        "requirements": "Level: 50 SP: 100, DEF: 120, INT: 145, ABI: 20"
+        "requirements": "Level: 50 SP: 100, DEF: 120, INT: 145, ABI: 20",
+        "stage": "mega"
     },
     {
         "id": "280",
@@ -18915,7 +19194,8 @@
                 "description": "Magic attack, 65 Plant damage to all foes. 95% accuracy"
             }
         ],
-        "requirements": "Level: 50 HP: 1100, DEF: 150, INT: 120, ABI: 20"
+        "requirements": "Level: 50 HP: 1100, DEF: 150, INT: 120, ABI: 20",
+        "stage": "mega"
     },
     {
         "id": "281",
@@ -18995,7 +19275,8 @@
                 "description": "Magic attack, 65 Dark damage to all foes. 95% accuracy"
             }
         ],
-        "requirements": "Level: 60 HP: 2000, ATK: 250, SPD: 150, ABI: 80"
+        "requirements": "Level: 60 HP: 2000, ATK: 250, SPD: 150, ABI: 80",
+        "stage": "mega"
     },
     {
         "id": "282",
@@ -19072,7 +19353,8 @@
                 "description": "Physical attack, 75 Fire damage to all foes. 95% accuracy"
             }
         ],
-        "requirements": "Level: 80 HP: 2100, ATK: 300, SPD: 220, ABI: 100, CAM: 100%"
+        "requirements": "Level: 80 HP: 2100, ATK: 300, SPD: 220, ABI: 100, CAM: 100%",
+        "stage": "mega"
     },
     {
         "id": "283",
@@ -19153,7 +19435,8 @@
                 "description": "Magic attack, 65 Dark damage to all foes. 95% accuracy"
             }
         ],
-        "requirements": "Level: 60 HP: 1700, SP: 140, INT: 180, ABI: 80"
+        "requirements": "Level: 60 HP: 1700, SP: 140, INT: 180, ABI: 80",
+        "stage": "mega"
     },
     {
         "id": "284",
@@ -19232,7 +19515,8 @@
                 "description": "Make one member endure all attacks that could kill you once"
             }
         ],
-        "requirements": "Level: 50 INT: 130, SPD: 150, ABI: 20"
+        "requirements": "Level: 50 INT: 130, SPD: 150, ABI: 20",
+        "stage": "mega"
     },
     {
         "id": "285",
@@ -19311,7 +19595,8 @@
                 "description": "Magic attack, 65 Light damage to all foes. 95% accuracy"
             }
         ],
-        "requirements": "Level: 55 HP: 900, SP: 120, INT: 145, ABI: 20"
+        "requirements": "Level: 55 HP: 900, SP: 120, INT: 145, ABI: 20",
+        "stage": "mega"
     },
     {
         "id": "286",
@@ -19390,7 +19675,8 @@
                 "description": "Physical attack, 75 Thunder damage to all foes. 95% accuracy"
             }
         ],
-        "requirements": "Level: 50 ATK: 145, DEF: 100, ABI: 20"
+        "requirements": "Level: 50 ATK: 145, DEF: 100, ABI: 20",
+        "stage": "mega"
     },
     {
         "id": "287",
@@ -19471,7 +19757,8 @@
                 "description": "Physical attack, 75 Thunder damage to all foes. 95% accuracy"
             }
         ],
-        "requirements": "Level: 50 ATK: 130, SPD: 160, ABI: 20, CAM: 80%"
+        "requirements": "Level: 50 ATK: 130, SPD: 160, ABI: 20, CAM: 80%",
+        "stage": "mega"
     },
     {
         "id": "288",
@@ -19550,7 +19837,8 @@
                 "description": "Physical attack, 75 Thunder damage to all foes. 95% accuracy"
             }
         ],
-        "requirements": "Level: 0 Mode Change"
+        "requirements": "Level: 0 Mode Change",
+        "stage": "mega"
     },
     {
         "id": "289",
@@ -19628,7 +19916,8 @@
                 "description": "Make one member endure all attacks that could kill you once"
             }
         ],
-        "requirements": "Level: 60 SP: 120, ATK: 120, INT: 120, ABI: 80, CAM: 100%, Digimon: LadyDevimon"
+        "requirements": "Level: 60 SP: 120, ATK: 120, INT: 120, ABI: 80, CAM: 100%, Digimon: LadyDevimon",
+        "stage": "mega"
     },
     {
         "id": "290",
@@ -19707,7 +19996,8 @@
                 "description": "Make one member endure all attacks that could kill you once"
             }
         ],
-        "requirements": "Level: 50 SP: 110, INT: 135, ABI: 20, CAM: 50%"
+        "requirements": "Level: 50 SP: 110, INT: 135, ABI: 20, CAM: 50%",
+        "stage": "mega"
     },
     {
         "id": "291",
@@ -19788,7 +20078,8 @@
                 "description": "Physical attack, 80 Neutral damage to all foes. Always Hits"
             }
         ],
-        "requirements": "Level: 55 ATK: 150, SPD: 140, ABI: 20"
+        "requirements": "Level: 55 ATK: 150, SPD: 140, ABI: 20",
+        "stage": "mega"
     },
     {
         "id": "292",
@@ -19869,7 +20160,8 @@
                 "description": "Physical attack, 75 Wind damage to all foes. 95% accuracy"
             }
         ],
-        "requirements": "Level: 55 ATK: 120, SPD: 130, ABI: 20"
+        "requirements": "Level: 55 ATK: 120, SPD: 130, ABI: 20",
+        "stage": "mega"
     },
     {
         "id": "293",
@@ -19946,7 +20238,8 @@
                 "description": "Magic attack, 65 Light damage to all foes. 95% accuracy"
             }
         ],
-        "requirements": "Level: 60 ATK: 200, SPD: 200, ABI: 30, CAM: 100%"
+        "requirements": "Level: 60 ATK: 200, SPD: 200, ABI: 30, CAM: 100%",
+        "stage": "mega"
     },
     {
         "id": "294",
@@ -20028,7 +20321,8 @@
                 "description": "Physical attack, 75 Thunder damage to all foes. 95% accuracy"
             }
         ],
-        "requirements": "Level: 50 HP: 1300, ATK: 130, DEF: 130, ABI: 20"
+        "requirements": "Level: 50 HP: 1300, ATK: 130, DEF: 130, ABI: 20",
+        "stage": "mega"
     },
     {
         "id": "295",
@@ -20108,7 +20402,8 @@
                 "description": "Physical attack, 75 Fire damage to all foes. 95% accuracy"
             }
         ],
-        "requirements": "Level: 55 HP: 1700, ATK: 180, ABI: 40"
+        "requirements": "Level: 55 HP: 1700, ATK: 180, ABI: 40",
+        "stage": "mega"
     },
     {
         "id": "296",
@@ -20188,7 +20483,8 @@
                 "description": "Physical attack, 75 Earth damage to all foes. 95% accuracy"
             }
         ],
-        "requirements": "Level: 45 SP: 100, ATK: 120, DEF: 140, ABI: 20"
+        "requirements": "Level: 45 SP: 100, ATK: 120, DEF: 140, ABI: 20",
+        "stage": "mega"
     },
     {
         "id": "297",
@@ -20279,7 +20575,8 @@
                 "description": "Magic attack, 65 Water damage to all foes. 95% accuracy"
             }
         ],
-        "requirements": "Level: 55 ATK: 130, DEF: 120, SPD: 150, ABI: 20, CAM: 80%"
+        "requirements": "Level: 55 ATK: 130, DEF: 120, SPD: 150, ABI: 20, CAM: 80%",
+        "stage": "mega"
     },
     {
         "id": "298",
@@ -20371,7 +20668,8 @@
                 "description": "Physical attack, 75 Thunder damage to all foes. 95% accuracy"
             }
         ],
-        "requirements": "Level: 55 DEF: 135, SPD: 125, ABI: 20"
+        "requirements": "Level: 55 DEF: 135, SPD: 125, ABI: 20",
+        "stage": "mega"
     },
     {
         "id": "299",
@@ -20452,7 +20750,8 @@
                 "description": "Magic attack, 65 Water damage to all foes. 95% accuracy"
             }
         ],
-        "requirements": "Level: 50 SP: 120, DEF: 120, INT: 120, ABI: 20"
+        "requirements": "Level: 50 SP: 120, DEF: 120, INT: 120, ABI: 20",
+        "stage": "mega"
     },
     {
         "id": "300",
@@ -20530,7 +20829,8 @@
                 "description": "Physical attack, 75 Wind damage to all foes. 95% accuracy"
             }
         ],
-        "requirements": "Level: 55 ATK: 130, INT: 110, SPD: 160, ABI: 20"
+        "requirements": "Level: 55 ATK: 130, INT: 110, SPD: 160, ABI: 20",
+        "stage": "mega"
     },
     {
         "id": "301",
@@ -20609,7 +20909,8 @@
                 "description": "Physical attack, 75 Thunder damage to all foes. 95% accuracy"
             }
         ],
-        "requirements": "Level: 55 HP: 1300, ATK: 180, DEF: 150, ABI: 20"
+        "requirements": "Level: 55 HP: 1300, ATK: 180, DEF: 150, ABI: 20",
+        "stage": "mega"
     },
     {
         "id": "302",
@@ -20688,7 +20989,8 @@
                 "description": "Magic attack, 65 Water damage to all foes. 95% accuracy"
             }
         ],
-        "requirements": "Level: 60 Requires:"
+        "requirements": "Level: 60 Requires:",
+        "stage": "mega"
     },
     {
         "id": "303",
@@ -20766,7 +21068,8 @@
                 "description": "Magic attack, 65 Dark damage to all foes. 95% accuracy"
             }
         ],
-        "requirements": "Level: 60 SP: 200, INT: 250, SPD: 130, ABI: 80"
+        "requirements": "Level: 60 SP: 200, INT: 250, SPD: 130, ABI: 80",
+        "stage": "mega"
     },
     {
         "id": "304",
@@ -20847,7 +21150,8 @@
                 "description": "Physical attack, 75 Wind damage to all foes. 95% accuracy"
             }
         ],
-        "requirements": "Level: 55 ATK: 130, SPD: 160, ABI: 20"
+        "requirements": "Level: 55 ATK: 130, SPD: 160, ABI: 20",
+        "stage": "mega"
     },
     {
         "id": "305",
@@ -20924,7 +21228,8 @@
                 "description": "Magic attack, 30 Light damage to one foe. Prevents the use of support skills"
             }
         ],
-        "requirements": "Level: 60 SP: 160, SPD: 250, ABI: 30, CAM: 100%"
+        "requirements": "Level: 60 SP: 160, SPD: 250, ABI: 30, CAM: 100%",
+        "stage": "mega"
     },
     {
         "id": "306",
@@ -21012,7 +21317,8 @@
                 "description": "Magic attack, 65 Dark damage to all foes. 95% accuracy"
             }
         ],
-        "requirements": "Level: 60 ATK: 120, INT: 135, SPD: 150, ABI: 80, CAM: 50%"
+        "requirements": "Level: 60 ATK: 120, INT: 135, SPD: 150, ABI: 80, CAM: 50%",
+        "stage": "mega"
     },
     {
         "id": "307",
@@ -21093,7 +21399,8 @@
                 "description": "Magic attack, 65 Plant damage to all foes. 95% accuracy"
             }
         ],
-        "requirements": "Level: 55 SP: 120, INT: 120, ABI: 20"
+        "requirements": "Level: 55 SP: 120, INT: 120, ABI: 20",
+        "stage": "mega"
     },
     {
         "id": "308",
@@ -21170,7 +21477,8 @@
                 "description": "Revive all fallen party members with full HP"
             }
         ],
-        "requirements": "Level: 60 SP: 170, INT: 180, ABI: 30, CAM: 100%"
+        "requirements": "Level: 60 SP: 170, INT: 180, ABI: 30, CAM: 100%",
+        "stage": "mega"
     },
     {
         "id": "309",
@@ -21249,7 +21557,8 @@
                 "description": "Magic attack, 65 Plant damage to all foes. 95% accuracy"
             }
         ],
-        "requirements": "Level: 55 INT: 170, SPD: 130, ABI: 20"
+        "requirements": "Level: 55 INT: 170, SPD: 130, ABI: 20",
+        "stage": "mega"
     },
     {
         "id": "310",
@@ -21336,7 +21645,8 @@
                 "description": "Reduces INT of all enemies by 10%"
             }
         ],
-        "requirements": "Level: 70 HP: 2000, SP: 140, ATK: 290, ABI: 100"
+        "requirements": "Level: 70 HP: 2000, SP: 140, ATK: 290, ABI: 100",
+        "stage": "ultra"
     },
     {
         "id": "311",
@@ -21413,7 +21723,8 @@
                 "description": "Magic attack, 65 Dark damage to all foes. 95% accuracy"
             }
         ],
-        "requirements": ""
+        "requirements": "",
+        "stage": "ultra"
     },
     {
         "id": "312",
@@ -21491,7 +21802,8 @@
                 "description": "Physical attack, 105 Dark damage to one foe. 95% accuracy"
             }
         ],
-        "requirements": "Level: 60 ATK: 180, DEF: 170, INT: 150, ABI: 80, CAM: 100%, Digimon: Ouryumon"
+        "requirements": "Level: 60 ATK: 180, DEF: 170, INT: 150, ABI: 80, CAM: 100%, Digimon: Ouryumon",
+        "stage": "ultra"
     },
     {
         "id": "313",
@@ -21568,7 +21880,8 @@
                 "description": "Revive all fallen party members with full HP"
             }
         ],
-        "requirements": "Level: 70 ATK: 160, DEF: 160, INT: 160, SPD: 160, ABI: 100"
+        "requirements": "Level: 70 ATK: 160, DEF: 160, INT: 160, SPD: 160, ABI: 100",
+        "stage": "ultra"
     },
     {
         "id": "314",
@@ -21656,7 +21969,8 @@
                 "description": "Physical attack, 75 Wind damage to all foes. 95% accuracy"
             }
         ],
-        "requirements": "Level: 60 HP: 1650, ATK: 150, SPD: 150, ABI: 100, CAM: 100%, Digimon: Breakdramon"
+        "requirements": "Level: 60 HP: 1650, ATK: 150, SPD: 150, ABI: 100, CAM: 100%, Digimon: Breakdramon",
+        "stage": "ultra"
     },
     {
         "id": "315",
@@ -21744,7 +22058,8 @@
                 "description": "Magic attack, 95 Light damage to one foe. 95% accuracy"
             }
         ],
-        "requirements": "Level: 60 ATK: 200, INT: 150, SPD: 150, ABI: 40, CAM: 100%, Digimon: MetalGarurumon"
+        "requirements": "Level: 60 ATK: 200, INT: 150, SPD: 150, ABI: 40, CAM: 100%, Digimon: MetalGarurumon",
+        "stage": "ultra"
     },
     {
         "id": "316",
@@ -21832,7 +22147,8 @@
                 "description": "Magic attack, 65 Dark damage to all foes. 95% accuracy"
             }
         ],
-        "requirements": "Level: 60 HP: 1500, ATK: 150, DEF: 200, ABI: 40, CAM: 100%, Digimon: MetalGarurumon (Blk)"
+        "requirements": "Level: 60 HP: 1500, ATK: 150, DEF: 200, ABI: 40, CAM: 100%, Digimon: MetalGarurumon (Blk)",
+        "stage": "ultra"
     },
     {
         "id": "317",
@@ -21920,7 +22236,8 @@
                 "description": "Magic attack, 30 Neutral damage to one foe. Makes target buggy. 70% accuracy"
             }
         ],
-        "requirements": "Level: 60 ATK: 255, ABI: 40, CAM: 100%, Digimon: Darkdramon"
+        "requirements": "Level: 60 ATK: 255, ABI: 40, CAM: 100%, Digimon: Darkdramon",
+        "stage": "ultra"
     },
     {
         "id": "318",
@@ -22008,7 +22325,8 @@
                 "description": "Magic attack, 30 Neutral damage to one foe. Makes target buggy. 70% accuracy"
             }
         ],
-        "requirements": "Level: 60 ATK: 155, INT: 100, ABI: 40, CAM: 100%, Digimon: BanchoLeomon"
+        "requirements": "Level: 60 ATK: 155, INT: 100, ABI: 40, CAM: 100%, Digimon: BanchoLeomon",
+        "stage": "ultra"
     },
     {
         "id": "319",
@@ -22096,7 +22414,8 @@
                 "description": "Revive all fallen party members with full HP"
             }
         ],
-        "requirements": "Level: 60 HP: 1000, ATK: 150, INT: 150, ABI: 100, CAM: 100%, Digimon: MagnaGarurumon"
+        "requirements": "Level: 60 HP: 1000, ATK: 150, INT: 150, ABI: 100, CAM: 100%, Digimon: MagnaGarurumon",
+        "stage": "ultra"
     },
     {
         "id": "320",
@@ -22173,7 +22492,8 @@
                 "description": "Restores a lot of HP for one party member"
             }
         ],
-        "requirements": "Level: 80 ATK: 185, DEF: 185, INT: 185, ABI: 80, CAM: 100%"
+        "requirements": "Level: 80 ATK: 185, DEF: 185, INT: 185, ABI: 80, CAM: 100%",
+        "stage": "ultra"
     },
     {
         "id": "321",
@@ -22252,7 +22572,8 @@
                 "description": "Magic attack, 65 Dark damage to all foes. 95% accuracy"
             }
         ],
-        "requirements": "Level: 0 Mode Change"
+        "requirements": "Level: 0 Mode Change",
+        "stage": "ultra"
     },
     {
         "id": "322",
@@ -22329,7 +22650,8 @@
                 "description": "Magic attack, 30 Light damage to one foe. Prevents the use of support skills"
             }
         ],
-        "requirements": "Level: 70 HP: 1400, SP: 160, ATK: 130, INT: 250, SPD: 170, ABI: 100"
+        "requirements": "Level: 70 HP: 1400, SP: 160, ATK: 130, INT: 250, SPD: 170, ABI: 100",
+        "stage": "ultra"
     },
     {
         "id": "323",
@@ -22386,7 +22708,8 @@
                 "description": "Physical attack, 105 Fire damage to one foe. 95% accuracy"
             }
         ],
-        "requirements": "Level: 14 ATK: 40, SPD: 40, CAM: 25%, Item: Digi-Egg of Courage"
+        "requirements": "Level: 14 ATK: 40, SPD: 40, CAM: 25%, Item: Digi-Egg of Courage",
+        "stage": "armor"
     },
     {
         "id": "324",
@@ -22474,7 +22797,8 @@
                 "description": "Physical attack, 75 Earth damage to all foes. 95% accuracy"
             }
         ],
-        "requirements": "Level: 60 ATK: 120, DEF: 145, ABI: 80, CAM: 50%, Item: Digi-Egg of Miracles"
+        "requirements": "Level: 60 ATK: 120, DEF: 145, ABI: 80, CAM: 50%, Item: Digi-Egg of Miracles",
+        "stage": "armor"
     },
     {
         "id": "325",
@@ -22552,7 +22876,8 @@
                 "description": "Magic attack, 65 Light damage to all foes. 95% accuracy"
             }
         ],
-        "requirements": "Level: 50 ATK: 100, DEF: 120, INT: 120, ABI: 40, CAM: 50%, Item: Digi-Egg of Destiny"
+        "requirements": "Level: 50 ATK: 100, DEF: 120, INT: 120, ABI: 40, CAM: 50%, Item: Digi-Egg of Destiny",
+        "stage": "armor"
     },
     {
         "id": "326",
@@ -22601,7 +22926,8 @@
                 "description": "Physical attack, 40 Earth damage to one foe. Stuns target. 70% accuracy"
             }
         ],
-        "requirements": "Level: 8 ATK: 30, SPD: 20, CAM: 10%"
+        "requirements": "Level: 8 ATK: 30, SPD: 20, CAM: 10%",
+        "stage": "none"
     },
     {
         "id": "327",
@@ -22688,7 +23014,8 @@
                 "description": "Physical attack, 80 Neutral damage to all foes. Always Hits"
             }
         ],
-        "requirements": "Level: 60 ATK: 130, DEF: 130, SPD: 120, ABI: 80"
+        "requirements": "Level: 60 ATK: 130, DEF: 130, SPD: 120, ABI: 80",
+        "stage": "none"
     },
     {
         "id": "328",
@@ -22739,7 +23066,8 @@
                 "description": "Increases CRIT of one battle member by 10%"
             }
         ],
-        "requirements": "Level: 8 ATK: 30, DEF: 30"
+        "requirements": "Level: 8 ATK: 30, DEF: 30",
+        "stage": "rookie"
     },
     {
         "id": "329",
@@ -22802,7 +23130,8 @@
                 "description": "Increases SPD of one member by 10%"
             }
         ],
-        "requirements": "Level: 14 ATK: 40, DEF: 40"
+        "requirements": "Level: 14 ATK: 40, DEF: 40",
+        "stage": "champion"
     },
     {
         "id": "330",
@@ -22876,7 +23205,8 @@
                 "description": "Increases CRIT of one battle member by 10%"
             }
         ],
-        "requirements": "Level: 30 HP: 400, ATK: 95, DEF: 75"
+        "requirements": "Level: 30 HP: 400, ATK: 95, DEF: 75",
+        "stage": "ultimate"
     },
     {
         "id": "331",
@@ -22957,7 +23287,8 @@
                 "description": "Physical attack, 80 Neutral damage to all foes. Always Hits"
             }
         ],
-        "requirements": "Level: 50 HP: 1300, ATK: 180, ABI: 20"
+        "requirements": "Level: 50 HP: 1300, ATK: 180, ABI: 20",
+        "stage": "mega"
     },
     {
         "id": "332",
@@ -23037,7 +23368,8 @@
                 "description": "Physical attack, 80 Neutral damage to all foes. Always Hits"
             }
         ],
-        "requirements": "Level: 99 ABI: 120"
+        "requirements": "Level: 99 ABI: 120",
+        "stage": "ultra"
     },
     {
         "id": "333",
@@ -23099,7 +23431,8 @@
                 "description": "Magic attack, 55 Light damage to one foe. 95% accuracy"
             }
         ],
-        "requirements": "Level: 7 SP: 20, INT: 30, CAM: 50%, DLC Required"
+        "requirements": "Level: 7 SP: 20, INT: 30, CAM: 50%, DLC Required",
+        "stage": "rookie"
     },
     {
         "id": "334",
@@ -23186,7 +23519,8 @@
                 "description": "Revive all fallen party members with full HP"
             }
         ],
-        "requirements": "Level: 60 HP: 1150, SP: 130, INT: 150, ABI: 50, DLC Required"
+        "requirements": "Level: 60 HP: 1150, SP: 130, INT: 150, ABI: 50, DLC Required",
+        "stage": "mega"
     },
     {
         "id": "335",
@@ -23249,7 +23583,8 @@
                 "description": "Magic attack, 20 Dark damage to all foes. 95% accuracy"
             }
         ],
-        "requirements": "Level: 14 SP: 40, SPD: 50, CAM: 10%, DLC Required"
+        "requirements": "Level: 14 SP: 40, SPD: 50, CAM: 10%, DLC Required",
+        "stage": "champion"
     },
     {
         "id": "336",
@@ -23336,7 +23671,8 @@
                 "description": "Restores a lot of HP for all party members"
             }
         ],
-        "requirements": "Level: 60 HP: 1150, ATK: 130, SPD: 150, ABI: 50, DLC Required"
+        "requirements": "Level: 60 HP: 1150, ATK: 130, SPD: 150, ABI: 50, DLC Required",
+        "stage": "mega"
     },
     {
         "id": "337",
@@ -23421,7 +23757,8 @@
                 "description": "Increase COMBO for one member by 100%"
             }
         ],
-        "requirements": ""
+        "requirements": "",
+        "stage": "mega"
     },
     {
         "id": "338",
@@ -23506,7 +23843,8 @@
                 "description": "Physical attack, 80 Neutral damage to all foes. Always Hits"
             }
         ],
-        "requirements": ""
+        "requirements": "",
+        "stage": "mega"
     },
     {
         "id": "339",
@@ -23591,7 +23929,8 @@
                 "description": "Magic attack, 65 Water damage to all foes. 95% accuracy"
             }
         ],
-        "requirements": ""
+        "requirements": "",
+        "stage": "mega"
     },
     {
         "id": "340",
@@ -23676,7 +24015,8 @@
                 "description": "Revive all fallen party members with full HP"
             }
         ],
-        "requirements": ""
+        "requirements": "",
+        "stage": "mega"
     },
     {
         "id": "341",
@@ -23761,6 +24101,7 @@
                 "description": "Magic attack, 95 Wind damage to one foe. 95% accuracy"
             }
         ],
-        "requirements": ""
+        "requirements": "",
+        "stage": "mega"
     }
 ]
