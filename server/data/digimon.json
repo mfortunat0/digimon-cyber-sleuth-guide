@@ -183,7 +183,7 @@
                 "description": "Physical attack, 50 Neutral damage to one foe. Absorb 10% SP"
             }
         ],
-        "requirements": "Level: 8 ATK: 55, ABI: 5, Cleared \"Hacker's Memory\"",
+        "requirements": "Level: 8 ATK: 55, ABI: 5, Cleared 'Hacker's Memory'",
         "stage": "in-Training"
     },
     {
@@ -823,7 +823,7 @@
                 "description": "Physical attack, 65 Dark damage to one foe. 95% accuracy"
             }
         ],
-        "requirements": "",
+        "requirements": "Level: 6 ATK: 90, SPD: 20, Cleared 'Hacker's Memory'",
         "stage": "rookie"
     },
     {
@@ -3555,7 +3555,7 @@
                 "description": "Counterattacks the enemy when you receive a physical attack"
             }
         ],
-        "requirements": "",
+        "requirements": "Level: 16 ATK: 50, INT: 40, Cleared 'Hacker's Memory'",
         "stage": "champion"
     },
     {
@@ -8330,7 +8330,7 @@
                 "description": "Physical attack, 85 Light damage to one foe. 95% accuracy"
             }
         ],
-        "requirements": "",
+        "requirements": "Level: 30 ATK: 110, INT: 85, Cleared Cleared 'Hacker's Memory'",
         "stage": "ultimate"
     },
     {
@@ -9989,7 +9989,7 @@
                 "description": "Magic attack, 95 Earth damage to one foe. 95% accuracy"
             }
         ],
-        "requirements": "Level: 30 DEF: 75, INT: 65, CAM: 100%, Digimon: Angemon",
+        "requirements": "Level: 30 DEF: 75, INT: 65, CAM: 100%, Digimon: Angemon + Ankylomon",
         "stage": "ultimate"
     },
     {
@@ -10139,7 +10139,7 @@
                 "description": "Physical attack, 105 Wind damage to one foe. 95% accuracy"
             }
         ],
-        "requirements": "Level: 30 ATK: 60, INT: 75, SPD: 75, CAM: 100%, Digimon: Gatomon",
+        "requirements": "Level: 30 ATK: 60, INT: 75, SPD: 75, CAM: 100%, Digimon: Gatomon + Aquilamon",
         "stage": "ultimate"
     },
     {
@@ -11479,7 +11479,7 @@
                 "description": "Counterattacks the enemy when you receive a physical attack"
             }
         ],
-        "requirements": "Level: 30 ATK: 90, DEF: 60, SPD: 75, CAM: 100%, Digimon: Stingmon",
+        "requirements": "Level: 30 ATK: 90, DEF: 60, SPD: 75, CAM: 100%, Digimon: ExVeemon + Stingmon",
         "stage": "ultimate"
     },
     {
@@ -14056,7 +14056,7 @@
                 "description": "Reduce COMBO for one enemy by 100%"
             }
         ],
-        "requirements": "",
+        "requirements": "Level: 60 SP: 130, ATK: 200, SPD: 100, ABI: 40, Cleared 'Hacker's Memory'",
         "stage": "mega"
     },
     {
@@ -19916,7 +19916,7 @@
                 "description": "Make one member endure all attacks that could kill you once"
             }
         ],
-        "requirements": "Level: 60 SP: 120, ATK: 120, INT: 120, ABI: 80, CAM: 100%, Digimon: LadyDevimon",
+        "requirements": "Level: 60 SP: 120, ATK: 120, INT: 120, ABI: 80, CAM: 100%, Digimon: Angewomon + LadyDevimon",
         "stage": "mega"
     },
     {
@@ -21723,7 +21723,7 @@
                 "description": "Magic attack, 65 Dark damage to all foes. 95% accuracy"
             }
         ],
-        "requirements": "",
+        "requirements": "Level: 70 SP: 150, ATK: 250, INT: 150, SPD: 160, ABI: 60, Cleared 'Hacker's Memory'",
         "stage": "ultra"
     },
     {
@@ -21802,7 +21802,7 @@
                 "description": "Physical attack, 105 Dark damage to one foe. 95% accuracy"
             }
         ],
-        "requirements": "Level: 60 ATK: 180, DEF: 170, INT: 150, ABI: 80, CAM: 100%, Digimon: Ouryumon",
+        "requirements": "Level: 60 ATK: 180, DEF: 170, INT: 150, ABI: 80, CAM: 100%, Digimon: Alphamon + Ouryumon",
         "stage": "ultra"
     },
     {
@@ -21969,7 +21969,7 @@
                 "description": "Physical attack, 75 Wind damage to all foes. 95% accuracy"
             }
         ],
-        "requirements": "Level: 60 HP: 1650, ATK: 150, SPD: 150, ABI: 100, CAM: 100%, Digimon: Breakdramon",
+        "requirements": "Level: 60 HP: 1650, ATK: 150, SPD: 150, ABI: 100, CAM: 100%, Digimon: Slayerdramon + Breakdramon",
         "stage": "ultra"
     },
     {
@@ -22058,7 +22058,7 @@
                 "description": "Magic attack, 95 Light damage to one foe. 95% accuracy"
             }
         ],
-        "requirements": "Level: 60 ATK: 200, INT: 150, SPD: 150, ABI: 40, CAM: 100%, Digimon: MetalGarurumon",
+        "requirements": "Level: 60 ATK: 200, INT: 150, SPD: 150, ABI: 40, CAM: 100%, Digimon: MetalGarurumon + Wargreymon",
         "stage": "ultra"
     },
     {
@@ -22147,7 +22147,7 @@
                 "description": "Magic attack, 65 Dark damage to all foes. 95% accuracy"
             }
         ],
-        "requirements": "Level: 60 HP: 1500, ATK: 150, DEF: 200, ABI: 40, CAM: 100%, Digimon: MetalGarurumon (Blk)",
+        "requirements": "Level: 60 HP: 1500, ATK: 150, DEF: 200, ABI: 40, CAM: 100%, Digimon: MetalGarurumon (Blk) + Wargreymon (Blk)",
         "stage": "ultra"
     },
     {
@@ -22236,7 +22236,7 @@
                 "description": "Magic attack, 30 Neutral damage to one foe. Makes target buggy. 70% accuracy"
             }
         ],
-        "requirements": "Level: 60 ATK: 255, ABI: 40, CAM: 100%, Digimon: Darkdramon",
+        "requirements": "Level: 60 ATK: 255, ABI: 40, CAM: 100%, Digimon: BanchoLeomon + Darkdramon",
         "stage": "ultra"
     },
     {
@@ -22325,7 +22325,7 @@
                 "description": "Magic attack, 30 Neutral damage to one foe. Makes target buggy. 70% accuracy"
             }
         ],
-        "requirements": "Level: 60 ATK: 155, INT: 100, ABI: 40, CAM: 100%, Digimon: BanchoLeomon",
+        "requirements": "Level: 60 ATK: 155, INT: 100, ABI: 40, CAM: 100%, Digimon: Varodurumon + BanchoLeomon",
         "stage": "ultra"
     },
     {
@@ -22414,7 +22414,7 @@
                 "description": "Revive all fallen party members with full HP"
             }
         ],
-        "requirements": "Level: 60 HP: 1000, ATK: 150, INT: 150, ABI: 100, CAM: 100%, Digimon: MagnaGarurumon",
+        "requirements": "Level: 60 HP: 1000, ATK: 150, INT: 150, ABI: 100, CAM: 100%, Digimon: KaiserGreymon + MagnaGarurumon",
         "stage": "ultra"
     },
     {
