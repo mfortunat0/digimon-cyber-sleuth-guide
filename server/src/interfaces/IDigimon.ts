@@ -3,6 +3,7 @@ import ISkill from "./ISkill";
 interface IDigimon {
     id: string;
     name: string;
+    stage: string;
     type: string;
     memory: string;
     requirements: string;
