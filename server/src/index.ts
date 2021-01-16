@@ -21,7 +21,7 @@ app.use(cors());
 app.use(router);
 app.use("/images", express.static(join(__dirname, "../images")));
 
-app.listen(3001, () => console.log("Rest on port 3000"));
+app.listen(3001, () => console.log("Rest on port 3001"));
 server.listen().then(() => {
     console.log("Graphql on port 4000");
 });
