@@ -148,7 +148,7 @@
     },
     {
         "id": "006",
-        "name": "arcadiamon in-tr.",
+        "name": "arcadiamon in-tr",
         "type": "free",
         "memory": "3",
         "attribute": "dark",
@@ -784,7 +784,7 @@
         "supSkillName": "Utopia",
         "supSkillDescribe": "Reduces chance of Instant Death by 50%, and increases CRT by 10%.",
         "digivolveFrom": [
-            "arcadiamon in-tr."
+            "arcadiamon in-tr"
         ],
         "digivolveInto": [
             "arcadiamon champion",
