@@ -34,6 +34,12 @@ export default function Home() {
     getData();
   }, []);
 
+  const imageEvoClick = (name: string) => {
+    setDescribeShow(true);
+    setEvolutionsShow(false);
+    setDigimon(data.find((value) => value.name === name));
+  };
+
   return (
     <>
       <Head>
@@ -86,7 +92,7 @@ export default function Home() {
               </TabContainer>
               <Row justifyContent="center">
                 <ProfileImage
-                  source={`http://localhost:3001/images/${digimon?.name.toLowerCase()}.jpg`}
+                  source={`http://localhost:3001/images/${digimon?.name.toLowerCase()}.png`}
                 />
               </Row>
               <ProfileName>{digimon?.name}</ProfileName>
@@ -131,24 +137,38 @@ export default function Home() {
                 </Row>
               </DescribeContainer>
               <Row justifyContent="center">
-                <EvolutionContainer show={evolutionsShow}>
-                  <EvoltutionTitle>Digivolves From</EvoltutionTitle>
-                  <Row justifyContent="center">
-                    <EvoltuionImages source="/digimons/greymon.jpg" />
-                    <EvoltuionImages source="/digimons/geogreymon.jpg" />
-                    <EvoltuionImages source="/digimons/meramon.jpg" />
-                    <EvoltuionImages source="/digimons/tyrannomon.jpg" />
-                  </Row>
-                </EvolutionContainer>
-                <EvolutionContainer show={evolutionsShow}>
-                  <EvoltutionTitle>Digivolves Into</EvoltutionTitle>
-                  <Row justifyContent="center">
-                    <EvoltuionImages source="/digimons/greymon.jpg" />
-                    <EvoltuionImages source="/digimons/geogreymon.jpg" />
-                    <EvoltuionImages source="/digimons/meramon.jpg" />
-                    <EvoltuionImages source="/digimons/tyrannomon.jpg" />
-                  </Row>
-                </EvolutionContainer>
+                {digimon.digivolveFrom.length > 0 && (
+                  <>
+                    <EvolutionContainer show={evolutionsShow}>
+                      <EvoltutionTitle>Digivolves From</EvoltutionTitle>
+                      <Row justifyContent="center">
+                        {digimon.digivolveFrom.map((value, index) => (
+                          <EvoltuionImages
+                            onClick={() => imageEvoClick(value)}
+                            key={index}
+                            source={`http://localhost:3001/images/${value}.png`}
+                          />
+                        ))}
+                      </Row>
+                    </EvolutionContainer>
+                  </>
+                )}
+                {digimon.digivolveInto.length > 0 && (
+                  <>
+                    <EvolutionContainer show={evolutionsShow}>
+                      <EvoltutionTitle>Digivolves Into</EvoltutionTitle>
+                      <Row justifyContent="center">
+                        {digimon.digivolveInto.map((value, index) => (
+                          <EvoltuionImages
+                            onClick={() => imageEvoClick(value)}
+                            key={index}
+                            source={`http://localhost:3001/images/${value}.png`}
+                          />
+                        ))}
+                      </Row>
+                    </EvolutionContainer>
+                  </>
+                )}
               </Row>
             </CardContainer>
           </Row>
