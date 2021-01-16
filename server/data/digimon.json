@@ -26,7 +26,7 @@
                 "description": "Magic attack, 30 Dark damage to one foe"
             }
         ],
-        "requirements": "",
+        "requirements": "nothing",
         "stage": "baby"
     },
     {
@@ -56,7 +56,7 @@
                 "description": "Physical attack, 25 Plant damage to one foe. 10% chance of reducing target's SPD by 10%"
             }
         ],
-        "requirements": "",
+        "requirements": "nothing",
         "stage": "baby"
     },
     {
@@ -85,7 +85,7 @@
                 "description": "Magic attack, 30 Water damage to one foe"
             }
         ],
-        "requirements": "",
+        "requirements": "nothing",
         "stage": "baby"
     },
     {
@@ -114,7 +114,7 @@
                 "description": "Magic attack, 30 Water damage to one foe"
             }
         ],
-        "requirements": "",
+        "requirements": "nothing",
         "stage": "baby"
     },
     {
@@ -143,7 +143,7 @@
                 "description": "Magic attack, 35 Water damage to one foe"
             }
         ],
-        "requirements": "",
+        "requirements": "nothing",
         "stage": "baby"
     },
     {
