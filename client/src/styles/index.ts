@@ -57,7 +57,7 @@ const Button = styled.button`
 const ProfileImage = styled.div<IProfileImage>`
   height: 14vh;
   width: 14vh;
-  background-image: url(${(props) => props.source});
+  background-image: url(${(props) => `"${props.source}"`});
   background-size: cover;
   border-radius: 4px;
 `;
@@ -68,7 +68,7 @@ const CardContainer = styled.div`
   background-color: #008ec7;
   box-shadow: 0px 0px 7px 0px rgba(0, 142, 199, 1);
   border-radius: 2px;
-  height: 78vh;
+  height: 84vh;
   width: 425px;
   @media (max-width: 425px) {
     overflow: auto;
@@ -111,18 +111,15 @@ const EvoltutionTitle = styled.h3`
 `;
 
 const EvoltuionImages = styled.div<IProfileImage>`
-  height: 7vh;
-  width: 7vh;
-  background-image: url(${(props) => props.source});
+  height: 9vh;
+  width: 9vh;
+  background-image: url(${(props) => `"${props.source}"`});
   background-size: cover;
   border-radius: 4px;
   margin-left: 0.3vw;
+  margin-bottom: 0.3vw;
   transition: all 0.3s;
   cursor: pointer;
-  :hover {
-    height: 10vh;
-    width: 10vh;
-  }
 `;
 
 const EvolutionContainer = styled.div<IContainer>`
