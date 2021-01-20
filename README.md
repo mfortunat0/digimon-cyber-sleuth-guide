@@ -13,18 +13,38 @@
 <h4 align=center>
 <img src="mobile.gif" width=60%/>
 </h4>
+
+For development, run script
+```bash
+#YARN
+yarn dev
+
+#NPM
+npm dev
+```
+
+For production, run docker compose
+```bash
+docker-compose up
+```
+
 <br /><br />
 <h1 align=center>🛠 Server</h1>
 <p align=center>Building with <a href="https://nodejs.org">Node.js</a>,<a href="https://www.typescriptlang.org/">typescript</a>, <a href="https://expressjs.com/">Express.js</a>, <a href="https://www.apollographql.com/docs/apollo-server/">Apollo server</a>
 </p>
-For development, run dev script in folder
+For development, run docker compose
 
 ```bash
-# YARN
-yarn dev
+docker-compose up
+```
 
-# NPM
-npm dev
+For production, run script
+```bash
+#YARN
+yarn build && yarn start
+
+#NPM
+npm build && npm start
 ```
 <h2 align=center>REST Api</h2>
 After start, you can access <a href="http://localhost:3001/digimons">http://localhost:3001/digimons</a> to get all informations of digimons.<br />
